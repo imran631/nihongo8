@@ -4,11 +4,20 @@
 .tac { text-align: center; }
 .tar { text-align: right; }
 
+.mt5 { margin-top: 5px !important; }
 .mt8 { margin-top: 8px !important; }
+.mt70 { margin-top: 70px !important; }
 
+.mb0 { margin-bottom: 0px !important; }
 .mb30 { margin-bottom: 30px !important; }
 
+.pt15 { padding-top: 15px !important; }
+
+.pb15 { padding-bottom: 15px !important; }
+
 .w100p { width: 100% !important; }
+
+.fz18 { font-size: 18px !important; }
 
 .color-link { color: #2196F3 !important; }
 .color-sm { color: rgba(39,44,51,.7) !important; }

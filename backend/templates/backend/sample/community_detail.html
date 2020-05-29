@@ -1,0 +1,127 @@
+{% extends "backend/base/base.html" %}
+
+{% block content %}
+<div class="container page__container mt70">
+  <div class="page-section">
+
+    <div class="row">
+      <div class="col-md-8">
+
+        <!-- Post -->
+        <h1 class="h2 measure-lead-max mb-2">
+          [이벤트] 이번 달 포인트가 가장 높은 사용자에게 스타벅스 상품권 증정
+        </h1>
+        <p class="text-muted d-flex align-items-center mb-lg-32pt">
+          <a href="/sample/community" class="mr-3">목록으로</a>
+          <a href="#" class="mr-2 text-50">신고</a>
+          <a href="/sample/community/modify" class="mr-2 text-50">수정</a>
+          <a href="#" class="mr-2 text-50">삭제</a>
+        </p>
+        <div class="card card-body">
+          <div class="d-flex">
+            <a href="" class="avatar avatar-sm avatar-online mr-12pt">
+              <img src="/static/img/sample/p1.jpg" alt="people" class="avatar-img rounded-circle">
+              <!-- <span class="avatar-title rounded-circle">JD</span> -->
+            </a>
+            <div class="flex">
+              <p class="d-flex align-items-center mb-2">
+                <a href="" class="text-body mr-2">
+                  <strong>강동원</strong>
+                </a>
+                <small class="text-muted">2020-05-29 13:48</small>
+              </p>
+              <p>안녕하세요 운영자입니다</p>
+              <p>이번 달 포인트가 가장 높은 사용자에게 스타벅스 상품권 증정하기로 했습니다</p>
+              <p>앞으로도 혜택 받으면서 무료로 열심히 공부하시길 바랍니다!</p>
+              <div class="d-flex align-items-center">
+                <a href="" class="text-50 d-flex align-items-center text-decoration-0">
+                  <i class="material-icons mr-1" style="font-size: inherit;">favorite_border</i> 
+                  24
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Post // END -->
+
+        <!-- Reply Write -->
+        <div class="d-flex mb-4">
+          <a href="#" class="avatar avatar-sm mr-12pt">
+            <img src="/static/img/sample/p2.jpg" alt="people" class="avatar-img rounded-circle">
+            <!-- <span class="avatar-title rounded-circle">LB</span> -->
+          </a>
+          <div class="flex">
+            <div class="form-group">
+              <label for="comment" class="form-label">아이유</label>
+              <textarea 
+                class="form-control" 
+                name="comment" 
+                id="comment" 
+                rows="3"
+                placeholder="댓글을 입력하세요">
+                </textarea>
+            </div>
+            <button class="btn btn-outline-secondary">댓글 작성</button>
+          </div>
+        </div>
+        <!-- Reply Write // END -->
+
+        {% include "backend/sample/reply_ex3.html" %}  
+
+      </div>
+      <div class="col-md-4">
+
+        <div class="page-separator">
+          <div class="page-separator__text">커뮤니티 활동 TOP 10</div>
+        </div>
+        <p class="text-70 mb0">이번 달 가장 많이 커뮤니티 활동한 분들</p>
+        <p class="text-70 mb-24pt">커뮤니티를 적극적으로 이용해주셔서 감사합니다</p>        
+        <div class="mb-4">
+
+          <!-- profile info -->
+          <div class="d-flex align-items-center mb-2">
+            <a href="#" class="avatar avatar-xs mr-8pt">
+              <img src="/static/img/sample/p3.jpg" alt="course" class="avatar-img rounded-circle">
+            </a>
+            <a href="#" class="flex mr-2 text-body">
+              <strong>이시하라사토미</strong>
+            </a>
+            <span class="text-70 mr-2">235</span>
+            <i class="text-muted material-icons font-size-16pt">forum</i>
+          </div>
+          <!-- profile info // END -->
+
+          <!-- profile info -->
+          <div class="d-flex align-items-center mb-2">
+            <a href="#" class="avatar avatar-xs mr-8pt">
+              <img src="/static/img/sample/p2.jpg" alt="course" class="avatar-img rounded-circle">
+            </a>
+            <a href="#" class="flex mr-2 text-body">
+              <strong>아이유</strong>
+            </a>
+            <span class="text-70 mr-2">131</span>
+            <i class="text-muted material-icons font-size-16pt">forum</i>
+          </div>
+          <!-- profile info // END -->
+
+          <!-- profile info -->
+          <div class="d-flex align-items-center mb-2">
+            <a href="#" class="avatar avatar-xs mr-8pt">
+              <img src="/static/img/sample/p4.jpg" alt="course" class="avatar-img rounded-circle">
+            </a>
+            <a href="#" class="flex mr-2 text-body">
+              <strong>아라가키유이</strong>
+            </a>
+            <span class="text-70 mr-2">78</span>
+            <i class="text-muted material-icons font-size-16pt">forum</i>
+          </div>
+          <!-- profile info // END -->
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,94 @@
+{% extends "backend/base/base.html" %}
+
+{% block content %}
+<div class="container page__container mt70">
+  <form action="fixed-discussions.html">
+    <div class="row">
+      <div class="col-lg-9">
+        <div class="page-section">
+          <div class="flex">
+            <p class="lh-1 d-flex align-items-center mb-0">
+              <span class="text-50 small">공지사항</span>
+            </p>
+            <h4>게시글 작성</h4>
+          </div>
+          <div class="card--connect pb15">
+            <div class="card o-hidden mb-0">
+              <div class="card-body table--elevated">
+                <div class="form-group m-0" role="group" aria-labelledby="label-title">
+                  <div class="form-row align-items-center">
+                    <label id="label-title" for="title" class="col-md-3 col-form-label form-label">
+                      제목
+                    </label>
+                    <div class="col-md-9">
+                      <input id="title" type="text" placeholder="제목을 입력하세요."" value=""
+                        class="form-control">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="list-group">
+            <div class="list-group-item">
+              <div class="form-group m-0" role="group" aria-labelledby="label-topic">
+                <div class="form-row align-items-center">
+                  <label id="label-topic" for="topic" class="col-md-3 col-form-label form-label">주제</label>
+                  <div class="col-md-9">
+                    <select id="topic" class="form-control custom-select w-auto">
+                      <option value="JavaScript">이벤트</option>
+                      <option value="JavaScript">서버점검</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="list-group-item">
+              <div role="group" aria-labelledby="label-question" class="m-0 form-group">
+                <div class="form-row">
+                  <label id="label-question" for="question" class="col-md-3 col-form-label form-label">
+                    내용
+                  </label>
+                  <div class="col-md-9">
+                    <textarea id="question" placeholder="내용을 입력하세요." rows="4"
+                      class="form-control"></textarea>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="list-group-item tar">
+              <a href="/sample/community">
+                <button type="button" class="btn btn-outline-secondary">취소</button>
+              </a>
+              <button type="button" class="btn btn-accent">작성</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <div class="col-lg-3 page-nav">
+        <div data-perfect-scrollbar="" data-perfect-scrollbar-wheel-propagation="true" class="ps">
+          <div class="page-section pt-lg-112pt">
+            <div class="nav page-nav__menu">
+              <a href="javascript:void(0)" class="nav-link active">커뮤니티 에티켓</a>
+            </div>
+            <div class="page-nav__content">
+              <p class="text-70">공부를 함께 할 동료를 존중해 주세요.</p>
+              <p class="text-70">게시판을 깨끗하게 지켜주세요.</p>
+              <p class="text-70">타인의 권리도 나의 권리처럼 보호해 주세요.</p>
+              <p class="text-70">불법 게시물은 삼가주세요.</p>
+            </div>
+          </div>
+          <div class="ps__rail-x" style="left: 0px; bottom: 0px;">
+            <div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 0px;"></div>
+          </div>
+          <div class="ps__rail-y" style="top: 0px; right: 0px;">
+            <div class="ps__thumb-y" tabindex="0" style="top: 0px; height: 0px;"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+{% endblock %}
