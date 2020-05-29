@@ -1,13 +1,21 @@
 {% extends "backend/base/base.html" %}
 
 {% block content %}
-<div class="container page__container mt70">
+<div 
+  class="jumbotron jumbotron-fluid jt-temperedblue menu-top mt60"
+  style="background-image: url('/static/img/banner/banner2.jpg');"
+>
+  <div class="container">
+    <h1 class="display-5 text-left">
+      <span class="menu-title">
+        <span class="color-white">공지사항</span>
+      </span>
+    </h1>
+  </div>
+</div>
+
+<div class="container page__container">
   <div class="page-section">
-
-    <div class="page-separator">
-      <div class="page-separator__text">공지사항</div>
-    </div>
-
     <div class="card">
       <div class="card-header">
         <div class="row align-items-center" style="white-space: nowrap;">
@@ -16,7 +24,7 @@
               <input type="text" class="form-control w-lg-auto" placeholder="검색">
               <button class="btn" type="submit" role="button">
                 <i class="material-icons">search</i>
-                </button>
+              </button>
             </form>
           </div>
           <div class="col-lg d-flex flex-wrap align-items-center">
@@ -35,6 +43,7 @@
 
       <div class="list-group list-group-flush">
 
+        {% for x in sample %}
         <!-- Post -->
         <div class="list-group-item p-3">
           <div class="row align-items-start">
@@ -75,12 +84,14 @@
           </div>
         </div>
         <!-- Post // END -->
+        {% endfor %}
+
 
       </div>
 
       <!-- Navigation -->
       <div class="card-footer">
-        <ul class="pagination justify-content-start pagination-xsm m-0">
+        <ul class="pagination justify-content-center pagination-xsm m-0">
           <li class="page-item disabled">
             <a class="page-link" href="#" aria-label="Previous">
               <span aria-hidden="true" class="material-icons">chevron_left</span>

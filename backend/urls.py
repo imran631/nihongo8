@@ -7,6 +7,10 @@ urlpatterns = [
 
     path('', views.index, name='index'),
 
+    path('jlpt', views.jlpt, name='jlpt'),
+
+    path('problem/list', views.problem_list, name='problem_list'),
+
     path('login', views.login, name='login'),
     path('regist', views.regist, name='regist'),
     path('reset', views.reset, name='reset'),

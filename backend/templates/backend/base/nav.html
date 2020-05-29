@@ -18,10 +18,10 @@
     <a href="/" class="nav-link">홈</a>
   </li>
   <li class="nav-item">
-    <a href="#" class="nav-link">JLPT</a>
+    <a href="/jlpt" class="nav-link">JLPT</a>
   </li>
   <li class="nav-item">
-    <a href="#" class="nav-link">문제풀기</a>
+    <a href="/problem/list" class="nav-link">문제풀기</a>
   </li>
   <li class="nav-item dropdown">
     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" data-caret="false">커뮤니티</a>
@@ -35,10 +35,92 @@
 </ul>
 <!-- left nav // END-->
 
-<!-- right nav -->
-<ul class="nav navbar-nav ml-auto mr-0">
+<!-- login -->
+<!-- <ul class="nav navbar-nav ml-auto mr-0">
   <li class="nav-item">
     <a href="/login" class="btn btn-outline-white">로그인/회원가입</a>
   </li>
-</ul>
-<!-- right nav // END -->
+</ul> -->
+<!-- login // END -->
+
+<!-- not login -->
+<div class="nav navbar-nav flex-nowrap d-flex mr-16pt">
+
+  <!-- Notifications -->
+  <div class="nav-item ml-16pt dropdown dropdown-notifications dropdown-xs-down-full" data-toggle="tooltip" data-title="알림" data-placement="bottom" data-boundary="window">
+    <button class="nav-link btn-flush dropdown-toggle" type="button" data-toggle="dropdown" data-caret="false">
+      <i class="material-icons">notifications_none</i>
+      <span class="badge badge-notifications badge-accent">2</span>
+    </button>
+    <div class="dropdown-menu dropdown-menu-right">
+      <div data-perfect-scrollbar class="position-relative">
+        <div class="dropdown-header">
+          <strong>새로운 소식을 알려드립니다!</strong>
+        </div>
+        <div class="list-group list-group-flush mb-0">
+
+          <!-- not read notification -->
+          <a href="javascript:void(0);" class="list-group-item list-group-item-action unread">
+            <span class="d-flex align-items-center mb-1">
+              <small class="text-black-50">3분 전</small>
+              <span class="ml-auto unread-indicator bg-accent"></span>
+            </span>
+            <span class="d-flex">
+              <span class="avatar avatar-xs mr-2">
+                <span class="avatar-title rounded-circle bg-light">
+                  <i class="material-icons font-size-16pt text-primary">group_add</i>
+                </span>
+              </span>
+              <span class="flex d-flex flex-column">
+                <span class="text-black-70">
+                  "이번 달 JLPT 환불금액 들..." 글에 새로운 댓글이 추가 되었습니다.
+                </span>
+              </span>
+            </span>
+          </a>
+          <!-- not read notification // END -->
+
+          <!-- read notification -->
+          <a href="javascript:void(0);" class="list-group-item list-group-item-action">
+            <span class="d-flex align-items-center mb-1">
+              <small class="text-black-50">5시간 전</small>
+            </span>
+            <span class="d-flex">
+              <span class="avatar avatar-xs mr-2">
+                <span class="avatar-title rounded-circle bg-light">
+                  <i class="material-icons font-size-16pt text-primary">group_add</i>
+                </span>
+              </span>
+              <span class="flex d-flex flex-column">
+                <span class="text-black-70">
+                  "너무너무 감사합니다..." 작성된 댓글에 새로운 답글이 추가 되었습니다.
+                </span>
+              </span>
+            </span>
+          </a>
+          <!-- read notification // END -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Notifications // END -->
+
+  <!-- My Info -->
+  <div class="nav-item dropdown">
+    <a href="#" class="nav-link d-flex align-items-center dropdown-toggle" data-toggle="dropdown" data-caret="false">
+      <span class="avatar avatar-sm mr-8pt2">
+        <img src="/static/img/sample/p1.jpg" alt="avatar" class="avatar-img rounded-circle">
+      </span>
+    </a>
+    <div class="dropdown-menu dropdown-menu-right">
+      <div class="dropdown-header">
+        <strong>계정</strong>
+      </div>
+      <a class="dropdown-item" href="#">마이페이지</a>
+      <a class="dropdown-item" href="#">로그아웃</a>
+    </div>
+  </div>
+  <!-- My Info // END -->
+</div>
+<!-- not login // END -->

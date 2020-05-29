@@ -7,6 +7,16 @@ def index(request):
     return render(request, 'backend/index/index.html', context)
 
 
+def jlpt(request):
+    context = {}
+    return render(request, 'backend/jlpt/jlpt.html', context)
+
+
+def problem_list(request):
+    context = {}
+    return render(request, 'backend/problem/list.html', context)
+
+
 def login(request):
     context = {}
     return render(request, 'backend/auth/login.html', context)
@@ -33,7 +43,9 @@ def sample(request):
 
 
 def sample_community(request):
+    sample = [1,2,3,4,5,6,7,8,9,10]
     context = {}
+    context['sample'] = sample
     return render(request, 'backend/sample/community.html', context)
 
 
