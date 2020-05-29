@@ -1,0 +1,53 @@
+{% extends "backend/base/base.html" %}
+
+{% block content %}
+<div class="mdk-header-layout__content page-content " style="padding-top: 64px;">
+  <section>
+    <div class="pt-32pt pt-sm-64pt pb-32pt">
+      <div class="container page__container">
+        <div class="flex mb30">
+          <h1 class="h2 mb-0 tac">로그인</h1>
+          <p class="text-breadcrumb tac">Login</p>
+        </div>
+        <form action="#" class="col-md-5 p-0 mx-auto">
+          <div class="form-group">
+            <label class="form-label" for="email">이메일</label>
+            <input id="email" type="text" class="form-control" placeholder="이메일을 입력하십시오.">
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="password">비밀번호</label>
+            <input id="password" type="password" class="form-control" placeholder="비밀번호를 입력하십시오.">
+            <p class="text-right mt8">
+              <span class="small color-sm">비밀번호를 잊으셨나요...?</span>
+              <a href="/reset" class="small color-link">비밀번호 찾기</a>
+            </p>
+          </div>
+          <div class="text-center">
+            <button class="btn btn-primary w100p">로그인</button>
+          </div>
+          <p class="text-right mt8">
+            <span class="small color-sm">아직 회원이 아니신가요...?</span>
+            <a href="/regist" class="small color-link">회원가입</a>
+          </p>
+        </form>
+      </div>
+    </div>
+
+    <!-- Oauth login (ready) -->
+    {% if False %}
+    <div class="page-separator justify-content-center m-0">
+      <div class="page-separator__text">or sign-in with</div>
+    </div>
+    <div class="bg-body pt-32pt pb-32pt pb-md-64pt text-center">
+      <div class="container page__container">
+        <a href="fixed-index.html" class="btn btn-secondary btn-block-xs">Facebook</a>
+        <a href="fixed-index.html" class="btn btn-secondary btn-block-xs">Naver</a>
+        <a href="fixed-index.html" class="btn btn-secondary btn-block-xs">Google</a>
+      </div>
+    </div>
+    {% endif %}
+    <!-- Oauth login (ready) // END -->
+
+  </section>
+</div>
+{% endblock %}

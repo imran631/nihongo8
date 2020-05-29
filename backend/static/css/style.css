@@ -5,3 +5,10 @@
 .tar { text-align: right; }
 
 .mt8 { margin-top: 8px !important; }
+
+.mb30 { margin-bottom: 30px !important; }
+
+.w100p { width: 100% !important; }
+
+.color-link { color: #2196F3 !important; }
+.color-sm { color: rgba(39,44,51,.7) !important; }

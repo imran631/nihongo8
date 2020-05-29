@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+
+{% include "backend/base/head.html" %}
+
+<body class="layout-sticky-subnav layout-default ">
+
+  {% include "backend/base/preloader.html" %}
+
+  <!-- Header Layout -->
+  <div class="mdk-header-layout js-mdk-header-layout">
+    <!-- Header -->
+    <div id="header" class="mdk-header mdk-header--bg-dark bg-dark js-mdk-header mb-0" data-effects="parallax-background waterfall" data-fixed data-condenses>
+      <div class="mdk-header__bg">
+        <div class="mdk-header__bg-front" style="background-image: url(/static/img/banner/banner3.jpg);"></div>
+      </div>
+      <div class="mdk-header__content justify-content-center">
+        <div class="navbar navbar-expand navbar-dark-dodger-blue bg-transparent will-fade-background" id="default-navbar" data-primary>
+
+          {% include "backend/base/nav.html" %}  
+          
+        </div>
+
+        {% include "backend/base/index_banner.html" %}  
+
+      </div>
+    </div>
+    <!-- Header // END -->
+
+    {% block content %}
+    {% endblock %}
+
+    {% include "backend/base/footer.html" %}  
+  </div>
+
+  {% include "backend/base/sidebar.html" %}
+
+  {% include "backend/base/js.html" %}
+</body>
+
+</html>

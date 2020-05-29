@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+
+{% include "backend/base/head.html" %}
+
+<body class="layout-sticky-subnav layout-default ">
+
+  {% include "backend/base/preloader.html" %}
+
+  <!-- Header Layout -->
+  <div class="mdk-header-layout js-mdk-header-layout">
+    <!-- Header -->
+    <div id="header" class="mdk-header js-mdk-header mb-0" data-fixed data-effects="">
+      <div class="mdk-header__content">
+        <div class="navbar navbar-expand navbar-dark-dodger-blue navbar-shadow" id="default-navbar" data-primary>
+
+          {% include "backend/base/nav.html" %}  
+
+        </div>
+
+      </div>
+    </div>
+    <!-- Header // END -->
+
+    {% block content %}
+    {% endblock %}
+
+    {% include "backend/base/footer.html" %}  
+  </div>
+
+  {% include "backend/base/sidebar.html" %}
+
+  {% include "backend/base/js.html" %}
+</body>
+
+</html>
