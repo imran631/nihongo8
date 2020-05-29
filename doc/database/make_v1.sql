@@ -255,7 +255,7 @@ create table tbl_point_history (
 -- 코드
 create table tbl_code (
     code_type varchar(255) comment '테이블명',
-    code_code varchar(255) comment '컬럼',
+    code_col varchar(255) comment '컬럼',
     code_code varchar(255) comment '코드',
     code_name varchar(255) comment '이름',
     code_desc varchar(255) comment '설명',
