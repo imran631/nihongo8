@@ -1,0 +1,9165 @@
+[
+    {
+        "kanji": "",
+        "hiragana": "あ",
+        "katakana": "",
+        "type": "감동사",
+        "hangul": "아, 사람을 부를 때 쓰는 말, 대..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "ああ",
+        "katakana": "",
+        "type": "감동사",
+        "hangul": "아, 말을 건넬 때 내는 소리"
+    },
+    {
+        "kanji": "愛",
+        "hiragana": "あい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사랑;애정"
+    },
+    {
+        "kanji": "相変わらず",
+        "hiragana": "あいかわらず",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "변함없이;여전히"
+    },
+    {
+        "kanji": "愛する",
+        "hiragana": "あいする",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "사랑하다, 몹시 좋아하다;즐기다"
+    },
+    {
+        "kanji": "相手",
+        "hiragana": "あいて",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상대, 함께 무엇을 하는 사람, 적수"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "アウト",
+        "type": "명사",
+        "hangul": "아웃, 밖;바깥, 공이 규정된 선 밖..."
+    },
+    {
+        "kanji": "青白い",
+        "hiragana": "あおじろい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "파르께하다;특히, 얼굴빛이 핏기가 ..."
+    },
+    {
+        "kanji": "赤ん坊",
+        "hiragana": "あかんぼう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "갓난아기;태어날  아기;또,  어리고..."
+    },
+    {
+        "kanji": "明らか",
+        "hiragana": "あきらか",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "밝음;환함, 분명함;뚜렷함"
+    },
+    {
+        "kanji": "諦める",
+        "hiragana": "あきらめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "체념하다;단념하다"
+    },
+    {
+        "kanji": "飽きる",
+        "hiragana": "あきる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "싫증나다;물리다"
+    },
+    {
+        "kanji": "握手",
+        "hiragana": "あくしゅ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "악수"
+    },
+    {
+        "kanji": "欠·欠伸",
+        "hiragana": "あくび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "하품"
+    },
+    {
+        "kanji": "明ける",
+        "hiragana": "あける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "새다;밝다, 새해가 되다, 기간이 끝..."
+    },
+    {
+        "kanji": "挙げる",
+        "hiragana": "あげる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "팔을 쳐들다, 거행하다"
+    },
+    {
+        "kanji": "憧れる·憬れる",
+        "hiragana": "あこがれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "동경하다;그리다"
+    },
+    {
+        "kanji": "足跡",
+        "hiragana": "あしあと",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발자취, 발자국;전하여, 행방, 업적"
+    },
+    {
+        "kanji": "足下·足元",
+        "hiragana": "あしもと",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발밑;또, 그 언저리, 신변;바로 곁..."
+    },
+    {
+        "kanji": "味わう",
+        "hiragana": "あじわう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "맛보다, 체험하다, 감상하다;음미하다"
+    },
+    {
+        "kanji": "預(か)る",
+        "hiragana": "あずかる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "맡다, 보관하다, 책임을 맡다"
+    },
+    {
+        "kanji": "預ける",
+        "hiragana": "あずける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "맡기다"
+    },
+    {
+        "kanji": "与える",
+        "hiragana": "あたえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "주다, 수여하다, 내주다;할당하다"
+    },
+    {
+        "kanji": "暖かい·温かい",
+        "hiragana": "あたたかい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "따뜻하다, 온도가 차지 않다, 포근..."
+    },
+    {
+        "kanji": "暖まる·温まる",
+        "hiragana": "あたたまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "따뜻해지다;훈훈해지다"
+    },
+    {
+        "kanji": "暖める·温める",
+        "hiragana": "あたためる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "따뜻하게 하다;덥게 하다, 내놓지 않..."
+    },
+    {
+        "kanji": "当(た)り前",
+        "hiragana": "あたりまえ",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "당연함;마땅함, 보통;예사"
+    },
+    {
+        "kanji": "悪化",
+        "hiragana": "あっか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "악화"
+    },
+    {
+        "kanji": "扱う",
+        "hiragana": "あつかう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "다루다, 취급하다;처리하다, 마음을 ..."
+    },
+    {
+        "kanji": "集(ま)り",
+        "hiragana": "あつまり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "모임;또, 모인 것;특히, 회합"
+    },
+    {
+        "kanji": "油",
+        "hiragana": "あぶら",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기름, 머릿기름, 활력소;활기"
+    },
+    {
+        "kanji": "溢れる",
+        "hiragana": "あふれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "넘치다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "アマチュア",
+        "type": "명사",
+        "hangul": "아마추어;호사가"
+    },
+    {
+        "kanji": "雨戸",
+        "hiragana": "あまど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "빈지문;덧문"
+    },
+    {
+        "kanji": "怪しい",
+        "hiragana": "あやしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "수상하다;괴이하다, 의심스럽다;믿을..."
+    },
+    {
+        "kanji": "表(わ)す",
+        "hiragana": "あらわす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "나타내다;증명하다, 발휘하다"
+    },
+    {
+        "kanji": "現(わ)れる",
+        "hiragana": "あらわれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "나타나다;드러나다"
+    },
+    {
+        "kanji": "有(り)難い",
+        "hiragana": "ありがたい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "감사하다;고맙다, 다행하다, 좀처럼..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "アルバム",
+        "type": "명사",
+        "hangul": "앨범, 사진첩;기념첩, 몇 곡을 수록..."
+    },
+    {
+        "kanji": "彼此·彼是",
+        "hiragana": "あれこれ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이것저것, 여러 가지로"
+    },
+    {
+        "kanji": "泡",
+        "hiragana": "あわ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "거품, 게거품"
+    },
+    {
+        "kanji": "合(わ)せる",
+        "hiragana": "あわせる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "맞추다, 맞게 하다, 맞추어 보다"
+    },
+    {
+        "kanji": "慌てる",
+        "hiragana": "あわてる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "당황하다, 황급히 굴다;허둥대다"
+    },
+    {
+        "kanji": "安易",
+        "hiragana": "あんい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "안이"
+    },
+    {
+        "kanji": "案外",
+        "hiragana": "あんがい",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "뜻밖에도;예상 외"
+    },
+    {
+        "kanji": "暗記",
+        "hiragana": "あんき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "암기;욈"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "アンケート",
+        "type": "명사",
+        "hangul": "앙케트;질문;조사"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "アンテナ",
+        "type": "명사",
+        "hangul": "안테나;공중선"
+    },
+    {
+        "kanji": "いい加減",
+        "hiragana": "いいかげん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "적당함;알맞음, 꽤;상당히, 무책임한..."
+    },
+    {
+        "kanji": "言(い)出す",
+        "hiragana": "いいだす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "말을 꺼내다;말을 시작하다;처음으로 ..."
+    },
+    {
+        "kanji": "怒り",
+        "hiragana": "いかり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "분노;노여움"
+    },
+    {
+        "kanji": "行き",
+        "hiragana": "いき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "→ ゆき"
+    },
+    {
+        "kanji": "意義",
+        "hiragana": "いぎ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "의의;뜻"
+    },
+    {
+        "kanji": "生き生き",
+        "hiragana": "いきいき",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "생생한 모양;싱싱한 모양;생기가 넘치..."
+    },
+    {
+        "kanji": "勢い",
+        "hiragana": "いきおい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기세;힘, 세력;위세, 기운;바람"
+    },
+    {
+        "kanji": "行き成り",
+        "hiragana": "いきなり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "갑자기;돌연;느닷없이"
+    },
+    {
+        "kanji": "生き物",
+        "hiragana": "いきもの",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "살아 있는 것;생물, 생명체같이 작용..."
+    },
+    {
+        "kanji": "育児",
+        "hiragana": "いくじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "육아"
+    },
+    {
+        "kanji": "以後",
+        "hiragana": "いご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이후, 금후;차후, …이 있은 후"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "イコール",
+        "type": "명사",
+        "hangul": "등호, 같음;동등함"
+    },
+    {
+        "kanji": "勇ましい",
+        "hiragana": "いさましい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "용감하다;용맹스럽다, 시원시원하다;..."
+    },
+    {
+        "kanji": "医師",
+        "hiragana": "いし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "의사"
+    },
+    {
+        "kanji": "以前",
+        "hiragana": "いぜん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이전, 그 전, 아주 전;옛날"
+    },
+    {
+        "kanji": "板",
+        "hiragana": "いた",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "판자;널, ‘ まないた ’ ‘ いたまえ ’의..."
+    },
+    {
+        "kanji": "痛み·傷み",
+        "hiragana": "いたみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "아픔, 슬픔;쓰라림, 상함"
+    },
+    {
+        "kanji": "炒める·煠める",
+        "hiragana": "いためる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "기름에 볶다;지지다"
+    },
+    {
+        "kanji": "市場",
+        "hiragana": "いちば",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "시장;저자;장"
+    },
+    {
+        "kanji": "一生",
+        "hiragana": "いっしょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일생, 평생, 간신히 목숨을 건짐"
+    },
+    {
+        "kanji": "一斉",
+        "hiragana": "いっせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일제"
+    },
+    {
+        "kanji": "従兄弟·従姉妹",
+        "hiragana": "いとこ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사촌;종형제, 어딘지 닮은 데가 있는..."
+    },
+    {
+        "kanji": "居眠(り)",
+        "hiragana": "いねむり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "앉아 졺;말뚝잠"
+    },
+    {
+        "kanji": "違反",
+        "hiragana": "いはん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "위반"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "イメージ",
+        "type": "명사",
+        "hangul": "이미지;인상;심상"
+    },
+    {
+        "kanji": "嫌がる",
+        "hiragana": "いやがる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "싫어하다"
+    },
+    {
+        "kanji": "苛苛",
+        "hiragana": "いらいら",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "안달복달하는 모양, 까칫까칫;따끔따끔..."
+    },
+    {
+        "kanji": "医療",
+        "hiragana": "いりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "의료"
+    },
+    {
+        "kanji": "岩",
+        "hiragana": "いわ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "바위"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "インク",
+        "type": "명사",
+        "hangul": "→ インキ"
+    },
+    {
+        "kanji": "印象",
+        "hiragana": "いんしょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "인상"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "インタビュー",
+        "type": "명사",
+        "hangul": "인터뷰;면접;특히, 기자의 취재를 위..."
+    },
+    {
+        "kanji": "嗽·含嗽",
+        "hiragana": "うがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "양치질"
+    },
+    {
+        "kanji": "浮(か)べる",
+        "hiragana": "うかべる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "뜨게 하다;띄우다, 떠올리다;생각해 ..."
+    },
+    {
+        "kanji": "受かる",
+        "hiragana": "うかる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "합격되다"
+    },
+    {
+        "kanji": "浮く",
+        "hiragana": "うく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "뜨다, 마음이 흔들리다, 띄우다"
+    },
+    {
+        "kanji": "受(け)取る",
+        "hiragana": "うけとる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "수취하다;받다, 해석하다;이해하다, ..."
+    },
+    {
+        "kanji": "動かす",
+        "hiragana": "うごかす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "움직이다"
+    },
+    {
+        "kanji": "兎·兔",
+        "hiragana": "うさぎ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "토끼"
+    },
+    {
+        "kanji": "牛",
+        "hiragana": "うし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소"
+    },
+    {
+        "kanji": "薄暗い",
+        "hiragana": "うすぐらい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "좀 어둡다;어스레하다;어둑어둑하다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "うっかり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "무심코;멍청히;깜박"
+    },
+    {
+        "kanji": "移す",
+        "hiragana": "うつす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "옮기다, 자리를 바꾸다, 악귀를 제웅..."
+    },
+    {
+        "kanji": "映す",
+        "hiragana": "うつす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "비치게 하다;투영하다"
+    },
+    {
+        "kanji": "移る",
+        "hiragana": "うつる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "옮기다;이동하다, 변하다, 날다;퇴색..."
+    },
+    {
+        "kanji": "写る",
+        "hiragana": "うつる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "비쳐 보이다, 찍히다"
+    },
+    {
+        "kanji": "映る",
+        "hiragana": "うつる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "반영하다;비치다, 배합이 잘 되다;잘..."
+    },
+    {
+        "kanji": "馬",
+        "hiragana": "うま",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "말, 아래쪽이 벌어진 네 발 달린 발..."
+    },
+    {
+        "kanji": "埋(ま)る",
+        "hiragana": "うまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "→ うずもれる , 메워지다, 가득 차다;..."
+    },
+    {
+        "kanji": "生(ま)れ",
+        "hiragana": "うまれ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "탄생;출생, 가문;출신, 출생지;출생..."
+    },
+    {
+        "kanji": "梅",
+        "hiragana": "うめ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "매화나무, 매화나무의 열매;매실"
+    },
+    {
+        "kanji": "埋める",
+        "hiragana": "うめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "묻다;메우다, 미지근하게 하다"
+    },
+    {
+        "kanji": "羨ましい",
+        "hiragana": "うらやましい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "부럽다;샘이 나다"
+    },
+    {
+        "kanji": "売(り)上げ·売上",
+        "hiragana": "うりあげ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "매상고;매상"
+    },
+    {
+        "kanji": "売(り)切れ",
+        "hiragana": "うりきれ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "품절;매진"
+    },
+    {
+        "kanji": "売れる",
+        "hiragana": "うれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "팔리다;전하여,  결혼하다, 널리 알..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "うろうろ",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "어정버정, 허둥지둥"
+    },
+    {
+        "kanji": "噂",
+        "hiragana": "うわさ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "어떤 사람이나 일에 대한 말, 세간의..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "うん",
+        "katakana": "",
+        "type": "감동사",
+        "hangul": "응, 끙"
+    },
+    {
+        "kanji": "運河",
+        "hiragana": "うんが",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "운하"
+    },
+    {
+        "kanji": "運賃",
+        "hiragana": "うんちん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "운임;삯"
+    },
+    {
+        "kanji": "永遠",
+        "hiragana": "えいえん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "영원"
+    },
+    {
+        "kanji": "英文",
+        "hiragana": "えいぶん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "영문"
+    },
+    {
+        "kanji": "栄養·営養",
+        "hiragana": "えいよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "영양"
+    },
+    {
+        "kanji": "笑顔",
+        "hiragana": "えがお",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "웃는 얼굴;웃음 띤 얼굴"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "エネルギー",
+        "type": "명사",
+        "hangul": "에네르기;에너지"
+    },
+    {
+        "kanji": "得る",
+        "hiragana": "える",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "얻다;획득하다, 이해하다;깨닫다, …..."
+    },
+    {
+        "kanji": "宴会",
+        "hiragana": "えんかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연회"
+    },
+    {
+        "kanji": "演劇",
+        "hiragana": "えんげき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연극"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "エンジン",
+        "type": "명사",
+        "hangul": "엔진"
+    },
+    {
+        "kanji": "演奏",
+        "hiragana": "えんそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연주"
+    },
+    {
+        "kanji": "遠足",
+        "hiragana": "えんそく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소풍"
+    },
+    {
+        "kanji": "",
+        "hiragana": "おい",
+        "katakana": "",
+        "type": "감동사",
+        "hangul": "여봐;이봐"
+    },
+    {
+        "kanji": "追(い)越す",
+        "hiragana": "おいこす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "앞지르다;추월하다"
+    },
+    {
+        "kanji": "追う",
+        "hiragana": "おう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "좇다, 따르다, 뒤쫓아가 닿다"
+    },
+    {
+        "kanji": "王様",
+        "hiragana": "おうさま",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "임금님;왕"
+    },
+    {
+        "kanji": "王子",
+        "hiragana": "おうじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "왕자, 황족의 남자"
+    },
+    {
+        "kanji": "横断",
+        "hiragana": "おうだん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "횡단"
+    },
+    {
+        "kanji": "往復",
+        "hiragana": "おうふく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "왕복, 왕래, 교제"
+    },
+    {
+        "kanji": "応募",
+        "hiragana": "おうぼ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "응모"
+    },
+    {
+        "kanji": "終える",
+        "hiragana": "おえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "마치다;종결짓다"
+    },
+    {
+        "kanji": "大いに",
+        "hiragana": "おおいに",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "대단히;크게;매우"
+    },
+    {
+        "kanji": "大通り",
+        "hiragana": "おおどおり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "넓은 길;큰 거리"
+    },
+    {
+        "kanji": "大家·大屋",
+        "hiragana": "おおや",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "셋집 주인, 본채;안채"
+    },
+    {
+        "kanji": "奥",
+        "hiragana": "おく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "깊숙한 곳, 안;속, 안채;안방"
+    },
+    {
+        "kanji": "屋外",
+        "hiragana": "おくがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "옥외;집의 바깥"
+    },
+    {
+        "kanji": "行(な)う",
+        "hiragana": "おこなう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "하다;행하다, 불도를 닦다"
+    },
+    {
+        "kanji": "起(こ)る",
+        "hiragana": "おこる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "일어나다;발생하다"
+    },
+    {
+        "kanji": "奢る",
+        "hiragana": "おごる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "사치하다, 한턱내다"
+    },
+    {
+        "kanji": "幼い",
+        "hiragana": "おさない",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "어리다, 미숙하다;유치하다"
+    },
+    {
+        "kanji": "御洒落",
+        "hiragana": "おしゃれ",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "멋을 냄;또, 멋쟁이"
+    },
+    {
+        "kanji": "恐ろしい",
+        "hiragana": "おそろしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "두렵다;무섭다, 겁나다, 걱정스럽다"
+    },
+    {
+        "kanji": "教わる",
+        "hiragana": "おそわる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가르침을 받다;배우다"
+    },
+    {
+        "kanji": "落(ち)着く",
+        "hiragana": "おちつく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "자리잡다, 정착하다;살다, 안정되다;..."
+    },
+    {
+        "kanji": "驚かす",
+        "hiragana": "おどろかす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "놀래다;놀라게 하다, 잠을 깨우다, ..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "オフィス",
+        "type": "명사",
+        "hangul": "오피스;사무소;회사"
+    },
+    {
+        "kanji": "御土産",
+        "hiragana": "おみやげ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "‘ みやげ ’의 공손한 말"
+    },
+    {
+        "kanji": "お目に掛かる",
+        "hiragana": "おめにかかる",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "만나뵙다, 인정을 받다"
+    },
+    {
+        "kanji": "思い込む",
+        "hiragana": "おもいこむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "깊이 마음먹다;굳게 결심하다, 꼭  ..."
+    },
+    {
+        "kanji": "思いつく",
+        "hiragana": "おもいつく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "문득 생각이 떠오르다, → おもいだす"
+    },
+    {
+        "kanji": "思い出",
+        "hiragana": "おもいで",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "추억;추상"
+    },
+    {
+        "kanji": "重たい",
+        "hiragana": "おもたい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "무겁다;묵직하다"
+    },
+    {
+        "kanji": "思わず",
+        "hiragana": "おもわず",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "엉겁결에;뜻하지 않게;무의식 중에"
+    },
+    {
+        "kanji": "親指",
+        "hiragana": "おやゆび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "엄지가락;엄지 손가락, 주인;두목"
+    },
+    {
+        "kanji": "凡そ",
+        "hiragana": "およそ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대강;대충, 무릇;일반적으로, 전연;..."
+    },
+    {
+        "kanji": "折る",
+        "hiragana": "おる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "접다, 접어서 겹쳐지도록 하다, → お ..."
+    },
+    {
+        "kanji": "お礼",
+        "hiragana": "おれい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사례;사례의 선물"
+    },
+    {
+        "kanji": "降ろす",
+        "hiragana": "おろす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "내리다, 내려뜨리다;내려놓다, 채우다"
+    },
+    {
+        "kanji": "温室",
+        "hiragana": "おんしつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "온실"
+    },
+    {
+        "kanji": "温泉",
+        "hiragana": "おんせん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "온천, 온천장"
+    },
+    {
+        "kanji": "温度",
+        "hiragana": "おんど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "온도"
+    },
+    {
+        "kanji": "負んぶ",
+        "hiragana": "おんぶ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "어부바;업음, 남에게 의지함;특히 비..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "カード",
+        "type": "명사",
+        "hangul": "카드, 명함 모양으로 자른 두꺼운 종..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "カーブ",
+        "type": "명사",
+        "hangul": "커브, 곡선, 굽음;굽은 곳"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "カーペット",
+        "type": "명사",
+        "hangul": "카펫;융단;양탄자"
+    },
+    {
+        "kanji": "会員",
+        "hiragana": "かいいん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "회원"
+    },
+    {
+        "kanji": "絵画",
+        "hiragana": "かいが",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "회화;그림"
+    },
+    {
+        "kanji": "海外",
+        "hiragana": "かいがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "해외"
+    },
+    {
+        "kanji": "会館",
+        "hiragana": "かいかん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "회관"
+    },
+    {
+        "kanji": "解決",
+        "hiragana": "かいけつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "해결"
+    },
+    {
+        "kanji": "会合",
+        "hiragana": "かいごう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "회합"
+    },
+    {
+        "kanji": "回収",
+        "hiragana": "かいしゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "회수"
+    },
+    {
+        "kanji": "外出",
+        "hiragana": "がいしゅつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "외출;나들이"
+    },
+    {
+        "kanji": "解説",
+        "hiragana": "かいせつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "해설"
+    },
+    {
+        "kanji": "画家",
+        "hiragana": "がか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "화가"
+    },
+    {
+        "kanji": "価格",
+        "hiragana": "かかく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가격"
+    },
+    {
+        "kanji": "化学",
+        "hiragana": "かがく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "화학"
+    },
+    {
+        "kanji": "輝く",
+        "hiragana": "かがやく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "빛나다;반짝이다, 부끄러워 얼굴을 붉..."
+    },
+    {
+        "kanji": "係(り)",
+        "hiragana": "かかり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "담당;계, 관계;관련, 걸림;또, ‘..."
+    },
+    {
+        "kanji": "書留",
+        "hiragana": "かきとめ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "써 둠;또, 그 문서, ‘ 書留郵便 ’의..."
+    },
+    {
+        "kanji": "書(き)取り",
+        "hiragana": "かきとり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "베껴 씀;또, 그 글, 받아쓰기"
+    },
+    {
+        "kanji": "家具",
+        "hiragana": "かぐ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가구"
+    },
+    {
+        "kanji": "覚悟",
+        "hiragana": "かくご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "각오, 체념하고 마음을 정함, 깨달음"
+    },
+    {
+        "kanji": "学者",
+        "hiragana": "がくしゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "학자"
+    },
+    {
+        "kanji": "学習",
+        "hiragana": "がくしゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "학습"
+    },
+    {
+        "kanji": "隠す",
+        "hiragana": "かくす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "감추다;숨기다"
+    },
+    {
+        "kanji": "拡大",
+        "hiragana": "かくだい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "확대"
+    },
+    {
+        "kanji": "確認",
+        "hiragana": "かくにん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "확인"
+    },
+    {
+        "kanji": "学部",
+        "hiragana": "がくぶ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "학부;단과 대학"
+    },
+    {
+        "kanji": "学問",
+        "hiragana": "がくもん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "학문"
+    },
+    {
+        "kanji": "学力",
+        "hiragana": "がくりょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "학력"
+    },
+    {
+        "kanji": "隠れる",
+        "hiragana": "かくれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "숨다, 죽다"
+    },
+    {
+        "kanji": "掛(け)算",
+        "hiragana": "かけざん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "곱셈"
+    },
+    {
+        "kanji": "囲む",
+        "hiragana": "かこむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "두르다;둘러싸다, 바둑을 두다;대국하..."
+    },
+    {
+        "kanji": "火災",
+        "hiragana": "かさい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "화재;불"
+    },
+    {
+        "kanji": "重なる",
+        "hiragana": "かさなる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "포개지다;겹치다;거듭되다"
+    },
+    {
+        "kanji": "重ねる",
+        "hiragana": "かさねる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "포개다;쌓아 올리다, 겹치다;거듭하다"
+    },
+    {
+        "kanji": "賢い",
+        "hiragana": "かしこい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "현명하다;영리하다, 요령이 좋다;약..."
+    },
+    {
+        "kanji": "貸(し)出し",
+        "hiragana": "かしだし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대출"
+    },
+    {
+        "kanji": "稼ぐ",
+        "hiragana": "かせぐ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "돈벌이하다, 벌다"
+    },
+    {
+        "kanji": "河川",
+        "hiragana": "かせん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "하천"
+    },
+    {
+        "kanji": "数える",
+        "hiragana": "かぞえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "세다;셈하다, 열거하다, 치다"
+    },
+    {
+        "kanji": "課題",
+        "hiragana": "かだい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "과제;제목;문제"
+    },
+    {
+        "kanji": "方方",
+        "hiragana": "かたがた",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제현;여러분, 당신네들;여러분들"
+    },
+    {
+        "kanji": "片付く",
+        "hiragana": "かたづく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "정돈되다, 처리되다, 결말이 나다;해..."
+    },
+    {
+        "kanji": "片道",
+        "hiragana": "かたみち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "편도;한쪽;일방"
+    },
+    {
+        "kanji": "勝ち",
+        "hiragana": "かち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이김;승리"
+    },
+    {
+        "kanji": "価値",
+        "hiragana": "かち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가치;값"
+    },
+    {
+        "kanji": "",
+        "hiragana": "がっかり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "실망 · 낙담하는 모양, 피곤해서 맥이 ..."
+    },
+    {
+        "kanji": "活気",
+        "hiragana": "かっき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "활기"
+    },
+    {
+        "kanji": "楽器",
+        "hiragana": "がっき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "악기"
+    },
+    {
+        "kanji": "各項",
+        "hiragana": "かっこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "각항;각 항목"
+    },
+    {
+        "kanji": "活動",
+        "hiragana": "かつどう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "활동, ‘ 活動写真 ’의 준말"
+    },
+    {
+        "kanji": "悲しむ",
+        "hiragana": "かなしむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "슬퍼하다;마음 아파하다"
+    },
+    {
+        "kanji": "必ずしも",
+        "hiragana": "かならずしも",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "반드시 …인 것은"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "カバー",
+        "type": "명사",
+        "hangul": "커버, 덮개;뚜껑, 손실이나 부족을 ..."
+    },
+    {
+        "kanji": "神",
+        "hiragana": "かみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "신, 인지를 초월한 절대적 존재;하느..."
+    },
+    {
+        "kanji": "擤む·挗む",
+        "hiragana": "かむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "풀다"
+    },
+    {
+        "kanji": "科目",
+        "hiragana": "かもく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "과목"
+    },
+    {
+        "kanji": "痒い",
+        "hiragana": "かゆい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "가렵다"
+    },
+    {
+        "kanji": "空",
+        "hiragana": "から",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "빔;공, 허공, 아무것도 갖고 있지 ..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "カラー",
+        "type": "명사",
+        "hangul": "컬러, 색;색채, 그림물감"
+    },
+    {
+        "kanji": "空っぽ",
+        "hiragana": "からっぽ",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "텅 빔;아무것도 없음"
+    },
+    {
+        "kanji": "枯れる",
+        "hiragana": "かれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "마르다;시들다, 연기 · 예능 따위가 원..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "カロリー",
+        "type": "명사",
+        "hangul": "칼로리"
+    },
+    {
+        "kanji": "可哀相",
+        "hiragana": "かわいそう",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "불쌍한 모양;가엾은 모양"
+    },
+    {
+        "kanji": "可愛らしい",
+        "hiragana": "かわいらしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "귀엽다;사랑스럽다;작고 예쁘장스럽다"
+    },
+    {
+        "kanji": "乾かす",
+        "hiragana": "かわかす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "말리다"
+    },
+    {
+        "kanji": "缶",
+        "hiragana": "かん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "금속제 용기;깡통, …통;통 등을 세..."
+    },
+    {
+        "kanji": "考え",
+        "hiragana": "かんがえ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "생각"
+    },
+    {
+        "kanji": "感覚",
+        "hiragana": "かんかく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감각;→ ちかく  ·  ごかん"
+    },
+    {
+        "kanji": "環境",
+        "hiragana": "かんきょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "환경"
+    },
+    {
+        "kanji": "感じ",
+        "hiragana": "かんじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "느낌, 감각, 인상"
+    },
+    {
+        "kanji": "感謝",
+        "hiragana": "かんしゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감사"
+    },
+    {
+        "kanji": "患者",
+        "hiragana": "かんじゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "환자"
+    },
+    {
+        "kanji": "感情",
+        "hiragana": "かんじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감정"
+    },
+    {
+        "kanji": "感じる",
+        "hiragana": "かんじる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "→ かんずる"
+    },
+    {
+        "kanji": "感心",
+        "hiragana": "かんしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감심;감탄, 질림;어이없음, 기특함"
+    },
+    {
+        "kanji": "関心",
+        "hiragana": "かんしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "관심;→ きょうみ"
+    },
+    {
+        "kanji": "完成",
+        "hiragana": "かんせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "완성"
+    },
+    {
+        "kanji": "間接",
+        "hiragana": "かんせつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "간접;에두름"
+    },
+    {
+        "kanji": "完全",
+        "hiragana": "かんぜん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "완전"
+    },
+    {
+        "kanji": "感想",
+        "hiragana": "かんそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감상"
+    },
+    {
+        "kanji": "感動",
+        "hiragana": "かんどう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감동"
+    },
+    {
+        "kanji": "乾杯",
+        "hiragana": "かんぱい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "건배;축배"
+    },
+    {
+        "kanji": "完了",
+        "hiragana": "かんりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "완료, 동작이 끝났거나 동작 · 상태의 ..."
+    },
+    {
+        "kanji": "気温",
+        "hiragana": "きおん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기온"
+    },
+    {
+        "kanji": "機会",
+        "hiragana": "きかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기회"
+    },
+    {
+        "kanji": "効く",
+        "hiragana": "きく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "듣다;효과가 있다"
+    },
+    {
+        "kanji": "刻む",
+        "hiragana": "きざむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "잘게 썰다;썰어서 잘게 하다, 칼자국..."
+    },
+    {
+        "kanji": "記事",
+        "hiragana": "きじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기사"
+    },
+    {
+        "kanji": "傷",
+        "hiragana": "きず",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상처, 비밀, 흠;결점"
+    },
+    {
+        "kanji": "期待",
+        "hiragana": "きたい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기대"
+    },
+    {
+        "kanji": "気体",
+        "hiragana": "きたい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기체;→ じょうき"
+    },
+    {
+        "kanji": "帰宅",
+        "hiragana": "きたく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "귀가"
+    },
+    {
+        "kanji": "",
+        "hiragana": "きちんと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "과부족 없이;정확히, 깔끔히;말쑥이,..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "きつい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "심하다;되다, 굳건하다;강하다, 헐..."
+    },
+    {
+        "kanji": "気付く",
+        "hiragana": "きづく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "깨닫다;눈치 채다, 정신이 돌아오다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "ぎっしり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "가득;잔뜩"
+    },
+    {
+        "kanji": "記入",
+        "hiragana": "きにゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기입"
+    },
+    {
+        "kanji": "記念",
+        "hiragana": "きねん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기념"
+    },
+    {
+        "kanji": "希望",
+        "hiragana": "きぼう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "희망"
+    },
+    {
+        "kanji": "決(ま)り",
+        "hiragana": "きまり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정해진 바;결정, 결말;매듭, 판에 ..."
+    },
+    {
+        "kanji": "疑問",
+        "hiragana": "ぎもん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "의문"
+    },
+    {
+        "kanji": "逆",
+        "hiragana": "ぎゃく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "반대;거꾸로임, ‘ 逆手 ’의 준말, 역"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "キャンパス",
+        "type": "명사",
+        "hangul": "캠퍼스;구내;교정"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "キャンプ",
+        "type": "명사",
+        "hangul": "캠프, 야영 막사"
+    },
+    {
+        "kanji": "急",
+        "hiragana": "きゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "위급;긴급, 갑작스러움;불의, 빠른 ..."
+    },
+    {
+        "kanji": "休暇",
+        "hiragana": "きゅうか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "휴가"
+    },
+    {
+        "kanji": "休業",
+        "hiragana": "きゅうぎょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "휴업"
+    },
+    {
+        "kanji": "休憩",
+        "hiragana": "きゅうけい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "휴게;휴식"
+    },
+    {
+        "kanji": "給食",
+        "hiragana": "きゅうしょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "급식"
+    },
+    {
+        "kanji": "給与",
+        "hiragana": "きゅうよ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "급여;급료"
+    },
+    {
+        "kanji": "休養",
+        "hiragana": "きゅうよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "휴양"
+    },
+    {
+        "kanji": "給料",
+        "hiragana": "きゅうりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "급료;봉급"
+    },
+    {
+        "kanji": "行",
+        "hiragana": "ぎょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "행, 글자의 가로 · 세로의 줄, 행서"
+    },
+    {
+        "kanji": "強化",
+        "hiragana": "きょうか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "강화"
+    },
+    {
+        "kanji": "教師",
+        "hiragana": "きょうし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "교사, 종교적 지도자;선교사"
+    },
+    {
+        "kanji": "行事",
+        "hiragana": "ぎょうじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "행사, 일을 집행함;또, 그 사람"
+    },
+    {
+        "kanji": "教授",
+        "hiragana": "きょうじゅ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "교수, 대학 · 고등 전문학교의 교원 중..."
+    },
+    {
+        "kanji": "競争",
+        "hiragana": "きょうそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "경쟁"
+    },
+    {
+        "kanji": "強調",
+        "hiragana": "きょうちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "강조;역설, 시세가 고정되어 하락되지..."
+    },
+    {
+        "kanji": "共通",
+        "hiragana": "きょうつう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "공통"
+    },
+    {
+        "kanji": "協力",
+        "hiragana": "きょうりょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "협력"
+    },
+    {
+        "kanji": "許可",
+        "hiragana": "きょか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "허가"
+    },
+    {
+        "kanji": "記録",
+        "hiragana": "きろく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기록"
+    },
+    {
+        "kanji": "禁煙",
+        "hiragana": "きんえん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "금연"
+    },
+    {
+        "kanji": "禁止",
+        "hiragana": "きんし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "금지"
+    },
+    {
+        "kanji": "近視",
+        "hiragana": "きんし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "근시"
+    },
+    {
+        "kanji": "勤務",
+        "hiragana": "きんむ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "근무"
+    },
+    {
+        "kanji": "区域",
+        "hiragana": "くいき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "구역"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "クイズ",
+        "type": "명사",
+        "hangul": "퀴즈"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "クーラー",
+        "type": "명사",
+        "hangul": "쿨러, 냉각기;냉방 장치, 휴대용 냉..."
+    },
+    {
+        "kanji": "区間",
+        "hiragana": "くかん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "구간"
+    },
+    {
+        "kanji": "臭い",
+        "hiragana": "くさい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "고약한 냄새가 나다;구리다, …한 ..."
+    },
+    {
+        "kanji": "腐る",
+        "hiragana": "くさる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "썩다, 상하다;부패하다, 타락하다"
+    },
+    {
+        "kanji": "籤·鬮",
+        "hiragana": "くじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제비;추첨"
+    },
+    {
+        "kanji": "嚏",
+        "hiragana": "くしゃみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "재채기"
+    },
+    {
+        "kanji": "薬指",
+        "hiragana": "くすりゆび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무명지;약손가락"
+    },
+    {
+        "kanji": "癖",
+        "hiragana": "くせ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "버릇;습관, 편향된 경향이나 성질, ..."
+    },
+    {
+        "kanji": "草臥れる",
+        "hiragana": "くたびれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "지치다, 피로하다, 지쳐서 싫증날 정..."
+    },
+    {
+        "kanji": "下らない",
+        "hiragana": "くだらない",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "하찮다;시시하다, 밑돌지 않다;이하..."
+    },
+    {
+        "kanji": "下り",
+        "hiragana": "くだり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "내려감, 특히, 서울에서 지방으로 내..."
+    },
+    {
+        "kanji": "下る",
+        "hiragana": "くだる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "내리다, 내려가다, 오다"
+    },
+    {
+        "kanji": "口紅",
+        "hiragana": "くちべに",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "입술연지, 테두리에만 홍색 칠을 함;..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "ぐっすり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "푹"
+    },
+    {
+        "kanji": "配る",
+        "hiragana": "くばる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "나누어 주다;도르다, 고루고루 미치게..."
+    },
+    {
+        "kanji": "区別",
+        "hiragana": "くべつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "구별"
+    },
+    {
+        "kanji": "悔しい",
+        "hiragana": "くやしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "분하다"
+    },
+    {
+        "kanji": "暮(ら)し",
+        "hiragana": "くらし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "살림, 생계, 일상생활"
+    },
+    {
+        "kanji": "暮(ら)す",
+        "hiragana": "くらす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "하루를 보내다, 살다;세월을 보내다,..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "クリーニング",
+        "type": "명사",
+        "hangul": "클리닝, 서양식 세탁, ‘ ドライクリー ..."
+    },
+    {
+        "kanji": "繰(り)返す",
+        "hiragana": "くりかえす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "되풀이하다;반복하다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "グループ",
+        "type": "명사",
+        "hangul": "그룹;무리;집단"
+    },
+    {
+        "kanji": "苦しむ",
+        "hiragana": "くるしむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "괴로워하다, 고생하다, → くるしめる"
+    },
+    {
+        "kanji": "苦労",
+        "hiragana": "くろう",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "노고;고생;애씀"
+    },
+    {
+        "kanji": "加える",
+        "hiragana": "くわえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가하다, 더하다;보태다, 주다;베풀다"
+    },
+    {
+        "kanji": "詳しい",
+        "hiragana": "くわしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "상세하다;소상하다;자세히 알고 있다"
+    },
+    {
+        "kanji": "加わる",
+        "hiragana": "くわわる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가해지다;더해지다, 참가하다;가담하다..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "け",
+        "katakana": "",
+        "type": "조사",
+        "hangul": "…었지;…었던가"
+    },
+    {
+        "kanji": "経営",
+        "hiragana": "けいえい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "경영"
+    },
+    {
+        "kanji": "計算",
+        "hiragana": "けいさん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "계산;셈, 결과나 과정 등을 예측함"
+    },
+    {
+        "kanji": "芸術",
+        "hiragana": "げいじゅつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "예술"
+    },
+    {
+        "kanji": "携帯",
+        "hiragana": "けいたい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "휴대"
+    },
+    {
+        "kanji": "毛糸",
+        "hiragana": "けいと",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "모사;털실"
+    },
+    {
+        "kanji": "系統",
+        "hiragana": "けいとう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "계통, 일정한 순서 · 법칙에 따라 통일..."
+    },
+    {
+        "kanji": "契約",
+        "hiragana": "けいやく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "계약"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ケース",
+        "type": "명사",
+        "hangul": "케이스, 상자;갑, 경우;사정"
+    },
+    {
+        "kanji": "下旬",
+        "hiragana": "げじゅん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "하순"
+    },
+    {
+        "kanji": "化粧",
+        "hiragana": "けしょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "화장;겉을 아름답게 꾸밈, 외양만 그..."
+    },
+    {
+        "kanji": "下水",
+        "hiragana": "げすい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "하수;수챗물, ‘ 下水道 ’의 준말"
+    },
+    {
+        "kanji": "",
+        "hiragana": "けち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "인색함;다라움, 초라함;보잘것없음, ..."
+    },
+    {
+        "kanji": "血液",
+        "hiragana": "けつえき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "혈액"
+    },
+    {
+        "kanji": "結果",
+        "hiragana": "けっか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "결과, 어떤 원인으로 생기는 상태, ..."
+    },
+    {
+        "kanji": "結局",
+        "hiragana": "けっきょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "결국"
+    },
+    {
+        "kanji": "決行",
+        "hiragana": "けっこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "결행"
+    },
+    {
+        "kanji": "決心",
+        "hiragana": "けっしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "결심"
+    },
+    {
+        "kanji": "決定",
+        "hiragana": "けってい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "결정"
+    },
+    {
+        "kanji": "欠点",
+        "hiragana": "けってん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "결점;단점, 낙제점"
+    },
+    {
+        "kanji": "結論",
+        "hiragana": "けつろん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "결론"
+    },
+    {
+        "kanji": "下品",
+        "hiragana": "げひん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "하품;하치, 인품이 천함;품위가 없음"
+    },
+    {
+        "kanji": "煙",
+        "hiragana": "けむり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연기, 연기처럼 떠오르는 것;→ けぶり ..."
+    },
+    {
+        "kanji": "蹴る",
+        "hiragana": "ける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "차다, 걷어차다, 거절하다;일축하다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "けれど",
+        "katakana": "",
+        "type": "조사",
+        "hangul": "→ けれども"
+    },
+    {
+        "kanji": "険しい",
+        "hiragana": "けわしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "험하다;험상궂다;험악하다"
+    },
+    {
+        "kanji": "鹸化",
+        "hiragana": "けんか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감화;비누화"
+    },
+    {
+        "kanji": "限界",
+        "hiragana": "げんかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "한계"
+    },
+    {
+        "kanji": "研究",
+        "hiragana": "けんきゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연구"
+    },
+    {
+        "kanji": "現金",
+        "hiragana": "げんきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "현금;현찰, 타산적임"
+    },
+    {
+        "kanji": "言語",
+        "hiragana": "げんご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "언어;말"
+    },
+    {
+        "kanji": "健康",
+        "hiragana": "けんこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "건강, 몸에 탈이 없이 튼튼함, 건전"
+    },
+    {
+        "kanji": "検査",
+        "hiragana": "けんさ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "검사"
+    },
+    {
+        "kanji": "現在",
+        "hiragana": "げんざい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "현재, 지금, 현존함"
+    },
+    {
+        "kanji": "現実",
+        "hiragana": "げんじつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "현실"
+    },
+    {
+        "kanji": "建設",
+        "hiragana": "けんせつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "건설"
+    },
+    {
+        "kanji": "現代",
+        "hiragana": "げんだい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "현대"
+    },
+    {
+        "kanji": "限度",
+        "hiragana": "げんど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "한도;한계"
+    },
+    {
+        "kanji": "濃い",
+        "hiragana": "こい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "짙다;진하다, 사이가 좋다;정답다"
+    },
+    {
+        "kanji": "恋",
+        "hiragana": "こい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사랑;연애"
+    },
+    {
+        "kanji": "恋人",
+        "hiragana": "こいびと",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연인;애인"
+    },
+    {
+        "kanji": "斯う",
+        "hiragana": "こう",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "이렇게;이와 같이, 저어"
+    },
+    {
+        "kanji": "幸運",
+        "hiragana": "こううん",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "행운;호운"
+    },
+    {
+        "kanji": "効果",
+        "hiragana": "こうか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "효과"
+    },
+    {
+        "kanji": "工学",
+        "hiragana": "こうがく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "공학"
+    },
+    {
+        "kanji": "合格",
+        "hiragana": "ごうかく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "합격"
+    },
+    {
+        "kanji": "高級",
+        "hiragana": "こうきゅう",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "고급"
+    },
+    {
+        "kanji": "孝行",
+        "hiragana": "こうこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "효행;효도"
+    },
+    {
+        "kanji": "広告",
+        "hiragana": "こうこく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "광고"
+    },
+    {
+        "kanji": "交際",
+        "hiragana": "こうさい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "교제"
+    },
+    {
+        "kanji": "斯うして",
+        "hiragana": "こうして",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "이렇게;이와 같이, 이렇게 해서"
+    },
+    {
+        "kanji": "好調",
+        "hiragana": "こうちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "호조;순조"
+    },
+    {
+        "kanji": "校庭",
+        "hiragana": "こうてい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "교정;학교 마당"
+    },
+    {
+        "kanji": "行動",
+        "hiragana": "こうどう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "행동;행위;→ こうい"
+    },
+    {
+        "kanji": "合同",
+        "hiragana": "ごうどう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "합동, 둘 이상이 하나가 됨;둘 이상..."
+    },
+    {
+        "kanji": "後輩",
+        "hiragana": "こうはい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "후배"
+    },
+    {
+        "kanji": "幸福",
+        "hiragana": "こうふく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "행복"
+    },
+    {
+        "kanji": "紅葉",
+        "hiragana": "こうよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "홍엽;단풍이 듦;또, 그 잎"
+    },
+    {
+        "kanji": "公立",
+        "hiragana": "こうりつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "공립"
+    },
+    {
+        "kanji": "合流",
+        "hiragana": "ごうりゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "합류"
+    },
+    {
+        "kanji": "効力",
+        "hiragana": "こうりょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "효력"
+    },
+    {
+        "kanji": "誤解",
+        "hiragana": "ごかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "오해"
+    },
+    {
+        "kanji": "語学",
+        "hiragana": "ごがく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "어학"
+    },
+    {
+        "kanji": "故郷",
+        "hiragana": "こきょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "고향"
+    },
+    {
+        "kanji": "国語",
+        "hiragana": "こくご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "국어"
+    },
+    {
+        "kanji": "黒板",
+        "hiragana": "こくばん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "흑판;칠판"
+    },
+    {
+        "kanji": "御座います",
+        "hiragana": "ございます",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "‘ ある ’‘ である ’의 공손한 말;→ ござ ..."
+    },
+    {
+        "kanji": "腰",
+        "hiragana": "こし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "허리, 허리에 비유한 사물의 중간 부..."
+    },
+    {
+        "kanji": "国会",
+        "hiragana": "こっかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "국회"
+    },
+    {
+        "kanji": "",
+        "hiragana": "こっそり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "가만히;살짝;몰래"
+    },
+    {
+        "kanji": "此方",
+        "hiragana": "こっち",
+        "katakana": "",
+        "type": "대명사",
+        "hangul": "이쪽;여기;이리"
+    },
+    {
+        "kanji": "小包",
+        "hiragana": "こづつみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소포, 작은 꾸러미, ‘ 小包郵便 ’의 ..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "こと",
+        "katakana": "",
+        "type": "조사",
+        "hangul": "감동 · 의문 · 동의 · 권유를 나타냄, 단정..."
+    },
+    {
+        "kanji": "断(わ)る",
+        "hiragana": "ことわる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "거절하다, 받지 않다;사퇴하다, 예고..."
+    },
+    {
+        "kanji": "好み",
+        "hiragana": "このみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "좋아함;취미, 주문;희망, 유행;취향"
+    },
+    {
+        "kanji": "好む",
+        "hiragana": "このむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "좋아하다;즐기다, 바라다;→ このんで"
+    },
+    {
+        "kanji": "零す·溢す",
+        "hiragana": "こぼす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "흘리다;엎지르다, 불평하다;투덜대다,..."
+    },
+    {
+        "kanji": "零れる·溢れる",
+        "hiragana": "こぼれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "넘치다, 넘쳐흐르다;흘러나오다, 냄새..."
+    },
+    {
+        "kanji": "五味",
+        "hiragana": "ごみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "오미"
+    },
+    {
+        "kanji": "小指",
+        "hiragana": "こゆび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소지;새끼가락, 아내 · 첩 · 정부 등을 ..."
+    },
+    {
+        "kanji": "転がす",
+        "hiragana": "ころがす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "굴리다, 넘어뜨리다;쓰러뜨리다, 여러..."
+    },
+    {
+        "kanji": "転がる",
+        "hiragana": "ころがる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "구르다, 자빠지다, 쓰러지다;넘어지다"
+    },
+    {
+        "kanji": "殺す",
+        "hiragana": "ころす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "죽이다, 목숨을 끊다, 의식적으로 기..."
+    },
+    {
+        "kanji": "今後",
+        "hiragana": "こんご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "금후;차후;앞으로"
+    },
+    {
+        "kanji": "混雑",
+        "hiragana": "こんざつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "혼잡"
+    },
+    {
+        "kanji": "混乱",
+        "hiragana": "こんらん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "혼란"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "サービス",
+        "type": "명사",
+        "hangul": "서비스, 봉사, 접대"
+    },
+    {
+        "kanji": "最高",
+        "hiragana": "さいこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "최고"
+    },
+    {
+        "kanji": "祭日",
+        "hiragana": "さいじつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제일, 신사의 제사가 있는 날, 일본..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "サイズ",
+        "type": "명사",
+        "hangul": "사이즈;크기;치수"
+    },
+    {
+        "kanji": "再生",
+        "hiragana": "さいせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "재생;회생;갱생"
+    },
+    {
+        "kanji": "最低",
+        "hiragana": "さいてい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "최저;최하, 인품 · 성질 등이 형편없음"
+    },
+    {
+        "kanji": "採点",
+        "hiragana": "さいてん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "채점"
+    },
+    {
+        "kanji": "才能",
+        "hiragana": "さいのう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "재능"
+    },
+    {
+        "kanji": "材料",
+        "hiragana": "ざいりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "재료, 원료;자재, 자료;데이터"
+    },
+    {
+        "kanji": "一昨昨日",
+        "hiragana": "さきおととい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "그끄저께"
+    },
+    {
+        "kanji": "作業",
+        "hiragana": "さぎょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "작업"
+    },
+    {
+        "kanji": "作者",
+        "hiragana": "さくしゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "작자;만든 사람"
+    },
+    {
+        "kanji": "叫ぶ",
+        "hiragana": "さけぶ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "외치다;부르짖다;강하게 주장하다"
+    },
+    {
+        "kanji": "避ける",
+        "hiragana": "さける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "피하다;꺼리다"
+    },
+    {
+        "kanji": "座席",
+        "hiragana": "ざせき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "좌석;자리"
+    },
+    {
+        "kanji": "誘う",
+        "hiragana": "さそう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "꾀다, 권하다, 유혹하다"
+    },
+    {
+        "kanji": "作家",
+        "hiragana": "さっか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "작가"
+    },
+    {
+        "kanji": "作曲",
+        "hiragana": "さっきょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "작곡"
+    },
+    {
+        "kanji": "",
+        "hiragana": "さっさと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "빨랑빨랑;척척;데꺽"
+    },
+    {
+        "kanji": "",
+        "hiragana": "ざっと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "휙;쏴, 좍, 거춤거춤;대충"
+    },
+    {
+        "kanji": "薩張",
+        "hiragana": "さっぱり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "후련한 모양;산뜻한 모양, 남김없이;..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "サボる",
+        "type": "동사",
+        "hangul": "사보타주하다;게으름 피우다"
+    },
+    {
+        "kanji": "冷ます",
+        "hiragana": "さます",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "식히다"
+    },
+    {
+        "kanji": "覚ます",
+        "hiragana": "さます",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "깨다;깨우치다;깨우다"
+    },
+    {
+        "kanji": "冷める",
+        "hiragana": "さめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "식다"
+    },
+    {
+        "kanji": "覚める",
+        "hiragana": "さめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "깨다;눈이 뜨이다;제정신이 들다"
+    },
+    {
+        "kanji": "皿",
+        "hiragana": "さら",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "접시, 접시에 담아 내놓는 요리, 접..."
+    },
+    {
+        "kanji": "去る",
+        "hiragana": "さる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "떠나다, 때가 지나가다;경과하다, 멀..."
+    },
+    {
+        "kanji": "猿",
+        "hiragana": "さる",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "원숭이, 잔재주 부리는 사람, 흉내 ..."
+    },
+    {
+        "kanji": "騒ぎ",
+        "hiragana": "さわぎ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소동;소란, 그런 정도;이만저만한 정..."
+    },
+    {
+        "kanji": "産",
+        "hiragana": "さん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "낳음, 출신지;산지, 재산"
+    },
+    {
+        "kanji": "参加",
+        "hiragana": "さんか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "참가"
+    },
+    {
+        "kanji": "詩",
+        "hiragana": "し",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "시"
+    },
+    {
+        "kanji": "仕上(が)る",
+        "hiragana": "しあがる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "마무리되다;다 되다, 준비 태세가 갖..."
+    },
+    {
+        "kanji": "仕上げる",
+        "hiragana": "しあげる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "일을 끝내다;마무르다, 성공하다;성취..."
+    },
+    {
+        "kanji": "幸せ·仕合(わ)せ",
+        "hiragana": "しあわせ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "운수;운, 운이 좋음;행운"
+    },
+    {
+        "kanji": "寺院",
+        "hiragana": "じいん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사원;사찰;절"
+    },
+    {
+        "kanji": "",
+        "hiragana": "しいんと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "쥐 죽은 듯이;찬물을 뿌린 듯;괴괴히"
+    },
+    {
+        "kanji": "塩辛い",
+        "hiragana": "しおからい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "짜다"
+    },
+    {
+        "kanji": "司会",
+        "hiragana": "しかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사회"
+    },
+    {
+        "kanji": "然る",
+        "hiragana": "しかる",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "그러하다"
+    },
+    {
+        "kanji": "式",
+        "hiragana": "しき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "식, 의식, 산식"
+    },
+    {
+        "kanji": "四季",
+        "hiragana": "しき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사계;네 계절;사철"
+    },
+    {
+        "kanji": "事件",
+        "hiragana": "じけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사건"
+    },
+    {
+        "kanji": "時刻",
+        "hiragana": "じこく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "시각;때;시간"
+    },
+    {
+        "kanji": "自習",
+        "hiragana": "じしゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "자습"
+    },
+    {
+        "kanji": "事情",
+        "hiragana": "じじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사정"
+    },
+    {
+        "kanji": "詩人",
+        "hiragana": "しじん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "시인"
+    },
+    {
+        "kanji": "沈む",
+        "hiragana": "しずむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가라앉다, 지다, → しずめる"
+    },
+    {
+        "kanji": "自然",
+        "hiragana": "しぜん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "자연, 천지 만물, 되어가는 추세 · 이..."
+    },
+    {
+        "kanji": "事前",
+        "hiragana": "じぜん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사전"
+    },
+    {
+        "kanji": "時速",
+        "hiragana": "じそく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "시속"
+    },
+    {
+        "kanji": "従う",
+        "hiragana": "したがう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "따르다;좇다, 쏠리다, → したがえる"
+    },
+    {
+        "kanji": "下書(き)",
+        "hiragana": "したがき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "초를 잡음;또, 초잡은 글;초고"
+    },
+    {
+        "kanji": "失業",
+        "hiragana": "しつぎょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "실업"
+    },
+    {
+        "kanji": "湿気",
+        "hiragana": "しっけ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "습기"
+    },
+    {
+        "kanji": "実現",
+        "hiragana": "じつげん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "실현"
+    },
+    {
+        "kanji": "",
+        "hiragana": "しつこい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "끈덕지다;끈질기다, 짙다;농후하다"
+    },
+    {
+        "kanji": "実行",
+        "hiragana": "じっこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "실행"
+    },
+    {
+        "kanji": "湿度",
+        "hiragana": "しつど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "습도"
+    },
+    {
+        "kanji": "",
+        "hiragana": "じっと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "꼼짝 않고, 가만히;꾹"
+    },
+    {
+        "kanji": "実は",
+        "hiragana": "じつは",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "실은;사실은;정말은"
+    },
+    {
+        "kanji": "実力",
+        "hiragana": "じつりょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "실력"
+    },
+    {
+        "kanji": "失恋",
+        "hiragana": "しつれん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "실연"
+    },
+    {
+        "kanji": "指定",
+        "hiragana": "してい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지정"
+    },
+    {
+        "kanji": "私鉄",
+        "hiragana": "してつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사철;민영 철도"
+    },
+    {
+        "kanji": "支店",
+        "hiragana": "してん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지점"
+    },
+    {
+        "kanji": "指導",
+        "hiragana": "しどう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지도"
+    },
+    {
+        "kanji": "品",
+        "hiragana": "しな",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "물건, 물품;상품, 품질"
+    },
+    {
+        "kanji": "支払う",
+        "hiragana": "しはらう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "지불하다;치르다"
+    },
+    {
+        "kanji": "暫く",
+        "hiragana": "しばらく",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "잠깐, 오래간만;당분간, 일단;가령"
+    },
+    {
+        "kanji": "縛る",
+        "hiragana": "しばる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "묶다, 매다;동이다, 결박하다;붙들어..."
+    },
+    {
+        "kanji": "死亡",
+        "hiragana": "しぼう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사망"
+    },
+    {
+        "kanji": "自慢",
+        "hiragana": "じまん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "자랑"
+    },
+    {
+        "kanji": "染染·沁沁",
+        "hiragana": "しみじみ",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "마음속에 깊이 느끼는 모양, 진실로;..."
+    },
+    {
+        "kanji": "事務",
+        "hiragana": "じむ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사무"
+    },
+    {
+        "kanji": "氏名",
+        "hiragana": "しめい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "씨명;성명"
+    },
+    {
+        "kanji": "締(め)切り·締切",
+        "hiragana": "しめきり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "마감;마감 날짜, 늘 닫혀 있음"
+    },
+    {
+        "kanji": "示す",
+        "hiragana": "しめす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가리키다, 보이다;나타내다"
+    },
+    {
+        "kanji": "地面",
+        "hiragana": "じめん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "땅, 지면, 토지"
+    },
+    {
+        "kanji": "車",
+        "hiragana": "しゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "차;수레, 장기에서 ‘ 飛車 ’의 준말"
+    },
+    {
+        "kanji": "",
+        "hiragana": "しゃがむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "웅크리다;쭈그리다"
+    },
+    {
+        "kanji": "蛇口",
+        "hiragana": "じゃぐち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수도꼭지, 돌담 같은 데에 낸 배수구..."
+    },
+    {
+        "kanji": "車庫",
+        "hiragana": "しゃこ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "차고"
+    },
+    {
+        "kanji": "社説",
+        "hiragana": "しゃせつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사설"
+    },
+    {
+        "kanji": "車輪",
+        "hiragana": "しゃりん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "차륜;수레바퀴, 배우가 열심히 연기함..."
+    },
+    {
+        "kanji": "周囲",
+        "hiragana": "しゅうい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주위, 주위의 사물 · 사람들"
+    },
+    {
+        "kanji": "住居",
+        "hiragana": "じゅうきょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주거"
+    },
+    {
+        "kanji": "重視",
+        "hiragana": "じゅうし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중시"
+    },
+    {
+        "kanji": "就職",
+        "hiragana": "しゅうしょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "취직"
+    },
+    {
+        "kanji": "終点",
+        "hiragana": "しゅうてん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "종점"
+    },
+    {
+        "kanji": "収入",
+        "hiragana": "しゅうにゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수입"
+    },
+    {
+        "kanji": "周辺",
+        "hiragana": "しゅうへん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주변"
+    },
+    {
+        "kanji": "住民",
+        "hiragana": "じゅうみん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주민"
+    },
+    {
+        "kanji": "重要",
+        "hiragana": "じゅうよう",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "중요"
+    },
+    {
+        "kanji": "修理",
+        "hiragana": "しゅうり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수리"
+    },
+    {
+        "kanji": "祝日",
+        "hiragana": "しゅくじつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "축일;→ さいじつ"
+    },
+    {
+        "kanji": "縮小",
+        "hiragana": "しゅくしょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "축소"
+    },
+    {
+        "kanji": "宿泊",
+        "hiragana": "しゅくはく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "숙박"
+    },
+    {
+        "kanji": "受験",
+        "hiragana": "じゅけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수험"
+    },
+    {
+        "kanji": "手術",
+        "hiragana": "しゅじゅつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수술"
+    },
+    {
+        "kanji": "手段",
+        "hiragana": "しゅだん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수단"
+    },
+    {
+        "kanji": "主張",
+        "hiragana": "しゅちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주장;지론"
+    },
+    {
+        "kanji": "出勤",
+        "hiragana": "しゅっきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "출근"
+    },
+    {
+        "kanji": "出血",
+        "hiragana": "しゅっけつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "출혈"
+    },
+    {
+        "kanji": "出現",
+        "hiragana": "しゅつげん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "출현"
+    },
+    {
+        "kanji": "出場",
+        "hiragana": "しゅつじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "출장;경기 · 연기 등을 하기 위해 그 ..."
+    },
+    {
+        "kanji": "出身",
+        "hiragana": "しゅっしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "출신"
+    },
+    {
+        "kanji": "出版",
+        "hiragana": "しゅっぱん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "출판"
+    },
+    {
+        "kanji": "首都",
+        "hiragana": "しゅと",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수도"
+    },
+    {
+        "kanji": "主婦",
+        "hiragana": "しゅふ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주부"
+    },
+    {
+        "kanji": "寿命",
+        "hiragana": "じゅみょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수명"
+    },
+    {
+        "kanji": "種類",
+        "hiragana": "しゅるい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "종류"
+    },
+    {
+        "kanji": "順番",
+        "hiragana": "じゅんばん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "순번;차례"
+    },
+    {
+        "kanji": "消化",
+        "hiragana": "しょうか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소화, 음식물을 잘 삭임, 충분히 이..."
+    },
+    {
+        "kanji": "乗客",
+        "hiragana": "じょうきゃく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "승객"
+    },
+    {
+        "kanji": "上級",
+        "hiragana": "じょうきゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상급"
+    },
+    {
+        "kanji": "上下",
+        "hiragana": "じょうげ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상하, 위와 아래;위아래 전부, 오름..."
+    },
+    {
+        "kanji": "条件",
+        "hiragana": "じょうけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "조건, 낱낱의 조목"
+    },
+    {
+        "kanji": "正午",
+        "hiragana": "しょうご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정오;한낮"
+    },
+    {
+        "kanji": "上司",
+        "hiragana": "じょうし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상사;상급 관청;직장의 윗사람"
+    },
+    {
+        "kanji": "正直",
+        "hiragana": "しょうじき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정직, 연추, 사실은;솔직히 말해서"
+    },
+    {
+        "kanji": "常識",
+        "hiragana": "じょうしき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상식"
+    },
+    {
+        "kanji": "乗車",
+        "hiragana": "じょうしゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "승차"
+    },
+    {
+        "kanji": "上旬",
+        "hiragana": "じょうじゅん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상순"
+    },
+    {
+        "kanji": "少女",
+        "hiragana": "しょうじょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소녀"
+    },
+    {
+        "kanji": "少少",
+        "hiragana": "しょうしょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소소;조금;약간"
+    },
+    {
+        "kanji": "症状",
+        "hiragana": "しょうじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "증상"
+    },
+    {
+        "kanji": "冗談",
+        "hiragana": "じょうだん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "농담;농"
+    },
+    {
+        "kanji": "商店",
+        "hiragana": "しょうてん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상점;가게"
+    },
+    {
+        "kanji": "商人",
+        "hiragana": "しょうにん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상인;장사꾼"
+    },
+    {
+        "kanji": "少年",
+        "hiragana": "しょうねん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소년"
+    },
+    {
+        "kanji": "商売",
+        "hiragana": "しょうばい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "장사, 직업;전문"
+    },
+    {
+        "kanji": "消費",
+        "hiragana": "しょうひ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소비"
+    },
+    {
+        "kanji": "商品",
+        "hiragana": "しょうひん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상품"
+    },
+    {
+        "kanji": "賞品",
+        "hiragana": "しょうひん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상품"
+    },
+    {
+        "kanji": "上品",
+        "hiragana": "じょうひん",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "고상함;품위가 있음"
+    },
+    {
+        "kanji": "消防",
+        "hiragana": "しょうぼう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소방;또, 소방 직원"
+    },
+    {
+        "kanji": "情報",
+        "hiragana": "じょうほう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정보"
+    },
+    {
+        "kanji": "証明",
+        "hiragana": "しょうめい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "증명"
+    },
+    {
+        "kanji": "正面",
+        "hiragana": "しょうめん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정면"
+    },
+    {
+        "kanji": "初級",
+        "hiragana": "しょきゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "초급;최초의 등급"
+    },
+    {
+        "kanji": "職業",
+        "hiragana": "しょくぎょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "직업"
+    },
+    {
+        "kanji": "職場",
+        "hiragana": "しょくば",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "직장"
+    },
+    {
+        "kanji": "食品",
+        "hiragana": "しょくひん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "식품;식료품"
+    },
+    {
+        "kanji": "植物",
+        "hiragana": "しょくぶつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "식물"
+    },
+    {
+        "kanji": "食欲",
+        "hiragana": "しょくよく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "식욕"
+    },
+    {
+        "kanji": "女子",
+        "hiragana": "じょし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "여자, 계집아이;딸, 여인;여성"
+    },
+    {
+        "kanji": "徐徐に",
+        "hiragana": "じょじょに",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "서서히;천천히;점차"
+    },
+    {
+        "kanji": "食器",
+        "hiragana": "しょっき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "식기"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ショップ",
+        "type": "명사",
+        "hangul": "숍;상점;가게"
+    },
+    {
+        "kanji": "書店",
+        "hiragana": "しょてん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "서점;책방;또, 출판사"
+    },
+    {
+        "kanji": "女優",
+        "hiragana": "じょゆう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "여우;여배우"
+    },
+    {
+        "kanji": "書類",
+        "hiragana": "しょるい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "서류"
+    },
+    {
+        "kanji": "知らせ",
+        "hiragana": "しらせ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "알림;통지, 전조;조짐"
+    },
+    {
+        "kanji": "知(り)合い·知合",
+        "hiragana": "しりあい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "아는 사이;친지"
+    },
+    {
+        "kanji": "私立",
+        "hiragana": "しりつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사립"
+    },
+    {
+        "kanji": "資料",
+        "hiragana": "しりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "자료"
+    },
+    {
+        "kanji": "印",
+        "hiragana": "しるし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "표;표지, 안표, 정표;증표"
+    },
+    {
+        "kanji": "進学",
+        "hiragana": "しんがく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "진학"
+    },
+    {
+        "kanji": "新幹線",
+        "hiragana": "しんかんせん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "신간선"
+    },
+    {
+        "kanji": "信号",
+        "hiragana": "しんごう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "신호, 신호 장치, 약속된 방법으로 ..."
+    },
+    {
+        "kanji": "診察",
+        "hiragana": "しんさつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "진찰"
+    },
+    {
+        "kanji": "人種",
+        "hiragana": "じんしゅ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "인종, 족속;…족"
+    },
+    {
+        "kanji": "申請",
+        "hiragana": "しんせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "신청"
+    },
+    {
+        "kanji": "人生",
+        "hiragana": "じんせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "인생, 사람이 이 세상에 살아감, 사..."
+    },
+    {
+        "kanji": "親戚",
+        "hiragana": "しんせき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "친척;집안"
+    },
+    {
+        "kanji": "親切",
+        "hiragana": "しんせつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "친절"
+    },
+    {
+        "kanji": "身長",
+        "hiragana": "しんちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "신장;키"
+    },
+    {
+        "kanji": "進歩",
+        "hiragana": "しんぽ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "진보"
+    },
+    {
+        "kanji": "深夜",
+        "hiragana": "しんや",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "심야"
+    },
+    {
+        "kanji": "親友",
+        "hiragana": "しんゆう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "친우;친구;벗"
+    },
+    {
+        "kanji": "心理",
+        "hiragana": "しんり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "심리, 마음의 작용;의식의 상태나 변..."
+    },
+    {
+        "kanji": "親類",
+        "hiragana": "しんるい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "친척;일가"
+    },
+    {
+        "kanji": "酢",
+        "hiragana": "す",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "초;식초"
+    },
+    {
+        "kanji": "水滴",
+        "hiragana": "すいてき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수적, 물방울, 연적"
+    },
+    {
+        "kanji": "睡眠",
+        "hiragana": "すいみん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수면"
+    },
+    {
+        "kanji": "図図しい",
+        "hiragana": "ずうずうしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "뻔뻔스럽다;넉살 좋다"
+    },
+    {
+        "kanji": "末っ子",
+        "hiragana": "すえっこ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "막내;막내둥이"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "スカーフ",
+        "type": "명사",
+        "hangul": "스카프;목도리"
+    },
+    {
+        "kanji": "好き嫌い",
+        "hiragana": "すききらい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "호불호;좋아함과 싫어함"
+    },
+    {
+        "kanji": "剝く",
+        "hiragana": "すく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "얇게 깎다;얇게 벗기다"
+    },
+    {
+        "kanji": "透く",
+        "hiragana": "すく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "틈이 나다;틈새가 벌다, 성기다, 들..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "スクール",
+        "type": "명사",
+        "hangul": "스쿨, 학교, 학파"
+    },
+    {
+        "kanji": "少なくとも",
+        "hiragana": "すくなくとも",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "적어도"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "スケート",
+        "type": "명사",
+        "hangul": "스케이트, ‘ ローラースケート ’의 준말..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "スケジュール",
+        "type": "명사",
+        "hangul": "스케줄;일정;예정"
+    },
+    {
+        "kanji": "少しも",
+        "hiragana": "すこしも",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "조금도;전혀"
+    },
+    {
+        "kanji": "過(ご)す",
+        "hiragana": "すごす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "보내다, 경과시키다;소비하다, 지내다..."
+    },
+    {
+        "kanji": "勧める",
+        "hiragana": "すすめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "권하다;권고하다;권유하다"
+    },
+    {
+        "kanji": "進める",
+        "hiragana": "すすめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "앞으로 나아가게 하다, 앞으로 움직이..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "スタイル",
+        "type": "명사",
+        "hangul": "스타일, 모습;모양, 양식;형"
+    },
+    {
+        "kanji": "素敵·素的",
+        "hiragana": "すてき",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "썩 뛰어남;매우 근사함;아주 멋짐"
+    },
+    {
+        "kanji": "既に",
+        "hiragana": "すでに",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "이미;벌써, 거의;자칫, 전혀;모두"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ストップ",
+        "type": "명사",
+        "hangul": "스톱;정지, 정류소"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ストレス",
+        "type": "명사",
+        "hangul": "스트레스, 정신적 · 육체적으로 받는 자..."
+    },
+    {
+        "kanji": "素直",
+        "hiragana": "すなお",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "고분고분함;순직함, 굽거나 일그러..."
+    },
+    {
+        "kanji": "統べる",
+        "hiragana": "すべる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "총괄하다;통합하다, 전하여, 통솔 · 지..."
+    },
+    {
+        "kanji": "住(ま)い",
+        "hiragana": "すまい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주거;주소;사는 일"
+    },
+    {
+        "kanji": "済ませる",
+        "hiragana": "すませる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "→ すます"
+    },
+    {
+        "kanji": "隅",
+        "hiragana": "すみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "모퉁이;귀퉁이, 구석"
+    },
+    {
+        "kanji": "済む",
+        "hiragana": "すむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "완료되다;끝나다, 해결되다;되다, 변..."
+    },
+    {
+        "kanji": "刷り",
+        "hiragana": "すり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "인쇄;쇄"
+    },
+    {
+        "kanji": "鋭い",
+        "hiragana": "するどい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "날카롭다;예리하다;예민하다"
+    },
+    {
+        "kanji": "税",
+        "hiragana": "ぜい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "세;세금"
+    },
+    {
+        "kanji": "正確",
+        "hiragana": "せいかく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정확"
+    },
+    {
+        "kanji": "性格",
+        "hiragana": "せいかく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "성격"
+    },
+    {
+        "kanji": "税金",
+        "hiragana": "ぜいきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "세금"
+    },
+    {
+        "kanji": "成功",
+        "hiragana": "せいこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "성공"
+    },
+    {
+        "kanji": "正式",
+        "hiragana": "せいしき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정식"
+    },
+    {
+        "kanji": "性質",
+        "hiragana": "せいしつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "성질"
+    },
+    {
+        "kanji": "青春",
+        "hiragana": "せいしゅん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "청춘, 봄"
+    },
+    {
+        "kanji": "正常",
+        "hiragana": "せいじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정상"
+    },
+    {
+        "kanji": "青少年",
+        "hiragana": "せいしょうねん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "청소년"
+    },
+    {
+        "kanji": "成人",
+        "hiragana": "せいじん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "성인, 어른, 자라서 어른이 됨"
+    },
+    {
+        "kanji": "成績",
+        "hiragana": "せいせき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "성적"
+    },
+    {
+        "kanji": "清掃",
+        "hiragana": "せいそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "청소, 쓰레기나 분뇨 따위를 처리함"
+    },
+    {
+        "kanji": "成長",
+        "hiragana": "せいちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "성장"
+    },
+    {
+        "kanji": "青年",
+        "hiragana": "せいねん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "청년"
+    },
+    {
+        "kanji": "製品",
+        "hiragana": "せいひん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제품"
+    },
+    {
+        "kanji": "制服",
+        "hiragana": "せいふく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제복"
+    },
+    {
+        "kanji": "正門",
+        "hiragana": "せいもん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정문"
+    },
+    {
+        "kanji": "整理",
+        "hiragana": "せいり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정리, 질서를 바로잡음, 불필요한 것..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "セール",
+        "type": "명사",
+        "hangul": "세일;매출"
+    },
+    {
+        "kanji": "咳",
+        "hiragana": "せき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기침"
+    },
+    {
+        "kanji": "責任",
+        "hiragana": "せきにん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "책임"
+    },
+    {
+        "kanji": "石油",
+        "hiragana": "せきゆ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "석유;→ げんゆ"
+    },
+    {
+        "kanji": "節約",
+        "hiragana": "せつやく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "절약"
+    },
+    {
+        "kanji": "是非",
+        "hiragana": "ぜひ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "시비;옳고 그름, 사물의 시비를 가림"
+    },
+    {
+        "kanji": "全員",
+        "hiragana": "ぜんいん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전원"
+    },
+    {
+        "kanji": "選挙",
+        "hiragana": "せんきょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "선거"
+    },
+    {
+        "kanji": "専攻",
+        "hiragana": "せんこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전공"
+    },
+    {
+        "kanji": "洗剤",
+        "hiragana": "せんざい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "세제"
+    },
+    {
+        "kanji": "先日",
+        "hiragana": "せんじつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "요전"
+    },
+    {
+        "kanji": "全身",
+        "hiragana": "ぜんしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전신;온몸"
+    },
+    {
+        "kanji": "漸漸",
+        "hiragana": "ぜんぜん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "점점, 차례로 나아가는 모양, 차례차..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "センター",
+        "type": "명사",
+        "hangul": "센터, 중앙;중심, 중견;중견수"
+    },
+    {
+        "kanji": "選択",
+        "hiragana": "せんたく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "선택"
+    },
+    {
+        "kanji": "宣伝",
+        "hiragana": "せんでん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "선전"
+    },
+    {
+        "kanji": "扇風機",
+        "hiragana": "せんぷうき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "선풍기"
+    },
+    {
+        "kanji": "線路",
+        "hiragana": "せんろ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "선로;궤도"
+    },
+    {
+        "kanji": "騒音",
+        "hiragana": "そうおん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소음"
+    },
+    {
+        "kanji": "送金",
+        "hiragana": "そうきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "송금"
+    },
+    {
+        "kanji": "総合",
+        "hiragana": "そうごう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "종합"
+    },
+    {
+        "kanji": "想像",
+        "hiragana": "そうぞう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상상"
+    },
+    {
+        "kanji": "相続",
+        "hiragana": "そうぞく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상속"
+    },
+    {
+        "kanji": "相当",
+        "hiragana": "そうとう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상당;상응, 상당히;상당함"
+    },
+    {
+        "kanji": "送料",
+        "hiragana": "そうりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "송료"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ソース",
+        "type": "명사",
+        "hangul": "소스"
+    },
+    {
+        "kanji": "続続",
+        "hiragana": "ぞくぞく",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "속속;잇따라"
+    },
+    {
+        "kanji": "速達",
+        "hiragana": "そくたつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "속달"
+    },
+    {
+        "kanji": "測定",
+        "hiragana": "そくてい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "측정"
+    },
+    {
+        "kanji": "速度",
+        "hiragana": "そくど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "속도"
+    },
+    {
+        "kanji": "測量",
+        "hiragana": "そくりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "측량"
+    },
+    {
+        "kanji": "底",
+        "hiragana": "そこ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "바닥, 밑, 창"
+    },
+    {
+        "kanji": "注ぐ",
+        "hiragana": "そそぐ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "흘러 들어가다, 쏟아지다, 쏟다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "そそっかしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "경솔하다;덜렁덜렁하다"
+    },
+    {
+        "kanji": "育つ",
+        "hiragana": "そだつ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "자라다;성장하다, → そだてる"
+    },
+    {
+        "kanji": "",
+        "hiragana": "そっくり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "전부;몽땅, 꼭 닮음, 그대로임;고스..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "そっと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "살짝;가만히, → ちっとやそっと"
+    },
+    {
+        "kanji": "袖",
+        "hiragana": "そで",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소매, 대문 양쪽의 울타리, 책상 양..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ソファー",
+        "type": "명사",
+        "hangul": "소파;긴의자;→ ベンチ"
+    },
+    {
+        "kanji": "夫れ夫れ·其れ其れ",
+        "hiragana": "それぞれ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "각기;각각;각자"
+    },
+    {
+        "kanji": "揃う",
+        "hiragana": "そろう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "갖추어지다, 모이다;차다, → そろえる"
+    },
+    {
+        "kanji": "揃える",
+        "hiragana": "そろえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가지런히 하다;같게 하다, 갖추다, ..."
+    },
+    {
+        "kanji": "代",
+        "hiragana": "だい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대, 제왕 · 가구주 · 경영자 등이 그 지..."
+    },
+    {
+        "kanji": "体育",
+        "hiragana": "たいいく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "체육"
+    },
+    {
+        "kanji": "体温",
+        "hiragana": "たいおん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "체온"
+    },
+    {
+        "kanji": "大会",
+        "hiragana": "たいかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대회"
+    },
+    {
+        "kanji": "退学",
+        "hiragana": "たいがく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "퇴학"
+    },
+    {
+        "kanji": "代金",
+        "hiragana": "だいきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대금"
+    },
+    {
+        "kanji": "対策",
+        "hiragana": "たいさく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대책"
+    },
+    {
+        "kanji": "大した",
+        "hiragana": "たいした",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "대단한, 엄청난;굉장한, 이렇다 ..."
+    },
+    {
+        "kanji": "大して",
+        "hiragana": "たいして",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "그다지;별로"
+    },
+    {
+        "kanji": "体重",
+        "hiragana": "たいじゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "체중;몸무게"
+    },
+    {
+        "kanji": "退職",
+        "hiragana": "たいしょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "퇴직"
+    },
+    {
+        "kanji": "大腿",
+        "hiragana": "だいたい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대퇴;넓적다리"
+    },
+    {
+        "kanji": "態度",
+        "hiragana": "たいど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "태도"
+    },
+    {
+        "kanji": "大統領",
+        "hiragana": "だいとうりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대통령, 친밀감을 나타내어 부르는 말"
+    },
+    {
+        "kanji": "代表",
+        "hiragana": "だいひょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대표"
+    },
+    {
+        "kanji": "大夫",
+        "hiragana": "だいぶ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일본의  令  제도 아래서  職  및  坊 라는..."
+    },
+    {
+        "kanji": "逮捕",
+        "hiragana": "たいほ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "체포"
+    },
+    {
+        "kanji": "題名",
+        "hiragana": "だいめい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제명;제목"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ダイヤモンド",
+        "type": "명사",
+        "hangul": "다이아몬드, 금강석, → ダイヤ 2"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ダイヤル",
+        "type": "명사",
+        "hangul": "다이얼, 라디오 수신기의 눈금, 자동..."
+    },
+    {
+        "kanji": "代理",
+        "hiragana": "だいり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "대리"
+    },
+    {
+        "kanji": "体力",
+        "hiragana": "たいりょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "체력"
+    },
+    {
+        "kanji": "倒す",
+        "hiragana": "たおす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "쓰러뜨리다, 넘어뜨리다, 죽이다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "タオル",
+        "type": "명사",
+        "hangul": "타월;수건;또, 그 천"
+    },
+    {
+        "kanji": "",
+        "hiragana": "だが",
+        "katakana": "",
+        "type": "기타",
+        "hangul": "그러나;그렇지만"
+    },
+    {
+        "kanji": "高まる",
+        "hiragana": "たかまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "높아지다"
+    },
+    {
+        "kanji": "高める",
+        "hiragana": "たかめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "높이다"
+    },
+    {
+        "kanji": "宝",
+        "hiragana": "たから",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "보물;보배, 돈"
+    },
+    {
+        "kanji": "抱く",
+        "hiragana": "だく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "안다, 전하여, 마음속에 품다, 이성..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "だけど",
+        "katakana": "",
+        "type": "기타",
+        "hangul": "‘ だけれども ’의 준말"
+    },
+    {
+        "kanji": "確かめる",
+        "hiragana": "たしかめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "확실히 하다;확인하다"
+    },
+    {
+        "kanji": "足し算",
+        "hiragana": "たしざん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "덧셈;가산"
+    },
+    {
+        "kanji": "多少",
+        "hiragana": "たしょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "많음과 적음, 좀;약간, 어지간히;꽤"
+    },
+    {
+        "kanji": "堕す",
+        "hiragana": "だす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "→ だする"
+    },
+    {
+        "kanji": "助かる",
+        "hiragana": "たすかる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "살아나다;면하다, 도움이 되다;편해지..."
+    },
+    {
+        "kanji": "助ける",
+        "hiragana": "たすける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "구조하다;살리다, 돕다, 거들다"
+    },
+    {
+        "kanji": "徒",
+        "hiragana": "ただ",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "헛됨;헛…"
+    },
+    {
+        "kanji": "戦い",
+        "hiragana": "たたかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "싸움, 전쟁;전투, 투기;경기"
+    },
+    {
+        "kanji": "叩く·敲く",
+        "hiragana": "たたく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "치다, 계속해 쳐서 소리를 내다;두드..."
+    },
+    {
+        "kanji": "畳む",
+        "hiragana": "たたむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "접다, 꺾어 접다, 개다;개키다"
+    },
+    {
+        "kanji": "立(ち)上がる",
+        "hiragana": "たちあがる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "일어서다, 일어나다, 기운을 되찾다"
+    },
+    {
+        "kanji": "立ち止(ま)る",
+        "hiragana": "たちどまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "멈추어 서다"
+    },
+    {
+        "kanji": "抱っこ",
+        "hiragana": "だっこ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "안음;안김"
+    },
+    {
+        "kanji": "",
+        "hiragana": "たっぷり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "충분한 모양;듬뿍, 넉넉;낙낙"
+    },
+    {
+        "kanji": "立てる",
+        "hiragana": "たてる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "세우다, 누운 것을 곧추 서게 하다,..."
+    },
+    {
+        "kanji": "種",
+        "hiragana": "たね",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "종자;씨, 원인, 거리;재료"
+    },
+    {
+        "kanji": "楽しむ",
+        "hiragana": "たのしむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "즐기다;좋아하다, 기대를 걸고 즐기다..."
+    },
+    {
+        "kanji": "頼もしい",
+        "hiragana": "たのもしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "믿음직하다;미덥다;기대할 만하다"
+    },
+    {
+        "kanji": "旅",
+        "hiragana": "たび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "여행"
+    },
+    {
+        "kanji": "騙す",
+        "hiragana": "だます",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "속이다, 달래다;그치게 하다, 호리다"
+    },
+    {
+        "kanji": "偶·偶偶·適",
+        "hiragana": "たまたま",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "가끔;이따금, 우연히;때마침"
+    },
+    {
+        "kanji": "溜まる",
+        "hiragana": "たまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "모이다, 괴다, 어떤 곳에 머물다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ダム",
+        "type": "명사",
+        "hangul": "댐"
+    },
+    {
+        "kanji": "溜め",
+        "hiragana": "ため",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "모아 둠;그 장소,  江戸  시대에 병든..."
+    },
+    {
+        "kanji": "貯める·溜める",
+        "hiragana": "ためる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "모으다, 저축하다, 막아 담아 두다"
+    },
+    {
+        "kanji": "短期",
+        "hiragana": "たんき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "단기"
+    },
+    {
+        "kanji": "単語",
+        "hiragana": "たんご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "단어;낱말"
+    },
+    {
+        "kanji": "男子",
+        "hiragana": "だんし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사내아이;아들, 남자;남성"
+    },
+    {
+        "kanji": "誕生",
+        "hiragana": "たんじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "탄생, 첫돌"
+    },
+    {
+        "kanji": "断水",
+        "hiragana": "だんすい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "단수"
+    },
+    {
+        "kanji": "団体",
+        "hiragana": "だんたい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "단체"
+    },
+    {
+        "kanji": "担当",
+        "hiragana": "たんとう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "담당"
+    },
+    {
+        "kanji": "単に",
+        "hiragana": "たんに",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "단지;다만;그저"
+    },
+    {
+        "kanji": "暖房",
+        "hiragana": "だんぼう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "난방"
+    },
+    {
+        "kanji": "地下",
+        "hiragana": "ちか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지하"
+    },
+    {
+        "kanji": "違い",
+        "hiragana": "ちがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "틀림;차이;상이"
+    },
+    {
+        "kanji": "近づける",
+        "hiragana": "ちかづける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가까이 하다, 가까이 대다, 가까이 ..."
+    },
+    {
+        "kanji": "地球",
+        "hiragana": "ちきゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지구"
+    },
+    {
+        "kanji": "遅刻",
+        "hiragana": "ちこく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지각"
+    },
+    {
+        "kanji": "知人",
+        "hiragana": "ちじん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지인;지기"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "チップ",
+        "type": "명사",
+        "hangul": "칩, 목재를 잘게 자른 것;나무토막,..."
+    },
+    {
+        "kanji": "地方",
+        "hiragana": "ちほう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지방, 어느 일정한 지역, 수도 이외..."
+    },
+    {
+        "kanji": "地名",
+        "hiragana": "ちめい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지명"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "チャンス",
+        "type": "명사",
+        "hangul": "찬스;기회;호기"
+    },
+    {
+        "kanji": "",
+        "hiragana": "ちゃんと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "정확하고 틀림이 없는 모양, 단정하게..."
+    },
+    {
+        "kanji": "中央",
+        "hiragana": "ちゅうおう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중앙"
+    },
+    {
+        "kanji": "中学",
+        "hiragana": "ちゅうがく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중학;‘ 中学校 ’의 준말"
+    },
+    {
+        "kanji": "中間",
+        "hiragana": "ちゅうかん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중간"
+    },
+    {
+        "kanji": "中古",
+        "hiragana": "ちゅうこ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중고, 중고 시대"
+    },
+    {
+        "kanji": "注射",
+        "hiragana": "ちゅうしゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주사"
+    },
+    {
+        "kanji": "中旬",
+        "hiragana": "ちゅうじゅん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중순"
+    },
+    {
+        "kanji": "昼食·中食",
+        "hiragana": "ちゅうしょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주식;점심"
+    },
+    {
+        "kanji": "中心",
+        "hiragana": "ちゅうしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중심, 한가운데;한복판, 가장 중요한..."
+    },
+    {
+        "kanji": "中年",
+        "hiragana": "ちゅうねん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중년"
+    },
+    {
+        "kanji": "注目",
+        "hiragana": "ちゅうもく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주목"
+    },
+    {
+        "kanji": "注文",
+        "hiragana": "ちゅうもん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주문, 맞춤, 희망;조건"
+    },
+    {
+        "kanji": "長",
+        "hiragana": "ちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "장, 긴;기다란, 조직 · 단체 등의 우..."
+    },
+    {
+        "kanji": "超過",
+        "hiragana": "ちょうか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "초과"
+    },
+    {
+        "kanji": "調査",
+        "hiragana": "ちょうさ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "조사"
+    },
+    {
+        "kanji": "調子",
+        "hiragana": "ちょうし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가락, 곡조;장단, 상태;기세"
+    },
+    {
+        "kanji": "長所",
+        "hiragana": "ちょうしょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "장점;미점"
+    },
+    {
+        "kanji": "長女",
+        "hiragana": "ちょうじょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "장녀;맏딸"
+    },
+    {
+        "kanji": "調整",
+        "hiragana": "ちょうせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "조정, 컨디션을 조절함, 어떤 기준에..."
+    },
+    {
+        "kanji": "長男",
+        "hiragana": "ちょうなん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "장남"
+    },
+    {
+        "kanji": "貯金",
+        "hiragana": "ちょきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "저금"
+    },
+    {
+        "kanji": "直後",
+        "hiragana": "ちょくご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "직후, 바로 뒤"
+    },
+    {
+        "kanji": "直接",
+        "hiragana": "ちょくせつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "직접, 사이에 아무것도 끼지 않고 접..."
+    },
+    {
+        "kanji": "直線",
+        "hiragana": "ちょくせん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "직선"
+    },
+    {
+        "kanji": "直前",
+        "hiragana": "ちょくぜん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "직전, 바로 앞"
+    },
+    {
+        "kanji": "直通",
+        "hiragana": "ちょくつう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "직통"
+    },
+    {
+        "kanji": "散らかす",
+        "hiragana": "ちらかす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "흩뜨리다;어지르다, 함부로 …해대다"
+    },
+    {
+        "kanji": "散らかる",
+        "hiragana": "ちらかる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "흩어지다;어지러지다"
+    },
+    {
+        "kanji": "散る",
+        "hiragana": "ちる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "떨어지다;꽃잎이 지다, 흩어지다, 산..."
+    },
+    {
+        "kanji": "対",
+        "hiragana": "つい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "쌍;짝, → ついく , 둘로써 한 쌍을 ..."
+    },
+    {
+        "kanji": "就いて",
+        "hiragana": "ついて",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "…에 관해서;…을 대상으로, …당"
+    },
+    {
+        "kanji": "遂に·終に·竟に",
+        "hiragana": "ついに",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "드디어;마침내, 최후까지;끝끝내"
+    },
+    {
+        "kanji": "通過",
+        "hiragana": "つうか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "통과, 그대로 지나감, 무사히 지남;..."
+    },
+    {
+        "kanji": "通勤",
+        "hiragana": "つうきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "통근, 근무처에 다님, 집에서 다니면..."
+    },
+    {
+        "kanji": "通行",
+        "hiragana": "つうこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "통행, 왕래, 세상에서 널리 쓰임;통..."
+    },
+    {
+        "kanji": "通じる",
+        "hiragana": "つうじる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "통하다, 연결되다;이르다, 다니게 하..."
+    },
+    {
+        "kanji": "通信",
+        "hiragana": "つうしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "통신, 상황을 알림;소식, 뜻을 전하..."
+    },
+    {
+        "kanji": "通帳",
+        "hiragana": "つうちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "통장"
+    },
+    {
+        "kanji": "通訳",
+        "hiragana": "つうやく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "통역"
+    },
+    {
+        "kanji": "捕まる",
+        "hiragana": "つかまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "잡히다"
+    },
+    {
+        "kanji": "摑む·攫む",
+        "hiragana": "つかむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "잡다, 쥐다;붙잡다, 손에 넣다;수중..."
+    },
+    {
+        "kanji": "付き合う",
+        "hiragana": "つきあう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "교제하다;사귀다, 행동을 같이하다;동..."
+    },
+    {
+        "kanji": "次次",
+        "hiragana": "つぎつぎ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "차례차례;계속함;잇닮"
+    },
+    {
+        "kanji": "月日",
+        "hiragana": "つきひ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "월일, 달과 날;날짜, 시일;세월"
+    },
+    {
+        "kanji": "漬ける",
+        "hiragana": "つける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "담그다;절이다"
+    },
+    {
+        "kanji": "伝わる",
+        "hiragana": "つたわる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "전해지다, 작용이 미치다;전도되다, ..."
+    },
+    {
+        "kanji": "土",
+        "hiragana": "つち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "땅, 흙;토양, 대지;육지"
+    },
+    {
+        "kanji": "包(み)",
+        "hiragana": "つつみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "싸는 일;싼 물건, 숨기는 일"
+    },
+    {
+        "kanji": "常に",
+        "hiragana": "つねに",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "늘;항상;언제나"
+    },
+    {
+        "kanji": "潰す",
+        "hiragana": "つぶす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "찌부러뜨리다, 으깨다;부수다, 짓눌러..."
+    },
+    {
+        "kanji": "潰れる",
+        "hiragana": "つぶれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "찌부러지다, 찌그러지다;무너지다, 깨..."
+    },
+    {
+        "kanji": "積む",
+        "hiragana": "つむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "쌓다, 싣다, → つもる"
+    },
+    {
+        "kanji": "強まる",
+        "hiragana": "つよまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "강해지다;세지다"
+    },
+    {
+        "kanji": "強める",
+        "hiragana": "つよめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "강하게 하다;세게 하다"
+    },
+    {
+        "kanji": "辛い",
+        "hiragana": "つらい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "고통스럽다;괴롭다, 모질다;냉혹하다"
+    },
+    {
+        "kanji": "出会(い)·出合(い)",
+        "hiragana": "であい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "처음으로 만남;마주침, 남녀의 밀회,..."
+    },
+    {
+        "kanji": "出会う·出合う",
+        "hiragana": "であう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "우연히 만나다;마주치다, 나와서 싸움..."
+    },
+    {
+        "kanji": "提案",
+        "hiragana": "ていあん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제안"
+    },
+    {
+        "kanji": "定員",
+        "hiragana": "ていいん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정원"
+    },
+    {
+        "kanji": "低下",
+        "hiragana": "ていか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "저하, 내려감, 정도가 떨어짐"
+    },
+    {
+        "kanji": "定期",
+        "hiragana": "ていき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정기"
+    },
+    {
+        "kanji": "停車",
+        "hiragana": "ていしゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정차;정거"
+    },
+    {
+        "kanji": "提出",
+        "hiragana": "ていしゅつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제출"
+    },
+    {
+        "kanji": "停電",
+        "hiragana": "ていでん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "정전"
+    },
+    {
+        "kanji": "出入り",
+        "hiragana": "でいり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "출입;드나듦, 단골, 수지;금전의 출..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "データ",
+        "type": "명사",
+        "hangul": "데이터, 자료, 추론의 기초가 되는 ..."
+    },
+    {
+        "kanji": "出来上(が)る",
+        "hiragana": "できあがる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "물건이 완성되다;이루어지다, 태생이 ..."
+    },
+    {
+        "kanji": "出来事",
+        "hiragana": "できごと",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사건;일"
+    },
+    {
+        "kanji": "適当",
+        "hiragana": "てきとう",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "적당;꼭 들어맞음, 꼭 알맞은 모..."
+    },
+    {
+        "kanji": "出来れば",
+        "hiragana": "できれば",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가능하면;될 수 있으면"
+    },
+    {
+        "kanji": "手首",
+        "hiragana": "てくび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "손목"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "デザート",
+        "type": "명사",
+        "hangul": "디저트;식후의 다과"
+    },
+    {
+        "kanji": "手品",
+        "hiragana": "てじな",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "요술, 홀림수;속임수"
+    },
+    {
+        "kanji": "手伝い",
+        "hiragana": "てつだい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "도와줌;심부름;또, 그 사람"
+    },
+    {
+        "kanji": "鉄道",
+        "hiragana": "てつどう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "철도"
+    },
+    {
+        "kanji": "出迎える",
+        "hiragana": "でむかえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "출영하다;마중 나가다"
+    },
+    {
+        "kanji": "電球",
+        "hiragana": "でんきゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전구"
+    },
+    {
+        "kanji": "天国",
+        "hiragana": "てんごく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "천국;낙원"
+    },
+    {
+        "kanji": "伝言",
+        "hiragana": "でんごん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전언"
+    },
+    {
+        "kanji": "展示",
+        "hiragana": "てんじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전시"
+    },
+    {
+        "kanji": "伝染",
+        "hiragana": "でんせん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전염"
+    },
+    {
+        "kanji": "電柱",
+        "hiragana": "でんちゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "전주;전신주"
+    },
+    {
+        "kanji": "問い合(わ)せ·問合せ",
+        "hiragana": "といあわせ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "조회;문의"
+    },
+    {
+        "kanji": "答案",
+        "hiragana": "とうあん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "답안"
+    },
+    {
+        "kanji": "統計",
+        "hiragana": "とうけい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "통계"
+    },
+    {
+        "kanji": "登場",
+        "hiragana": "とうじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "등장"
+    },
+    {
+        "kanji": "灯台",
+        "hiragana": "とうだい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "등대, 등잔 받침대;등경걸이, 촛대"
+    },
+    {
+        "kanji": "到着",
+        "hiragana": "とうちゃく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "도착"
+    },
+    {
+        "kanji": "東洋",
+        "hiragana": "とうよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "동양"
+    },
+    {
+        "kanji": "道路",
+        "hiragana": "どうろ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "도로"
+    },
+    {
+        "kanji": "遠回り",
+        "hiragana": "とおまわり",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "멀리 돌아감;우회함, 번거롭고 답..."
+    },
+    {
+        "kanji": "通り過ぎる",
+        "hiragana": "とおりすぎる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "지나가다;통과하다"
+    },
+    {
+        "kanji": "溶かす",
+        "hiragana": "とかす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "녹이다, 풀다, 금속을 가열하여 녹이..."
+    },
+    {
+        "kanji": "閧·鯨波",
+        "hiragana": "とき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사기의 고무나 전투 개시의 신호로 부..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "どきどき",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "두근두근;울렁울렁"
+    },
+    {
+        "kanji": "溶く",
+        "hiragana": "とく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "풀다;개다, 금속을 녹이다"
+    },
+    {
+        "kanji": "毒",
+        "hiragana": "どく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "독, 생물의 목숨이나 기능을 해치는 ..."
+    },
+    {
+        "kanji": "得意",
+        "hiragana": "とくい",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "득의, 득의양양, 가장 숙련되어 ..."
+    },
+    {
+        "kanji": "読書",
+        "hiragana": "どくしょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "독서"
+    },
+    {
+        "kanji": "特色",
+        "hiragana": "とくしょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "특색"
+    },
+    {
+        "kanji": "独身",
+        "hiragana": "どくしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "독신;단신"
+    },
+    {
+        "kanji": "特売",
+        "hiragana": "とくばい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "특매, 특별히 싸게 판매함, 특정인에..."
+    },
+    {
+        "kanji": "独立",
+        "hiragana": "どくりつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "독립"
+    },
+    {
+        "kanji": "床の間",
+        "hiragana": "とこのま",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일본식 방의 상좌에 바닥을 한층 높게..."
+    },
+    {
+        "kanji": "登山",
+        "hiragana": "とざん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "등산"
+    },
+    {
+        "kanji": "都市",
+        "hiragana": "とし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "도시"
+    },
+    {
+        "kanji": "年寄(り)",
+        "hiragana": "としより",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "늙은이;노인, 무가 시대에 정무에 참..."
+    },
+    {
+        "kanji": "土地",
+        "hiragana": "とち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "토지;땅, 그 지방"
+    },
+    {
+        "kanji": "突然",
+        "hiragana": "とつぜん",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "돌연;갑자기"
+    },
+    {
+        "kanji": "何方",
+        "hiragana": "どっち",
+        "katakana": "",
+        "type": "대명사",
+        "hangul": "‘ どちら ’의 막된 말씨"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "トップ",
+        "type": "명사",
+        "hangul": "톱, 첫째;선두, ‘ トップニュース ’의..."
+    },
+    {
+        "kanji": "飛ばす",
+        "hiragana": "とばす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "날리다;날게 하다, 날려 버리다, 튀..."
+    },
+    {
+        "kanji": "飛(び)込む·跳(び)込む",
+        "hiragana": "とびこむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "뛰어들다, 몸을 날려 안으로 들어가다..."
+    },
+    {
+        "kanji": "飛(び)出す",
+        "hiragana": "とびだす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "뛰어나가다, 튀어나오다;비어지다, 별..."
+    },
+    {
+        "kanji": "徒歩",
+        "hiragana": "とほ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "도보"
+    },
+    {
+        "kanji": "友",
+        "hiragana": "とも",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "친구;벗, 동행;길벗"
+    },
+    {
+        "kanji": "虎",
+        "hiragana": "とら",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "호랑이;범, 취한;취객"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ドライブ",
+        "type": "명사",
+        "hangul": "드라이브, 몰고 멀리 달리는 일, 공..."
+    },
+    {
+        "kanji": "取(り)消す",
+        "hiragana": "とりけす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "취소하다"
+    },
+    {
+        "kanji": "取(り)出す",
+        "hiragana": "とりだす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "꺼내다;집어내다, 골라 내다;추려 내..."
+    },
+    {
+        "kanji": "取(り)引き·取引",
+        "hiragana": "とりひき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "거래;흥정, 상행위"
+    },
+    {
+        "kanji": "努力",
+        "hiragana": "どりょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "노력;애씀"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "トレーニング",
+        "type": "명사",
+        "hangul": "트레이닝;훈련;연습"
+    },
+    {
+        "kanji": "取れる",
+        "hiragana": "とれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "떨어지다;빠지다, 취할 수 있다, 해..."
+    },
+    {
+        "kanji": "泥",
+        "hiragana": "どろ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "진흙;흙, ‘ どろぼう ’의 준말"
+    },
+    {
+        "kanji": "",
+        "hiragana": "とんでもない",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "터무니없다;당치도 않다, 뜻하지 않..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "トンネル",
+        "type": "명사",
+        "hangul": "굴, 야수가 땅볼을 가랑이 사이로 놓..."
+    },
+    {
+        "kanji": "名",
+        "hiragana": "な",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이름, 성명;명칭, 평판;명성"
+    },
+    {
+        "kanji": "内科",
+        "hiragana": "ないか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "내과"
+    },
+    {
+        "kanji": "内線",
+        "hiragana": "ないせん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "내선, 안쪽의 선;내부의 선, 구내 ..."
+    },
+    {
+        "kanji": "内容",
+        "hiragana": "ないよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "내용, 사물의 속, 사물 또는 현상을..."
+    },
+    {
+        "kanji": "仲",
+        "hiragana": "なか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사이"
+    },
+    {
+        "kanji": "流す",
+        "hiragana": "ながす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "흘리다, 흐르게 하다, 잊어버리다"
+    },
+    {
+        "kanji": "仲直り",
+        "hiragana": "なかなおり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "화해, 오랜 병으로 죽게 된 환자가 ..."
+    },
+    {
+        "kanji": "長長",
+        "hiragana": "ながなが",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "오랫동안, 길게;기다랗게"
+    },
+    {
+        "kanji": "中指",
+        "hiragana": "なかゆび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "중지;가운뎃손가락"
+    },
+    {
+        "kanji": "仲よし·仲良し",
+        "hiragana": "なかよし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사이가 좋음;또, 그런 친구"
+    },
+    {
+        "kanji": "乍ら",
+        "hiragana": "ながら",
+        "katakana": "",
+        "type": "조사",
+        "hangul": "동작 따위가 공존하는 뜻을 나타낼 때..."
+    },
+    {
+        "kanji": "亡くす",
+        "hiragana": "なくす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "잃다;여의다;사별하다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "なだらか",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "완만한 모양;가파르지 않은 모양,..."
+    },
+    {
+        "kanji": "斜め",
+        "hiragana": "ななめ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기욺;경사짐, 바르지 않음, 기분이 ..."
+    },
+    {
+        "kanji": "生",
+        "hiragana": "なま",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가공하지 않음;자연 그대로임, 불충분..."
+    },
+    {
+        "kanji": "怠ける",
+        "hiragana": "なまける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "게으름 피우다"
+    },
+    {
+        "kanji": "波",
+        "hiragana": "なみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "파도, 물결, 물결같이 움직이는 것;..."
+    },
+    {
+        "kanji": "並木",
+        "hiragana": "なみき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가로수"
+    },
+    {
+        "kanji": "涙",
+        "hiragana": "なみだ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "눈물"
+    },
+    {
+        "kanji": "悩む",
+        "hiragana": "なやむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "괴로워하다, 고민하다, 고생하다;앓다"
+    },
+    {
+        "kanji": "鳴らす",
+        "hiragana": "ならす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "소리를 내다;울리다, 떨치다;날리다,..."
+    },
+    {
+        "kanji": "南北",
+        "hiragana": "なんぼく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "남북"
+    },
+    {
+        "kanji": "握る",
+        "hiragana": "にぎる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "쥐다, 잡다, 자기 것으로 하다;장악..."
+    },
+    {
+        "kanji": "憎い",
+        "hiragana": "にくい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "밉다, 얄밉도록 훌륭하다"
+    },
+    {
+        "kanji": "日時",
+        "hiragana": "にちじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일시;시일"
+    },
+    {
+        "kanji": "日常",
+        "hiragana": "にちじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일상"
+    },
+    {
+        "kanji": "",
+        "hiragana": "にっこり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "생긋;방긋"
+    },
+    {
+        "kanji": "日中",
+        "hiragana": "にっちゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "주간;낮"
+    },
+    {
+        "kanji": "日程",
+        "hiragana": "にってい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일정"
+    },
+    {
+        "kanji": "入場",
+        "hiragana": "にゅうじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "입장"
+    },
+    {
+        "kanji": "入浴",
+        "hiragana": "にゅうよく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "입욕"
+    },
+    {
+        "kanji": "煮る",
+        "hiragana": "にる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "익히다;삶다;끓이다"
+    },
+    {
+        "kanji": "人気",
+        "hiragana": "にんき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "인기, 그 지방의 일반적인 기풍;인심"
+    },
+    {
+        "kanji": "人間",
+        "hiragana": "にんげん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "인간, 사람, 사람이 사는 곳;세상"
+    },
+    {
+        "kanji": "抜く",
+        "hiragana": "ぬく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "뽑다;빼내다, 뽑아내다, → ぬける"
+    },
+    {
+        "kanji": "抜ける",
+        "hiragana": "ぬける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "빠지다, 없어지다, 뽑아지다"
+    },
+    {
+        "kanji": "濡らす",
+        "hiragana": "ぬらす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "적시다"
+    },
+    {
+        "kanji": "願(い)",
+        "hiragana": "ねがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "원함;소원, 바라는 바, 부탁함"
+    },
+    {
+        "kanji": "鼠",
+        "hiragana": "ねずみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "쥐, 장난꾸러기, ‘ ねずみいろ ’의 준..."
+    },
+    {
+        "kanji": "熱心",
+        "hiragana": "ねっしん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "열심"
+    },
+    {
+        "kanji": "熱中",
+        "hiragana": "ねっちゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "열중"
+    },
+    {
+        "kanji": "年間",
+        "hiragana": "ねんかん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연간, 한 해 동안, 어떤 연대의 동..."
+    },
+    {
+        "kanji": "年月",
+        "hiragana": "ねんげつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연월;세월"
+    },
+    {
+        "kanji": "年中",
+        "hiragana": "ねんじゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연중"
+    },
+    {
+        "kanji": "野",
+        "hiragana": "の",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "들, 논밭, 야생임"
+    },
+    {
+        "kanji": "農村",
+        "hiragana": "のうそん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "농촌"
+    },
+    {
+        "kanji": "農民",
+        "hiragana": "のうみん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "농민"
+    },
+    {
+        "kanji": "能力",
+        "hiragana": "のうりょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "능력, 특정한 일을 할 수 있는 개인..."
+    },
+    {
+        "kanji": "残す",
+        "hiragana": "のこす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "남기다, 남겨 두다, 후세에 전하다"
+    },
+    {
+        "kanji": "乗せる",
+        "hiragana": "のせる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "운반하는 도구 위에 두다, 태우다, ..."
+    },
+    {
+        "kanji": "載せる",
+        "hiragana": "のせる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "위에 놓다;얹다, 싣다, 게재하다;올..."
+    },
+    {
+        "kanji": "除く",
+        "hiragana": "のぞく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "제거하다;없애다, 빼다;제외하다, 죽..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ノック",
+        "type": "명사",
+        "hangul": "노크, 두드림, 문을 두드림"
+    },
+    {
+        "kanji": "伸ばす",
+        "hiragana": "のばす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "펴다, 팽팽하게 하다, 곧바르게 하다..."
+    },
+    {
+        "kanji": "延ばす",
+        "hiragana": "のばす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "연장시키다, 연기하다, 길게 늘이다"
+    },
+    {
+        "kanji": "伸びる",
+        "hiragana": "のびる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "펴지다;자라다, 발전하다;신장하다, ..."
+    },
+    {
+        "kanji": "延びる",
+        "hiragana": "のびる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "길어지다, 연장되다, 연기되다"
+    },
+    {
+        "kanji": "上り",
+        "hiragana": "のぼり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "오름;올라감, ‘ 上り坂 ’ ‘ 上り列車 ’..."
+    },
+    {
+        "kanji": "上る",
+        "hiragana": "のぼる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "오르다, 올라가다, 상경하다"
+    },
+    {
+        "kanji": "乗(り)越し",
+        "hiragana": "のりこし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "타고 가다가 목적지를 지나침"
+    },
+    {
+        "kanji": "載る",
+        "hiragana": "のる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "놓이다;얹히다, 실리다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "のろのろ",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "느릿느릿;꾸물꾸물"
+    },
+    {
+        "kanji": "",
+        "hiragana": "のんびり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "유유히;한가로이;태평스럽게"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "パーセント",
+        "type": "명사",
+        "hangul": "퍼센트;백분율"
+    },
+    {
+        "kanji": "倍",
+        "hiragana": "ばい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "배;2배"
+    },
+    {
+        "kanji": "灰色",
+        "hiragana": "はいいろ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "회색;잿빛"
+    },
+    {
+        "kanji": "梅雨",
+        "hiragana": "ばいう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "장마"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ハイキング",
+        "type": "명사",
+        "hangul": "하이킹"
+    },
+    {
+        "kanji": "拝見",
+        "hiragana": "はいけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "배견;삼가 봄"
+    },
+    {
+        "kanji": "配達",
+        "hiragana": "はいたつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "배달"
+    },
+    {
+        "kanji": "売店",
+        "hiragana": "ばいてん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "매점"
+    },
+    {
+        "kanji": "売買",
+        "hiragana": "ばいばい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "매매"
+    },
+    {
+        "kanji": "量る·測る",
+        "hiragana": "はかる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "무게 · 길이 · 깊이 · 넓이 등을 재다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "はきはき",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "시원시원;또깡또깡"
+    },
+    {
+        "kanji": "掃く",
+        "hiragana": "はく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "쓸다, 털다, 칠하다"
+    },
+    {
+        "kanji": "拍手",
+        "hiragana": "はくしゅ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "박수;신불을 배례할 때 손뼉을 침"
+    },
+    {
+        "kanji": "博物館",
+        "hiragana": "はくぶつかん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "박물관"
+    },
+    {
+        "kanji": "激しい",
+        "hiragana": "はげしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "세차다;격심하다;잦다"
+    },
+    {
+        "kanji": "箸",
+        "hiragana": "はし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "젓가락"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "パス",
+        "type": "명사",
+        "hangul": "무료 승차권;또, 정기 승차권, 통과..."
+    },
+    {
+        "kanji": "外す",
+        "hiragana": "はずす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "떼다, 떼어 내다, 빼다;벗기다"
+    },
+    {
+        "kanji": "弾む",
+        "hiragana": "はずむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "튀다, 기세가 오르다;신바람이 나다,..."
+    },
+    {
+        "kanji": "畑",
+        "hiragana": "はたけ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "밭, 영역;전문 분야, 모태;출생"
+    },
+    {
+        "kanji": "働き",
+        "hiragana": "はたらき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "움직여서 일 · 구실을 함;작동, 활동;..."
+    },
+    {
+        "kanji": "発見",
+        "hiragana": "はっけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발견"
+    },
+    {
+        "kanji": "発車",
+        "hiragana": "はっしゃ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발차"
+    },
+    {
+        "kanji": "発想",
+        "hiragana": "はっそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발상, 생각;생각해 냄, 떠오른 생각..."
+    },
+    {
+        "kanji": "発達",
+        "hiragana": "はったつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발달"
+    },
+    {
+        "kanji": "",
+        "hiragana": "ばったり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "푹, 딱, 뚝"
+    },
+    {
+        "kanji": "発展",
+        "hiragana": "はってん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발전, 맹렬히 활약함;특히, 주색에 ..."
+    },
+    {
+        "kanji": "発電",
+        "hiragana": "はつでん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발전, 전기를 일으킴, 전신 · 전보를 ..."
+    },
+    {
+        "kanji": "発売",
+        "hiragana": "はつばい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발매"
+    },
+    {
+        "kanji": "発表",
+        "hiragana": "はっぴょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발표"
+    },
+    {
+        "kanji": "発明",
+        "hiragana": "はつめい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "발명, 영리한 모양;총명함"
+    },
+    {
+        "kanji": "話(し)合い",
+        "hiragana": "はなしあい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "의논;교섭;상담"
+    },
+    {
+        "kanji": "話(し)合う",
+        "hiragana": "はなしあう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "서로 이야기하다"
+    },
+    {
+        "kanji": "話し中",
+        "hiragana": "はなしちゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "한창 이야기하고 있는 중;면담 중, ..."
+    },
+    {
+        "kanji": "花火",
+        "hiragana": "はなび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "꽃불;연화;화포"
+    },
+    {
+        "kanji": "幅",
+        "hiragana": "はば",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "폭;나비, 위세, 여유;여지"
+    },
+    {
+        "kanji": "母親",
+        "hiragana": "ははおや",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "모친;어머니"
+    },
+    {
+        "kanji": "歯磨(き)",
+        "hiragana": "はみがき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이를 닦음;이닦기, 치약;치마분, 치..."
+    },
+    {
+        "kanji": "場面",
+        "hiragana": "ばめん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "장면, 경우;처지, 시장의 상황;시황"
+    },
+    {
+        "kanji": "早口",
+        "hiragana": "はやくち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "말이 빠름"
+    },
+    {
+        "kanji": "腹",
+        "hiragana": "はら",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "배, 가슴에 이어지는 부분;복부, 모..."
+    },
+    {
+        "kanji": "払(い)戻す",
+        "hiragana": "はらいもどす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "돌려 주다;환불하다, 저금을 예금자에..."
+    },
+    {
+        "kanji": "針",
+        "hiragana": "はり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "바늘, 침, 시계 · 레코드 플레이어의 ..."
+    },
+    {
+        "kanji": "範囲",
+        "hiragana": "はんい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "범위"
+    },
+    {
+        "kanji": "反する",
+        "hiragana": "はんする",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "어그러지다;반하다, 위반되다;어긋나다..."
+    },
+    {
+        "kanji": "反省",
+        "hiragana": "はんせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "반성"
+    },
+    {
+        "kanji": "犯人",
+        "hiragana": "はんにん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "범인, 범죄자, 못된 장난을 한 사람"
+    },
+    {
+        "kanji": "販売",
+        "hiragana": "はんばい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "판매"
+    },
+    {
+        "kanji": "火",
+        "hiragana": "ひ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "불;→ ひのけ  ·  ひのこ  ·  ひのて"
+    },
+    {
+        "kanji": "非",
+        "hiragana": "ひ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "비, 좋지 않음;나쁨, 비…;부정을 ..."
+    },
+    {
+        "kanji": "日当(た)り",
+        "hiragana": "ひあたり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "볕이 듦;또, 그 모양 · 정도;양지"
+    },
+    {
+        "kanji": "被害",
+        "hiragana": "ひがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "피해"
+    },
+    {
+        "kanji": "日帰り",
+        "hiragana": "ひがえり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "당일치기 왕복"
+    },
+    {
+        "kanji": "",
+        "hiragana": "ぴかぴか",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "반짝반짝;번쩍번쩍, 되풀이하여 순간적..."
+    },
+    {
+        "kanji": "引(き)受ける",
+        "hiragana": "ひきうける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "떠맡다, 인수하다"
+    },
+    {
+        "kanji": "引(き)算",
+        "hiragana": "ひきざん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "뺄셈;감산"
+    },
+    {
+        "kanji": "引(き)出す",
+        "hiragana": "ひきだす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "꺼내다, 밖으로 내다, 끄집어내다"
+    },
+    {
+        "kanji": "卑下",
+        "hiragana": "ひげ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "비하;스스로를 낮춤;겸비"
+    },
+    {
+        "kanji": "飛行",
+        "hiragana": "ひこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "비행"
+    },
+    {
+        "kanji": "美術",
+        "hiragana": "びじゅつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "미술"
+    },
+    {
+        "kanji": "美人",
+        "hiragana": "びじん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "미인, 옛 중국에서, 재덕을 갖춘 군..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ビタミン",
+        "type": "명사",
+        "hangul": "비타민;바이타민"
+    },
+    {
+        "kanji": "筆記",
+        "hiragana": "ひっき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "필기"
+    },
+    {
+        "kanji": "日付",
+        "hiragana": "ひづけ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "일부;날짜;문서 따위에, 그것의 작성..."
+    },
+    {
+        "kanji": "引(っ)越し",
+        "hiragana": "ひっこし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이사;이전"
+    },
+    {
+        "kanji": "",
+        "hiragana": "ぴったり",
+        "katakana": "",
+        "type": "부사 ",
+        "hangul": "꼭;딱, 착;찰깍"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ビデオ",
+        "type": "명사",
+        "hangul": "비디오"
+    },
+    {
+        "kanji": "人指し指·人差し指",
+        "hiragana": "ひとさしゆび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "집게손가락;식지"
+    },
+    {
+        "kanji": "紐",
+        "hiragana": "ひも",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "끈, 배후에서 조종하는 사람;정부, ..."
+    },
+    {
+        "kanji": "冷やす",
+        "hiragana": "ひやす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "차게 하다;식히다, 충격을 받다;서늘..."
+    },
+    {
+        "kanji": "費用",
+        "hiragana": "ひよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "비용"
+    },
+    {
+        "kanji": "表",
+        "hiragana": "ひょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "표, 보기 쉽게 도시하거나, 정리된 ..."
+    },
+    {
+        "kanji": "美容",
+        "hiragana": "びよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "미용, 아름다운 용모, 미장;용모를 ..."
+    },
+    {
+        "kanji": "表現",
+        "hiragana": "ひょうげん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "표현"
+    },
+    {
+        "kanji": "表紙",
+        "hiragana": "ひょうし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "표지"
+    },
+    {
+        "kanji": "表情",
+        "hiragana": "ひょうじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "표정, 속의 감정이 밖으로 나타난 것..."
+    },
+    {
+        "kanji": "表面",
+        "hiragana": "ひょうめん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "표면;겉"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ビル",
+        "type": "명사",
+        "hangul": "빌, 계산서;청구서, 어음"
+    },
+    {
+        "kanji": "昼寝",
+        "hiragana": "ひるね",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "낮잠"
+    },
+    {
+        "kanji": "広がる",
+        "hiragana": "ひろがる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "넓어지다, 넓은 범위에 미치다, 퍼지..."
+    },
+    {
+        "kanji": "広げる",
+        "hiragana": "ひろげる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "펴다;펼치다, 넓히다;확장하다, 규모..."
+    },
+    {
+        "kanji": "瓶詰(め)",
+        "hiragana": "びんづめ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "병조림;병에 담음;또, 그것"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ファイル",
+        "type": "명사",
+        "hangul": "파일, 서류철, 철함"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ファスナー",
+        "type": "명사",
+        "hangul": "파스너;지퍼"
+    },
+    {
+        "kanji": "風景",
+        "hiragana": "ふうけい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "풍경;풍광, 모양;상태"
+    },
+    {
+        "kanji": "夫婦",
+        "hiragana": "ふうふ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "부부"
+    },
+    {
+        "kanji": "部下",
+        "hiragana": "ぶか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "부하"
+    },
+    {
+        "kanji": "深まる",
+        "hiragana": "ふかまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "깊어지다"
+    },
+    {
+        "kanji": "深める",
+        "hiragana": "ふかめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "깊게 하다"
+    },
+    {
+        "kanji": "拭く",
+        "hiragana": "ふく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "닦다;훔치다"
+    },
+    {
+        "kanji": "夫妻",
+        "hiragana": "ふさい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "부처;부부"
+    },
+    {
+        "kanji": "不足",
+        "hiragana": "ふそく",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "부족, 불만;불평"
+    },
+    {
+        "kanji": "蓋",
+        "hiragana": "ふた",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "뚜껑;덮개, 딱지"
+    },
+    {
+        "kanji": "舞台",
+        "hiragana": "ぶたい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무대"
+    },
+    {
+        "kanji": "不断·普段",
+        "hiragana": "ふだん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "항상;평상시;평소"
+    },
+    {
+        "kanji": "縁",
+        "hiragana": "ふち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가장자리;테두리;전"
+    },
+    {
+        "kanji": "物価",
+        "hiragana": "ぶっか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "물가"
+    },
+    {
+        "kanji": "打付ける",
+        "hiragana": "ぶつける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "부딪다, 던지다;던져 맞히다, 맞부딪..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "ぶつぶつ",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "낮은 소리로 무엇인가 중얼거리는 모양..."
+    },
+    {
+        "kanji": "物理",
+        "hiragana": "ぶつり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "물리"
+    },
+    {
+        "kanji": "筆",
+        "hiragana": "ふで",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "붓;비유적으로, 글을 쓰는 일, 필,..."
+    },
+    {
+        "kanji": "部品",
+        "hiragana": "ぶひん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "부품"
+    },
+    {
+        "kanji": "部分",
+        "hiragana": "ぶぶん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "부분"
+    },
+    {
+        "kanji": "不満",
+        "hiragana": "ふまん",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "불만"
+    },
+    {
+        "kanji": "踏(み)切り",
+        "hiragana": "ふみきり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "건널목, 지면을 세게 굴러 그 반동으..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "ふやす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "늘리다, 불리다;증식시키다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ブラウス",
+        "type": "명사",
+        "hangul": "블라우스;헐렁한 셔츠 모양의 윗옷"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ブラシ",
+        "type": "명사",
+        "hangul": "브러시;솔"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "プラス",
+        "type": "명사",
+        "hangul": "플러스, 양수, 더하기;보탬;또, 그..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "ぶらぶら",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "흔들흔들, 어슬렁어슬렁, 빈둥빈둥;번..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "プラン",
+        "type": "명사",
+        "hangul": "플랜, 계획;안, 설계도;평면도"
+    },
+    {
+        "kanji": "振る",
+        "hiragana": "ふる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "흔들다, 흔들어 휘두르다, 흔들어 우..."
+    },
+    {
+        "kanji": "震える",
+        "hiragana": "ふるえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "흔들리다;진동하다, 두려움 · 추위 · 긴장..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ブレーキ",
+        "type": "명사",
+        "hangul": "브레이크;제동"
+    },
+    {
+        "kanji": "雰囲気",
+        "hiragana": "ふんいき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "분위기"
+    },
+    {
+        "kanji": "文献",
+        "hiragana": "ぶんけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "문헌"
+    },
+    {
+        "kanji": "分数",
+        "hiragana": "ぶんすう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "분수"
+    },
+    {
+        "kanji": "平気",
+        "hiragana": "へいき",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "아무렇지도 않음;걱정 없음;태연함"
+    },
+    {
+        "kanji": "平均",
+        "hiragana": "へいきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "평균;여럿이 고름, 균형;평형"
+    },
+    {
+        "kanji": "並行·併行",
+        "hiragana": "へいこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "병행, 나란히 감, 동시에 행해짐"
+    },
+    {
+        "kanji": "平日",
+        "hiragana": "へいじつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "평일, 평상시, 일요일 · 공휴일 이외의..."
+    },
+    {
+        "kanji": "平凡",
+        "hiragana": "へいぼん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "평범"
+    },
+    {
+        "kanji": "平和",
+        "hiragana": "へいわ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "평화"
+    },
+    {
+        "kanji": "別に",
+        "hiragana": "べつに",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "별로;특별히, 따로"
+    },
+    {
+        "kanji": "別別",
+        "hiragana": "べつべつ",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "따로따로;각각"
+    },
+    {
+        "kanji": "減らす",
+        "hiragana": "へらす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "줄이다;감하다"
+    },
+    {
+        "kanji": "減る",
+        "hiragana": "へる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "줄다;적어지다, 허기지다;배고프다, ..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ベルト",
+        "type": "명사",
+        "hangul": "벨트, 혁대;띠, 기계의 피대"
+    },
+    {
+        "kanji": "変化",
+        "hiragana": "へんか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "변화"
+    },
+    {
+        "kanji": "変更",
+        "hiragana": "へんこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "변경"
+    },
+    {
+        "kanji": "編集",
+        "hiragana": "へんしゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "편집;편찬"
+    },
+    {
+        "kanji": "報告",
+        "hiragana": "ほうこく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "보고, 복명"
+    },
+    {
+        "kanji": "宝石",
+        "hiragana": "ほうせき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "보석"
+    },
+    {
+        "kanji": "法則",
+        "hiragana": "ほうそく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "법칙"
+    },
+    {
+        "kanji": "包丁",
+        "hiragana": "ほうちょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "식칼, 요리;또, 그 솜씨"
+    },
+    {
+        "kanji": "方法",
+        "hiragana": "ほうほう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "방법"
+    },
+    {
+        "kanji": "方方",
+        "hiragana": "ほうぼう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "여기저기;여러 곳"
+    },
+    {
+        "kanji": "方面",
+        "hiragana": "ほうめん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "방면, 그 근방, 분야"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ボーナス",
+        "type": "명사",
+        "hangul": "보너스, 상여금, 주식의 특별 배당금"
+    },
+    {
+        "kanji": "埃",
+        "hiragana": "ほこり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "먼지"
+    },
+    {
+        "kanji": "干す",
+        "hiragana": "ほす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "말리다, 바닥이 드러나도록 하다, 괸..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ポスター",
+        "type": "명사",
+        "hangul": "포스터"
+    },
+    {
+        "kanji": "保存",
+        "hiragana": "ほぞん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "보존"
+    },
+    {
+        "kanji": "坊(っ)ちゃん",
+        "hiragana": "ぼっちゃん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "도련님;도령, 철부지"
+    },
+    {
+        "kanji": "",
+        "hiragana": "ほっと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "한숨 쉬는 모양;후유"
+    },
+    {
+        "kanji": "歩度",
+        "hiragana": "ほど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "보도;걸음걸이의 속도"
+    },
+    {
+        "kanji": "歩道",
+        "hiragana": "ほどう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "보도;인도"
+    },
+    {
+        "kanji": "ほほ笑む",
+        "hiragana": "ほほえむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "미소짓다;비유적으로, 꽃망울이 조금 ..."
+    },
+    {
+        "kanji": "本人",
+        "hiragana": "ほんにん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "본인;당자"
+    },
+    {
+        "kanji": "本部",
+        "hiragana": "ほんぶ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "본부"
+    },
+    {
+        "kanji": "本物",
+        "hiragana": "ほんもの",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "진짜, 실물, 본격적임;또, 전문가"
+    },
+    {
+        "kanji": "翻訳",
+        "hiragana": "ほんやく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "번역"
+    },
+    {
+        "kanji": "間",
+        "hiragana": "ま",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사이, 간격, 칸;실;방"
+    },
+    {
+        "kanji": "迷子",
+        "hiragana": "まいご",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "미아;길 잃은 아이, 일행에서 떨어짐..."
+    },
+    {
+        "kanji": "毎度",
+        "hiragana": "まいど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "매번;항상;번번이"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "マイナス",
+        "type": "명사",
+        "hangul": "마이너스, 음수;음수의 기호, 감함;..."
+    },
+    {
+        "kanji": "任せる",
+        "hiragana": "まかせる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "맡기다, …하는 대로 내버려 두다;마..."
+    },
+    {
+        "kanji": "巻く",
+        "hiragana": "まく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "감다, 말다, 소용돌이 모양이 되다;..."
+    },
+    {
+        "kanji": "負け",
+        "hiragana": "まけ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "짐;패배, 값을 깎아 줌;에누리"
+    },
+    {
+        "kanji": "曲げる",
+        "hiragana": "まげる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "구부리다;굽히다, 바꾸다, 전당 잡히..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "まごまご",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "우물쭈물"
+    },
+    {
+        "kanji": "真逆",
+        "hiragana": "まさか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "위급한 사태에 직면함, 설마;아무리 ..."
+    },
+    {
+        "kanji": "混ざる·交ざる",
+        "hiragana": "まざる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "섞이다"
+    },
+    {
+        "kanji": "貧しい",
+        "hiragana": "まずしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "가난하다, 적다;빈약하다"
+    },
+    {
+        "kanji": "混ぜる",
+        "hiragana": "まぜる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "넣어 섞다;혼합하다, 말참견하다;축에..."
+    },
+    {
+        "kanji": "街",
+        "hiragana": "まち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "상가 따위가 밀집된 곳;번화한 거리"
+    },
+    {
+        "kanji": "待ち合(わ)せ",
+        "hiragana": "まちあわせ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "약속하여 만나기로 함"
+    },
+    {
+        "kanji": "間違い",
+        "hiragana": "まちがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "틀림;잘못, 싸움;사고"
+    },
+    {
+        "kanji": "街角·町角",
+        "hiragana": "まちかど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "길모퉁이;길목, 가두"
+    },
+    {
+        "kanji": "松",
+        "hiragana": "まつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소나무, 횃불, ‘ かどまつ ’의 준말;..."
+    },
+    {
+        "kanji": "真っ赤",
+        "hiragana": "まっか",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "새빨감, 진한 빨강, 완전함;전연"
+    },
+    {
+        "kanji": "真っ暗",
+        "hiragana": "まっくら",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "아주 캄캄함;암흑"
+    },
+    {
+        "kanji": "真っ黒",
+        "hiragana": "まっくろ",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "새까맘;시커멈"
+    },
+    {
+        "kanji": "真っ青",
+        "hiragana": "まっさお",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "새파람"
+    },
+    {
+        "kanji": "真っ白",
+        "hiragana": "まっしろ",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "새하얌"
+    },
+    {
+        "kanji": "祭(り)",
+        "hiragana": "まつり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "제사, 축제;잔치,  京都 의  賀茂  신사..."
+    },
+    {
+        "kanji": "纏まる·纒まる",
+        "hiragana": "まとまる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "뿔뿔이 된 것이 하나로 정리되다;하나..."
+    },
+    {
+        "kanji": "纏める·纒める",
+        "hiragana": "まとめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "뿔뿔이 되어 있는 것을 하나로 정리하..."
+    },
+    {
+        "kanji": "学ぶ",
+        "hiragana": "まなぶ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "배우다, 익히다, 공부하다;학문을 하..."
+    },
+    {
+        "kanji": "真似",
+        "hiragana": "まね",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "흉내, 짓 · 동작"
+    },
+    {
+        "kanji": "招く",
+        "hiragana": "まねく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "손짓하여 부르다, 불러오다, 초대하다"
+    },
+    {
+        "kanji": "眩しい",
+        "hiragana": "まぶしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "눈부시다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "マフラー",
+        "type": "명사",
+        "hangul": "머플러, 목도리, 배기음 · 발사음 따위..."
+    },
+    {
+        "kanji": "儘·随",
+        "hiragana": "まま",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "…대로, 그대로;…채, 뜻대로임;생각..."
+    },
+    {
+        "kanji": "豆",
+        "hiragana": "まめ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "콩;특히, 대두, 공알의 딴 이름, ..."
+    },
+    {
+        "kanji": "迷う",
+        "hiragana": "まよう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "갈피를 못 잡다;결단을 내리지 못하다..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "マラソン",
+        "type": "명사",
+        "hangul": "마라톤"
+    },
+    {
+        "kanji": "丸",
+        "hiragana": "まる",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "동그라미;공,  數詞  앞에 붙여 그 수..."
+    },
+    {
+        "kanji": "回り",
+        "hiragana": "まわり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "돎, 차례로 방문함, 회전"
+    },
+    {
+        "kanji": "周り",
+        "hiragana": "まわり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사물의 둘레;주위;주변"
+    },
+    {
+        "kanji": "回り道",
+        "hiragana": "まわりみち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "길을 돌아서 감;또, 그 길"
+    },
+    {
+        "kanji": "満員",
+        "hiragana": "まんいん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "만원"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "マンション",
+        "type": "명사",
+        "hangul": "맨션;큰 저택;전하여, 중 · 고층의 분..."
+    },
+    {
+        "kanji": "満足",
+        "hiragana": "まんぞく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "만족, 완전함;부족함이 없음, 바람이..."
+    },
+    {
+        "kanji": "満点",
+        "hiragana": "まんてん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "만점"
+    },
+    {
+        "kanji": "身",
+        "hiragana": "み",
+        "katakana": "",
+        "type": "대명사",
+        "hangul": "몸, 신체;일신, 나;자기"
+    },
+    {
+        "kanji": "見上げる",
+        "hiragana": "みあげる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "우러러 보다;올려다 보다, 훌륭하다고..."
+    },
+    {
+        "kanji": "見送り",
+        "hiragana": "みおくり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "송별;배웅, 보기만 하고 그냥 보냄,..."
+    },
+    {
+        "kanji": "見送る",
+        "hiragana": "みおくる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "배웅하다;전송하다, 장송하다, 죽을 ..."
+    },
+    {
+        "kanji": "見下ろす",
+        "hiragana": "みおろす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "내려다보다, 아래를 보다;굽어보다, ..."
+    },
+    {
+        "kanji": "見かける",
+        "hiragana": "みかける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "눈에 띄다;가끔 보다, 보다가 말다,..."
+    },
+    {
+        "kanji": "味方",
+        "hiragana": "みかた",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "자기 편;아군, 편듦;가세함"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ミス",
+        "type": "명사",
+        "hangul": "미스, 미혼 여성의 이름 앞에 붙여 ..."
+    },
+    {
+        "kanji": "湖",
+        "hiragana": "みずうみ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "호수"
+    },
+    {
+        "kanji": "水着",
+        "hiragana": "みずぎ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수영복, 물에서 일할 때에 입는 옷;..."
+    },
+    {
+        "kanji": "見出し",
+        "hiragana": "みだし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "표제;표제어, 색인;차례, 발탁"
+    },
+    {
+        "kanji": "見直す",
+        "hiragana": "みなおす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "다시 보다;재검토하다, 처음부터 고쳐..."
+    },
+    {
+        "kanji": "醜い",
+        "hiragana": "みにくい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "추하다;보기 흉하다;못생기다"
+    },
+    {
+        "kanji": "見舞(い)",
+        "hiragana": "みまい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "문안;문병, 상대방에게 타격을 주는 ..."
+    },
+    {
+        "kanji": "見舞う",
+        "hiragana": "みまう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "문안하다;위문하다, 닥쳐 오다;덮치다..."
+    },
+    {
+        "kanji": "土産",
+        "hiragana": "みやげ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "여행지에서 가족 · 친지를 위해 선물로 ..."
+    },
+    {
+        "kanji": "未来",
+        "hiragana": "みらい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "미래, 장래, 앞으로 하려는 동작을 ..."
+    },
+    {
+        "kanji": "診る",
+        "hiragana": "みる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "보다;진찰하다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ミルク",
+        "type": "명사",
+        "hangul": "밀크, 우유, ‘ コンデンスミルク ’의 ..."
+    },
+    {
+        "kanji": "民間",
+        "hiragana": "みんかん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "민간"
+    },
+    {
+        "kanji": "無",
+        "hiragana": "む",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무, 없음"
+    },
+    {
+        "kanji": "向(か)い",
+        "hiragana": "むかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "마주 봄;정면;맞은편"
+    },
+    {
+        "kanji": "迎え",
+        "hiragana": "むかえ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "맞이함;마중"
+    },
+    {
+        "kanji": "向く",
+        "hiragana": "むく",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "향하다, 돌리다;보다, → むける"
+    },
+    {
+        "kanji": "無視",
+        "hiragana": "むし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무시"
+    },
+    {
+        "kanji": "無地",
+        "hiragana": "むじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무지;전체가 한 빛깔로 무늬가 없음"
+    },
+    {
+        "kanji": "蒸(し)暑い",
+        "hiragana": "むしあつい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "무덥다"
+    },
+    {
+        "kanji": "虫歯",
+        "hiragana": "むしば",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "충치"
+    },
+    {
+        "kanji": "蒸す",
+        "hiragana": "むす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "무덥다, 찌다"
+    },
+    {
+        "kanji": "息子",
+        "hiragana": "むすこ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "아들;자식"
+    },
+    {
+        "kanji": "結ぶ",
+        "hiragana": "むすぶ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "잇다, 매다;묶다, 맺다"
+    },
+    {
+        "kanji": "無線",
+        "hiragana": "むせん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무선, ‘ 無線電話  ·  無線電信 ’의 준말"
+    },
+    {
+        "kanji": "無駄遣い",
+        "hiragana": "むだづかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "낭비;돈 따위를 보람 없이 씀"
+    },
+    {
+        "kanji": "夢中",
+        "hiragana": "むちゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "몽중;꿈속, 열중함;몰두함"
+    },
+    {
+        "kanji": "胸",
+        "hiragana": "むね",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "가슴, 유방, 마음;심금"
+    },
+    {
+        "kanji": "無料",
+        "hiragana": "むりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무료"
+    },
+    {
+        "kanji": "明確",
+        "hiragana": "めいかく",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "명확"
+    },
+    {
+        "kanji": "名作",
+        "hiragana": "めいさく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "명작"
+    },
+    {
+        "kanji": "名刺",
+        "hiragana": "めいし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "명함"
+    },
+    {
+        "kanji": "名人",
+        "hiragana": "めいじん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "명인, 그 분야에서 솜씨가 뛰어난 사..."
+    },
+    {
+        "kanji": "明白",
+        "hiragana": "めいはく",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "명백;분명함"
+    },
+    {
+        "kanji": "迷惑",
+        "hiragana": "めいわく",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "귀찮음;성가심;괴로움"
+    },
+    {
+        "kanji": "目上",
+        "hiragana": "めうえ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지위 · 나이가 위임;또, 윗사람;연장자"
+    },
+    {
+        "kanji": "目覚(ま)し",
+        "hiragana": "めざまし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "잠을 깸;잠을 깨게 함, 잠에서 깨었..."
+    },
+    {
+        "kanji": "飯",
+        "hiragana": "めし",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "밥;식사"
+    },
+    {
+        "kanji": "目下",
+        "hiragana": "めした",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "아랫사람;손아래"
+    },
+    {
+        "kanji": "目立つ",
+        "hiragana": "めだつ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "눈에 띄다;두드러지다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "メニュー",
+        "type": "명사",
+        "hangul": "메뉴;식단;차림표"
+    },
+    {
+        "kanji": "眩暈·目眩",
+        "hiragana": "めまい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "현훈;현기증;어찔함"
+    },
+    {
+        "kanji": "面会",
+        "hiragana": "めんかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "면회"
+    },
+    {
+        "kanji": "免許",
+        "hiragana": "めんきょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "면허, 스승이 제자에게 그 도의 오의..."
+    },
+    {
+        "kanji": "免税",
+        "hiragana": "めんぜい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "면세"
+    },
+    {
+        "kanji": "面接",
+        "hiragana": "めんせつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "면접"
+    },
+    {
+        "kanji": "面倒",
+        "hiragana": "めんどう",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "번잡하고 성가심, 돌봄;보살핌"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "メンバー",
+        "type": "명사",
+        "hangul": "멤버;단체의 일원"
+    },
+    {
+        "kanji": "申(し)込む",
+        "hiragana": "もうしこむ",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "신청하다, 말하다"
+    },
+    {
+        "kanji": "毛布",
+        "hiragana": "もうふ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "모포;담요"
+    },
+    {
+        "kanji": "燃える",
+        "hiragana": "もえる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "타다;불길이 일다, 타는 것 같은 상..."
+    },
+    {
+        "kanji": "目的",
+        "hiragana": "もくてき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "목적"
+    },
+    {
+        "kanji": "目標",
+        "hiragana": "もくひょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "목표"
+    },
+    {
+        "kanji": "文字",
+        "hiragana": "もじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "글자;문자, 문장;말,  もじことば 에 ..."
+    },
+    {
+        "kanji": "最も",
+        "hiragana": "もっとも",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "가장"
+    },
+    {
+        "kanji": "者",
+        "hiragana": "もの",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "자;사람;것"
+    },
+    {
+        "kanji": "物置",
+        "hiragana": "ものおき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "헛간;곳간;광"
+    },
+    {
+        "kanji": "物語",
+        "hiragana": "ものがたり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이야기;또, 그 내용, 전설, 산문의..."
+    },
+    {
+        "kanji": "燃やす",
+        "hiragana": "もやす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "불태우다;연소시키다;→ やく"
+    },
+    {
+        "kanji": "模様",
+        "hiragana": "もよう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "무늬;도안, 모양;상황, 기미;…할 ..."
+    },
+    {
+        "kanji": "盛る",
+        "hiragana": "もる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "높이 쌓아 올리다, 많이 담다, 넣다..."
+    },
+    {
+        "kanji": "文句",
+        "hiragana": "もんく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "문구, 불평;이의"
+    },
+    {
+        "kanji": "喧しい",
+        "hiragana": "やかましい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "시끄럽다, 떠들썩하다;요란스럽다, ..."
+    },
+    {
+        "kanji": "火傷",
+        "hiragana": "やけど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "화상;뎀, 피해를 봄;타격을 입음"
+    },
+    {
+        "kanji": "家賃",
+        "hiragana": "やちん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "집세"
+    },
+    {
+        "kanji": "薬局",
+        "hiragana": "やっきょく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "약국;약방"
+    },
+    {
+        "kanji": "矢っ張り",
+        "hiragana": "やっぱり",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "→ やはり"
+    },
+    {
+        "kanji": "破る",
+        "hiragana": "やぶる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "깨다, 깨뜨리다;부수다, 어기다"
+    },
+    {
+        "kanji": "破れる",
+        "hiragana": "やぶれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "찢어지다, 터지다;뚫어지다, 깨지다"
+    },
+    {
+        "kanji": "やむを得ない",
+        "hiragana": "やむをえない",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "할 수 없다;어쩔 수 없다;부득이하다"
+    },
+    {
+        "kanji": "病める",
+        "hiragana": "やめる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "아프다, 괴로워하다"
+    },
+    {
+        "kanji": "勇気",
+        "hiragana": "ゆうき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "용기"
+    },
+    {
+        "kanji": "友情",
+        "hiragana": "ゆうじょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "우정"
+    },
+    {
+        "kanji": "友人",
+        "hiragana": "ゆうじん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "우인;친구"
+    },
+    {
+        "kanji": "郵送",
+        "hiragana": "ゆうそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "우송"
+    },
+    {
+        "kanji": "夕立",
+        "hiragana": "ゆうだち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소나기"
+    },
+    {
+        "kanji": "夕日",
+        "hiragana": "ゆうひ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "석양"
+    },
+    {
+        "kanji": "郵便",
+        "hiragana": "ゆうびん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "우편"
+    },
+    {
+        "kanji": "夕焼(け)",
+        "hiragana": "ゆうやけ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "저녁놀"
+    },
+    {
+        "kanji": "有料",
+        "hiragana": "ゆうりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "유료"
+    },
+    {
+        "kanji": "床",
+        "hiragana": "ゆか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "마루,  浄瑠璃 를 창하는 무대, ‘ 床運 ..."
+    },
+    {
+        "kanji": "行き",
+        "hiragana": "ゆき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "감;특히, 목적지를 향해 감, 왕복 ..."
+    },
+    {
+        "kanji": "茹でる",
+        "hiragana": "ゆでる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "데치다;삶다, 부은 데를 열탕으로 찜..."
+    },
+    {
+        "kanji": "緩い",
+        "hiragana": "ゆるい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "느슨하다;헐겁다, 엄하지 않다, 완..."
+    },
+    {
+        "kanji": "許す",
+        "hiragana": "ゆるす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "허가하다;허락하다, 용서하다;면하게 ..."
+    },
+    {
+        "kanji": "夜明け",
+        "hiragana": "よあけ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "새벽, 새로운 시대의 시작"
+    },
+    {
+        "kanji": "酔う",
+        "hiragana": "よう",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "술에 취하다;술기가 돌다, 멀미하다,..."
+    },
+    {
+        "kanji": "用",
+        "hiragana": "よう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "용도;소용, 용무;용건, …용;…에 ..."
+    },
+    {
+        "kanji": "要求",
+        "hiragana": "ようきゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "요구"
+    },
+    {
+        "kanji": "用件",
+        "hiragana": "ようけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "용건"
+    },
+    {
+        "kanji": "幼児",
+        "hiragana": "ようじ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "유아"
+    },
+    {
+        "kanji": "用途",
+        "hiragana": "ようと",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "용도"
+    },
+    {
+        "kanji": "漸く",
+        "hiragana": "ようやく",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "겨우;간신히, 차차;점점"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ヨーロッパ",
+        "type": "명사",
+        "hangul": "유럽;구라파"
+    },
+    {
+        "kanji": "欲張り",
+        "hiragana": "よくばり",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "욕심이 많음;욕심꾸러기"
+    },
+    {
+        "kanji": "横切る",
+        "hiragana": "よこぎる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "가로지르다;횡단하다, 스치다"
+    },
+    {
+        "kanji": "寄越す·遣す",
+        "hiragana": "よこす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "보내다;넘겨주다, 어떤 행위를 해오다"
+    },
+    {
+        "kanji": "汚す",
+        "hiragana": "よごす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "더럽히다, 푸성귀를 무치다"
+    },
+    {
+        "kanji": "予算",
+        "hiragana": "よさん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "예산"
+    },
+    {
+        "kanji": "予想",
+        "hiragana": "よそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "예상"
+    },
+    {
+        "kanji": "四つ角",
+        "hiragana": "よつかど",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "네 귀;네 모퉁이, 네거리;십자로"
+    },
+    {
+        "kanji": "夜中",
+        "hiragana": "よなか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "밤중;한밤중"
+    },
+    {
+        "kanji": "世の中",
+        "hiragana": "よのなか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "세상, 인간 세계;세간, 시대"
+    },
+    {
+        "kanji": "呼(び)出す",
+        "hiragana": "よびだす",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "호출하다;불러내다, 부르기 시작하다"
+    },
+    {
+        "kanji": "予報",
+        "hiragana": "よほう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "예보"
+    },
+    {
+        "kanji": "予防",
+        "hiragana": "よぼう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "예방"
+    },
+    {
+        "kanji": "喜び",
+        "hiragana": "よろこび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "기쁨, 경사;경사스럽게 여기는 마음,..."
+    },
+    {
+        "kanji": "楽",
+        "hiragana": "らく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "편안함;안락함, 용이함;쉬움, ‘ 千秋 ..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ランチ",
+        "type": "명사",
+        "hangul": "런치;간단한 서양 식사"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ランニング",
+        "type": "명사",
+        "hangul": "러닝, 경주, ‘ ランニングシャツ ’의 ..."
+    },
+    {
+        "kanji": "理科",
+        "hiragana": "りか",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이과"
+    },
+    {
+        "kanji": "理解",
+        "hiragana": "りかい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이해"
+    },
+    {
+        "kanji": "利口",
+        "hiragana": "りこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "영리함;똑똑함, 요령이 좋음;빈틈없음..."
+    },
+    {
+        "kanji": "離婚",
+        "hiragana": "りこん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이혼"
+    },
+    {
+        "kanji": "理想",
+        "hiragana": "りそう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "이상"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "リットル",
+        "type": "명사",
+        "hangul": "리터;미터법의 용적 단위"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "リボン",
+        "type": "명사",
+        "hangul": "리본, 장식띠, 타자기 등의 인자용 ..."
+    },
+    {
+        "kanji": "留学",
+        "hiragana": "りゅうがく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "유학"
+    },
+    {
+        "kanji": "流行",
+        "hiragana": "りゅうこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "유행;→ ふえきりゅうこう"
+    },
+    {
+        "kanji": "両",
+        "hiragana": "りょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "둘로 한 쌍이 되는 것;양, 양…;두..."
+    },
+    {
+        "kanji": "量",
+        "hiragana": "りょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "양;분량, 마음의 크기;도량, …량"
+    },
+    {
+        "kanji": "両替",
+        "hiragana": "りょうがえ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "환전;돈을 바꿈, 유가 증권을 돈으로..."
+    },
+    {
+        "kanji": "両がわ·両側",
+        "hiragana": "りょうがわ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "양측;양편"
+    },
+    {
+        "kanji": "料金",
+        "hiragana": "りょうきん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "요금"
+    },
+    {
+        "kanji": "例外",
+        "hiragana": "れいがい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "예외"
+    },
+    {
+        "kanji": "冷静",
+        "hiragana": "れいせい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "냉정"
+    },
+    {
+        "kanji": "冷凍",
+        "hiragana": "れいとう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "냉동"
+    },
+    {
+        "kanji": "列",
+        "hiragana": "れつ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "열;행렬, 신분 · 지위 따위의 상하 관..."
+    },
+    {
+        "kanji": "連休",
+        "hiragana": "れんきゅう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "연휴"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "レンズ",
+        "type": "명사",
+        "hangul": "렌즈"
+    },
+    {
+        "kanji": "録音",
+        "hiragana": "ろくおん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "녹음"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ロビー",
+        "type": "명사",
+        "hangul": "로비, 넓은 휴게 · 담화용 홀, 국회 ..."
+    },
+    {
+        "kanji": "輪",
+        "hiragana": "わ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "고리;원형, 바퀴, 테;테두리"
+    },
+    {
+        "kanji": "別れ",
+        "hiragana": "わかれ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "헤어짐;이별, 고별;결별"
+    },
+    {
+        "kanji": "分(か)れる",
+        "hiragana": "わかれる",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "갈라지다;나누이다, 갈리다;분기하다,..."
+    },
+    {
+        "kanji": "若若しい",
+        "hiragana": "わかわかしい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "아주 젊다;젊디젊다;생기발랄하다"
+    },
+    {
+        "kanji": "分ける",
+        "hiragana": "わける",
+        "katakana": "",
+        "type": "동사",
+        "hangul": "나누다, 가르다;구분하다, 분배하다;..."
+    },
+    {
+        "kanji": "態と",
+        "hiragana": "わざと",
+        "katakana": "",
+        "type": "부사",
+        "hangul": "고의로;일부러, 특별히;특히, 명색뿐..."
+    },
+    {
+        "kanji": "話題",
+        "hiragana": "わだい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "화제"
+    },
+    {
+        "kanji": "渡り鳥",
+        "hiragana": "わたりどり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "철새;후조, 떠돌며 살아감;떠돌이"
+    },
+    {
+        "kanji": "詫び",
+        "hiragana": "わび",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "사죄;사과"
+    },
+    {
+        "kanji": "笑い",
+        "hiragana": "わらい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "웃음, 조소;→ おわらい , 돌을 쌓을 ..."
+    },
+    {
+        "kanji": "割",
+        "hiragana": "わり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "할;십분의 일"
+    },
+    {
+        "kanji": "割(り)算",
+        "hiragana": "わりざん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "나눗셈"
+    },
+    {
+        "kanji": "割引",
+        "hiragana": "わりびき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "할인, 줄잡음;에누리함, ‘ 手形割引 ’..."
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "アイスクリーム",
+        "type": "명사",
+        "hangul": "아이스크림"
+    },
+    {
+        "kanji": "朝寝坊",
+        "hiragana": "あさねぼう",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "늦잠꾸러기;늦잠을 잠"
+    },
+    {
+        "kanji": "意地悪",
+        "hiragana": "いじわる",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "심술궂음;짓궂음;또, 심술쟁이"
+    },
+    {
+        "kanji": "応接間",
+        "hiragana": "おうせつま",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "응접실"
+    },
+    {
+        "kanji": "海水浴",
+        "hiragana": "かいすいよく",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "해수욕"
+    },
+    {
+        "kanji": "回数券",
+        "hiragana": "かいすうけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "회수권"
+    },
+    {
+        "kanji": "看護婦",
+        "hiragana": "かんごふ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "간호사"
+    },
+    {
+        "kanji": "教科書",
+        "hiragana": "きょうかしょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "교과서"
+    },
+    {
+        "kanji": "高等学校",
+        "hiragana": "こうとうがっこう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "고등학교"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "サラリーマン",
+        "type": "명사",
+        "hangul": "샐러리맨;봉급 생활자;월급쟁이"
+    },
+    {
+        "kanji": "時間割り",
+        "hiragana": "じかんわり",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수업 시간표, 예정표;시간 할당표"
+    },
+    {
+        "kanji": "時刻表",
+        "hiragana": "じこくひょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "시간표"
+    },
+    {
+        "kanji": "受話器",
+        "hiragana": "じゅわき",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "수화기"
+    },
+    {
+        "kanji": "消極的",
+        "hiragana": "しょうきょくてき",
+        "katakana": "",
+        "type": "형용동사",
+        "hangul": "소극적"
+    },
+    {
+        "kanji": "消防署",
+        "hiragana": "しょうぼうしょ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "소방서"
+    },
+    {
+        "kanji": "生年月日",
+        "hiragana": "せいねんがっぴ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "생년월일"
+    },
+    {
+        "kanji": "地下水",
+        "hiragana": "ちかすい",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "지하수"
+    },
+    {
+        "kanji": "調味料",
+        "hiragana": "ちょうみりょう",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "조미료"
+    },
+    {
+        "kanji": "定期券",
+        "hiragana": "ていきけん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "‘ 定期乗車券 ’의 준말"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "テニスコート",
+        "type": "명사",
+        "hangul": "테니스 코트"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ネックレス",
+        "type": "명사",
+        "hangul": "네클리스;목걸이"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "パスポート",
+        "type": "명사",
+        "hangul": "패스포트;여권"
+    },
+    {
+        "kanji": "",
+        "hiragana": "",
+        "katakana": "ハンドバッグ",
+        "type": "명사",
+        "hangul": "핸드백"
+    },
+    {
+        "kanji": "文房具",
+        "hiragana": "ぶんぼうぐ",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "문방구"
+    },
+    {
+        "kanji": "明後日",
+        "hiragana": "みょうごにち",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "명후일;모레"
+    },
+    {
+        "kanji": "面倒臭い",
+        "hiragana": "めんどうくさい",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "아주 귀찮다;몹시 성가시다"
+    },
+    {
+        "kanji": "",
+        "hiragana": "もうしわけない",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "변명할 여지가 없다;미안하다"
+    },
+    {
+        "kanji": "勿体無い·物体無い",
+        "hiragana": "もったいない",
+        "katakana": "",
+        "type": "형용사",
+        "hangul": "황송하다, 과분하다;고맙다, 죄스럽..."
+    },
+    {
+        "kanji": "幼稚園",
+        "hiragana": "ようちえん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "유치원"
+    },
+    {
+        "kanji": "留守番",
+        "hiragana": "るすばん",
+        "katakana": "",
+        "type": "명사",
+        "hangul": "→ るす 2"
+    }
+]
