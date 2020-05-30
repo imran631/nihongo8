@@ -7,6 +7,11 @@ def index(request):
     return render(request, 'backend/index/index.html', context)
 
 
+def mypage(request):
+    context = {}
+    return render(request, 'backend/mypage/mypage.html', context)
+
+
 def jlpt(request):
     context = {}
     return render(request, 'backend/jlpt/jlpt.html', context)

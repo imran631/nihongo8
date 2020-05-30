@@ -26,6 +26,8 @@ urlpatterns = [
     path('reset', views.reset, name='reset'),
     path('reset_password', views.reset_password, name='reset_password'),
 
+    path('mypage', views.mypage, name='mypage'),
+
     path('sample', views.sample, name='sample'),
     path('sample/community', views.sample_community, name='sample_community'),
     path('sample/community/detail', views.sample_community_detail, name='sample_community_detail'),
