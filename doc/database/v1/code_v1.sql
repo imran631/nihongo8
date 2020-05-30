@@ -269,3 +269,21 @@ value('tbl_core', 'type', 'AD', '부사', '단어 형식', 1, now(), null, null)
 
 insert tbl_code (code_type, code_col, code_code, code_name, code_desc, user_id, regist_date, modify_id, modify_date)
 value('tbl_core', 'type', 'X', '기타', '단어 형식', 1, now(), null, null);
+
+insert tbl_code (code_type, code_col, code_code, code_name, code_desc, user_id, regist_date, modify_id, modify_date)
+value('tbl_problem', 'type', 'KR', '한자읽기', '문제유형 - Kanji Read', 1, now(), null, null);
+
+insert tbl_code (code_type, code_col, code_code, code_name, code_desc, user_id, regist_date, modify_id, modify_date)
+value('tbl_problem', 'type', 'KF', '한자찾기', '문제유형 - Kanji Find', 1, now(), null, null);
+
+insert tbl_code (code_type, code_col, code_code, code_name, code_desc, user_id, regist_date, modify_id, modify_date)
+value('tbl_problem', 'type', 'GR', '문맥규정', '문제유형 - Grammar Rule', 1, now(), null, null);
+
+insert tbl_code (code_type, code_col, code_code, code_name, code_desc, user_id, regist_date, modify_id, modify_date)
+value('tbl_problem', 'type', 'RP', '교체유의어', '문제유형 - Replace', 1, now(), null, null);
+
+insert tbl_code (code_type, code_col, code_code, code_name, code_desc, user_id, regist_date, modify_id, modify_date)
+value('tbl_problem', 'type', 'UF', '용법', '문제유형 - Useful', 1, now(), null, null);
+
+insert tbl_code (code_type, code_col, code_code, code_name, code_desc, user_id, regist_date, modify_id, modify_date)
+value('tbl_problem', 'type', 'GE', '문법빈칸', '문제유형 - Grammar Empty', 1, now(), null, null);

@@ -1,23 +1,52 @@
 <script src="/static/assets/vendor/jquery.min.js"></script>
-  <script src="/static/assets/vendor/popper.min.js"></script>
-  <script src="/static/assets/vendor/bootstrap.min.js"></script>
-  <script src="/static/assets/vendor/perfect-scrollbar.min.js"></script>
-  <script src="/static/assets/vendor/dom-factory.js"></script>
-  <script src="/static/assets/vendor/material-design-kit.js"></script>
-  <script src="/static/assets/vendor/fix-footer.js"></script>
-  <script src="/static/assets/js/app.js"></script>
-  <script>
-    (function () {
-      'use strict';
-      var headerNode = document.querySelector('.mdk-header')
-      var layoutNode = document.querySelector('.mdk-header-layout')
-      var componentNode = layoutNode ? layoutNode : headerNode
-      componentNode.addEventListener('domfactory-component-upgraded', function () {
-        headerNode.mdkHeader.eventTarget.addEventListener('scroll', function () {
-          var progress = headerNode.mdkHeader.getScrollState().progress
-          var navbarNode = headerNode.querySelector('#default-navbar')
-          navbarNode.classList.toggle('bg-transparent', progress <= 0.2)
-        })
+<script src="/static/assets/vendor/popper.min.js"></script>
+<script src="/static/assets/vendor/bootstrap.min.js"></script>
+<script src="/static/assets/vendor/perfect-scrollbar.min.js"></script>
+<script src="/static/assets/vendor/dom-factory.js"></script>
+<script src="/static/assets/vendor/material-design-kit.js"></script>
+<script src="/static/assets/vendor/fix-footer.js"></script>
+<script src="/static/assets/js/app.js"></script>
+
+<script src="/static/assets/vendor/quill.min.js"></script>
+<script src="/static/assets/js/quill.js"></script>
+
+<script>
+  (function () {
+    'use strict';
+    var headerNode = document.querySelector('.mdk-header')
+    var layoutNode = document.querySelector('.mdk-header-layout')
+    var componentNode = layoutNode ? layoutNode : headerNode
+    componentNode.addEventListener('domfactory-component-upgraded', function () {
+      headerNode.mdkHeader.eventTarget.addEventListener('scroll', function () {
+        var progress = headerNode.mdkHeader.getScrollState().progress
+        var navbarNode = headerNode.querySelector('#default-navbar')
+        navbarNode.classList.toggle('bg-transparent', progress <= 0.2)
       })
-    })()
-  </script>
+    })
+  })()
+</script>
+
+<script>
+// common
+function redirect(url) {
+  window.location.href = url;
+}
+</script>
+
+<script>
+  var toolbarOptions = [
+    ['bold', 'italic', 'underline', 'strike'],
+    ['blockquote', 'code-block'],
+    [{ 'list': 'ordered'}, { 'list': 'bullet' }],
+    [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
+    [{ 'color': [] }, { 'background': [] }],
+    [{ 'align': [] }],
+    ['clean']
+  ];
+  var quill = new Quill('#editor', {
+    modules: {
+      toolbar: toolbarOptions
+    },
+    theme: 'snow'
+  });
+</script>

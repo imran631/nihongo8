@@ -1,0 +1,122 @@
+{% extends "backend/base/base.html" %}
+
+{% block content %}
+<div class="mdk-header-layout__content page-content " style="padding-top: 64px;">
+  <div class="mdk-box bg-primary mdk-box--bg-gradient-primary2 js-mdk-box mb-0" data-effects="blend-background"
+    data-domfactory-upgraded="mdk-box">
+    <div class="mdk-box__bg">
+      <div class="mdk-box__bg-front" style="transform: translateZ(0px); will-change: opacity; opacity: 1;"></div>
+      <div class="mdk-box__bg-rear" style="transform: translateZ(0px); will-change: opacity; opacity: 0;"></div>
+    </div>
+    <div class="mdk-box__content">
+      <div class="py-64pt text-center text-sm-left">
+        <div class="container d-flex flex-column justify-content-center align-items-center">
+          <p class="lead text-white-50 measure-lead-max mb-0">미제출</p>
+          <h1 class="text-white mb-24pt">JLPT N1 한자읽기 (1)</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- info -->
+  <div class="navbar navbar-expand-sm navbar-light navbar-submenu navbar-list p-0 m-0 align-items-center">
+    <div class="container page__container">
+      <ul class="nav navbar-nav flex align-items-sm-center">
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">star</i>
+          x 5
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">person</i>
+          운영자
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">edit</i>
+          퀴즈 20개
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">wb_cloudy</i>
+          JLPT N1
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">translate</i>
+          한자 읽기
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- info // END -->
+
+  <!-- quiz -->
+  <div class="container page__container">
+    <div class="page-section">
+      <div class="page-separator">
+        <div class="page-separator__text">問題１</div>
+      </div>
+      <div class="form-group">
+        <div class="pq-top">
+          去年より<span class="pq-hi">利益</span>がわずかに増えた
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="custom-controls-stacked">
+          <div class="custom-control custom-radio">
+            <input id="radioStacked1" name="radio-stacked" type="radio" class="custom-control-input">
+            <label for="radioStacked1" class="custom-control-label">
+              <div class="pq-bot">
+              りし
+              </div>
+            </label>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="custom-controls-stacked">
+          <div class="custom-control custom-radio">
+            <input id="radioStacked2" name="radio-stacked" type="radio" class="custom-control-input">
+            <label for="radioStacked2" class="custom-control-label">
+              <div class="pq-bot">
+                りそく
+              </div>
+            </label>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="custom-controls-stacked">
+          <div class="custom-control custom-radio">
+            <input id="radioStacked3" name="radio-stacked" type="radio" class="custom-control-input">
+            <label for="radioStacked3" class="custom-control-label">
+              <div class="pq-bot">
+                りえき
+              </div>
+            </label>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="custom-controls-stacked">
+          <div class="custom-control custom-radio">
+            <input id="radioStacked4" name="radio-stacked" type="radio" class="custom-control-input">
+            <label for="radioStacked4" class="custom-control-label">
+              <div class="pq-bot">
+                りじゅん
+              </div>
+            </label>
+          </div>
+        </div>
+      </div>
+  </div>
+  <!-- quiz // END -->
+
+  <div>
+    <div class="tar mb30">
+      <button type="button" class="btn btn-primary" onclick="redirect('/problem/result')">
+        정답제출
+        <i class="material-icons icon--right">keyboard_arrow_right</i>
+      </button>
+    </div>
+  </div>
+
+</div>
+{% endblock %}

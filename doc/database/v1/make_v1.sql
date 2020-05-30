@@ -165,13 +165,12 @@ create table tbl_core (
 -- 문제 
 create table tbl_problem (
     id int primary key auto_increment comment 'PK',
+    type varchar(255) not null comment '퀴즈유형', -- 한자읽기, 한자찾기, 문맥규정, 교체유의어, 용법, 문법빈칸
     level int not null comment '문제수준(필터)',
     difficult int not null comment '문제수준(별표기)',
     title varchar(255) not null comment '문제제목',
     content varchar(255) not null comment '문제내용',
     user_id int not null comment '등록사용자 FK tbl_user.id',
-    is_staff int default 0 comment '출제의원 출제 여부',
-    is_accept int default 0 comment '출제의원 문제 승인 여부',
     regist_date datetime default now() comment '등록일시',
     modify_id int not null comment '수정사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시',

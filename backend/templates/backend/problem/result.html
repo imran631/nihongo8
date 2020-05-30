@@ -1,0 +1,101 @@
+{% extends "backend/base/base.html" %}
+
+{% block content %}
+<div class="mdk-header-layout__content page-content " style="padding-top: 64px;">
+  <div class="mdk-box bg-primary mdk-box--bg-gradient-primary2 js-mdk-box mb-0" data-effects="blend-background"
+    data-domfactory-upgraded="mdk-box">
+    <div class="mdk-box__bg">
+      <div class="mdk-box__bg-front" style="transform: translateZ(0px); will-change: opacity; opacity: 1;"></div>
+      <div class="mdk-box__bg-rear" style="transform: translateZ(0px); will-change: opacity; opacity: 0;"></div>
+    </div>
+    <div class="mdk-box__content">
+      <div class="py-64pt text-center text-sm-left">
+        <div class="container d-flex flex-column justify-content-center align-items-center">
+          <p class="lead text-white-50 measure-lead-max mb-0">제출 결과</p>
+          <h1 class="text-white mb-24pt">+ 350 Point [17/20]</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- info -->
+  <div class="navbar navbar-expand-sm navbar-light navbar-submenu navbar-list p-0 m-0 align-items-center">
+    <div class="container page__container">
+      <ul class="nav navbar-nav flex align-items-sm-center">
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">star</i>
+          x 5
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">person</i>
+          운영자
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">edit</i>
+          퀴즈 20개
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">wb_cloudy</i>
+          JLPT N1
+        </li>
+        <li class="nav-item navbar-list__item">
+          <i class="material-icons text-muted icon--left">translate</i>
+          한자 읽기
+        </li>
+      </ul>
+      <div class="row justify-content-end">
+        <div class="col">
+          <button type="button" class="btn btn-primary" onclick="redirect('/problem/list')">
+            <i class="material-icons icon--left">keyboard_arrow_left</i>
+            목록으로
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- info // END -->
+
+  <!-- quiz -->
+  <div class="container page__container">
+    <div class="page-section">
+      <div class="page-separator">
+        <div class="page-separator__text">問題１</div>
+      </div>
+      <div class="form-group">
+        <div class="pq-top">
+          去年より<span class="pq-hi">利益</span>がわずかに増えた
+        </div>
+        <div class="mt5">
+          작년보다 이익이 약간 늘었다
+        </div>
+      </div>
+      <ul class="list-quiz pl0">
+        <li class="list-quiz-item">
+          <span class="list-quiz-badge bg-accent text-white">
+            <i class="material-icons">check</i>
+          </span>
+          <span class="list-quiz-text">りし</span>
+        </li>
+        <li class="list-quiz-item active">
+          <span class="list-quiz-badge">2</span>
+          <span class="list-quiz-text">りそく</span>
+        </li>
+        <li class="list-quiz-item">
+          <span class="list-quiz-badge bg-primary text-white">
+            <i class="material-icons">check</i>
+          </span>
+          <span class="list-quiz-text">りえき</span>
+        </li>
+        <li class="list-quiz-item">
+          <span class="list-quiz-badge">4</span>
+          <span class="list-quiz-text">りじゅん</span>
+        </li>
+      </ul>
+      <div class="card p-3">
+        利益 는 히라가나로 りえき 입니다
+      </div>
+    </div>
+    <!-- quiz // END -->
+
+  </div>
+  {% endblock %}

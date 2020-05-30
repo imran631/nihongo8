@@ -12,9 +12,54 @@ def jlpt(request):
     return render(request, 'backend/jlpt/jlpt.html', context)
 
 
+def admin_core(request):
+    context = {}
+    return render(request, 'backend/admin/core.html', context)
+
+
+def admin_core_regist(request):
+    context = {}
+    return render(request, 'backend/admin/core_regist.html', context)
+
+
+def admin_quiz(request):
+    context = {}
+    return render(request, 'backend/admin/quiz.html', context)
+
+
+def admin_quiz_regist(request):
+    context = {}
+    return render(request, 'backend/admin/quiz_regist.html', context)
+
+
+def admin_problem(request):
+    context = {}
+    return render(request, 'backend/admin/problem.html', context)
+
+
+def admin_problem_regist(request):
+    context = {}
+    return render(request, 'backend/admin/problem_regist.html', context)
+
+
 def problem_list(request):
     context = {}
     return render(request, 'backend/problem/list.html', context)
+
+
+def problem_detail(request):
+    context = {}
+    return render(request, 'backend/problem/detail.html', context)
+
+
+def problem_quiz(request):
+    context = {}
+    return render(request, 'backend/problem/quiz.html', context)
+
+
+def problem_result(request):
+    context = {}
+    return render(request, 'backend/problem/result.html', context)
 
 
 def login(request):

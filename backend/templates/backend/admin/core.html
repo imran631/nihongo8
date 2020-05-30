@@ -1,0 +1,132 @@
+{% extends "backend/base/base.html" %}
+
+{% block content %}
+<div class="mdk-header-layout__content page-content ">
+  <div class="pt-32pt">
+    <div class="container page__container d-flex flex-column flex-md-row align-items-center text-center text-sm-left">
+      <div class="flex d-flex flex-column flex-sm-row align-items-center mb-24pt mb-md-0">
+        <div class="mb-24pt mb-sm-0 mr-sm-24pt">
+          <h2 class="mb-0">단어 관리</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="page-section border-bottom-2 mh700">
+  <div class="container page__container">
+
+    <!-- is-valid -->
+    <!-- is-invalid -->
+
+    <!-- SET -->
+    <div class="form-row">
+      <div class="col-sm">
+        <div class="form-group">
+          <label class="form-label" for="custom-select">단어수준</label>
+          <select id="custom-select" class="form-control custom-select">
+            <option value="">전체</option>
+            <option value="0">시험 외</option>
+            <option value="1">JLPT N1</option>
+            <option value="2">JLPT N2</option>
+            <option value="3">JLPT N3</option>
+            <option value="4">JLPT N4</option>
+            <option value="5">JLPT N5</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="form-group">
+          <label class="form-label" for="custom-select">형식</label>
+          <select id="custom-select" class="form-control custom-select">
+            <option value="">전체</option>
+            <option value="N">명사</option>
+            <option value="V">동사</option>
+            <option value="E">い형용사</option>
+            <option value="N">な형용사</option>
+            <option value="AD">부사</option>
+            <option value="X">기타</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-sm">
+        <label class="form-label" for="validationSample02">한자</label>
+        <input type="text" class="form-control" id="validationSample02" placeholder="漢字" value="">
+        <div class="invalid-feedback">Please provide a last name.</div>
+        <div class="valid-feedback">Looks good!</div>
+      </div>
+      <div class="col-sm">
+        <label class="form-label" for="validationSample02">히라가나</label>
+        <input type="text" class="form-control" id="validationSample02" placeholder="ひらがな" value="">
+        <div class="invalid-feedback">Please provide a last name.</div>
+        <div class="valid-feedback">Looks good!</div>
+      </div>
+      <div class="col-sm">
+        <label class="form-label" for="validationSample01">카타카나</label>
+        <input type="text" class="form-control" id="validationSample01" placeholder="カタカナ" value="">
+        <div class="invalid-feedback">Please provide a first name.</div>
+        <div class="valid-feedback">Looks good!</div>
+      </div>
+      <div class="col-sm">
+        <label class="form-label" for="validationSample02">한글</label>
+        <input type="text" class="form-control" id="validationSample02" placeholder="한글" value="">
+        <div class="invalid-feedback">Please provide a last name.</div>
+        <div class="valid-feedback">Looks good!</div>
+      </div>
+    </div>
+    <!-- SET // END -->
+
+    <div class="row justify-content-end mb30">
+      <button type="button" class="btn btn-accent mr8" onclick="redirect('/admin/core/regist')">
+        <i class="material-icons icon--left">add</i>
+        추가
+      </button>
+      <button type="button" class="btn btn-primary">
+        <i class="material-icons icon--left">search</i>
+        검색
+      </button>
+    </div>
+
+    <div class="bg-fff">
+      <table class="table table-bordered">
+        <thead class="thead-light">
+          <tr>
+            <th class="tac" scope="col">PK</th>
+            <th class="tac" scope="col">형식</th>
+            <th class="tac" scope="col">한자</th>
+            <th class="tac" scope="col">히라가나</th>
+            <th class="tac" scope="col">카타카나</th>
+            <th class="tac" scope="col">한글</th>
+            <th class="tac w130" scope="col">등록일시</th>
+            <th class="tac w120" scope="col">수정</th>
+            <th class="tac w120" scope="col">삭제</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="tac">1</td>
+            <td>명사</td>
+            <td>愛想</td>
+            <td>あいそ</td>
+            <td></td>
+            <td>애상</td>
+            <td class="tac">2020/05/30 00:13</td>
+            <th>
+              <button type="button" class="btn btn-outline-primary">
+                <i class="material-icons icon--left">cached</i>
+                수정
+              </button>
+            </th>
+            <th>
+              <button type="button" class="btn btn-outline-accent">
+                <i class="material-icons icon--left">delete</i>
+                삭제
+              </button>
+            </th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>
+{% endblock %}

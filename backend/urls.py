@@ -9,7 +9,17 @@ urlpatterns = [
 
     path('jlpt', views.jlpt, name='jlpt'),
 
+    path('admin/core', views.admin_core, name='admin_core'),
+    path('admin/core/regist', views.admin_core_regist, name='admin_core_regist'),
+    path('admin/quiz', views.admin_quiz, name='admin_quiz'),
+    path('admin/quiz/regist', views.admin_quiz_regist, name='admin_quiz_regist'),
+    path('admin/problem', views.admin_problem, name='admin_problem'),
+    path('admin/problem/regist', views.admin_problem_regist, name='admin_problem_regist'),
+
     path('problem/list', views.problem_list, name='problem_list'),
+    path('problem/detail', views.problem_detail, name='problem_detail'),
+    path('problem/quiz', views.problem_quiz, name='problem_quiz'),
+    path('problem/result', views.problem_result, name='problem_result'),
 
     path('login', views.login, name='login'),
     path('regist', views.regist, name='regist'),
