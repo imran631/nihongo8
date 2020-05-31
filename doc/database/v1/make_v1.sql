@@ -109,7 +109,7 @@ create table tbl_community (
     like_cnt varchar(255) not null comment '좋아요수',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '등록사용자 FK tbl_user.id',
+    modify_id int comment '등록사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시',
     delete_yn varchar(255) default 'N' comment '삭제여부',
     delete_id int comment '삭제사용자 FK tbl_user.id',
@@ -124,7 +124,7 @@ create table tbl_reply (
     content varchar(255) not null comment '댓글',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '등록사용자 FK tbl_user.id',
+    modify_id int comment '등록사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시',
     delete_yn varchar(255) default 'N' comment '삭제여부',
     delete_id int comment '삭제사용자 FK tbl_user.id',
@@ -138,7 +138,7 @@ create table tbl_re_reply (
     content varchar(255) not null comment '답글',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '등록사용자 FK tbl_user.id',
+    modify_id int comment '등록사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시',
     delete_yn varchar(255) default 'N' comment '삭제여부',
     delete_id int comment '삭제사용자 FK tbl_user.id',
@@ -156,7 +156,7 @@ create table tbl_core (
     hangul varchar(255) not null comment '한글',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '수정사용자 FK tbl_user.id',
+    modify_id int comment '수정사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시'
 );
 -- 삭제 시 데이터 완전 삭제 및 tbl_problem_core 데이터 완전 삭제
@@ -172,7 +172,7 @@ create table tbl_problem (
     content varchar(255) not null comment '문제내용',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '수정사용자 FK tbl_user.id',
+    modify_id int comment '수정사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시',
     delete_yn varchar(255) default 'N' comment '삭제여부',
     delete_id int comment '삭제사용자 FK tbl_user.id',
@@ -211,7 +211,7 @@ create table tbl_core_ex (
     ex_hangul varchar(255) not null comment '예시 한글',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '등록사용자 FK tbl_user.id',
+    modify_id int comment '등록사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시'
 );
 -- 삭제 시 데이터 완전 삭제
@@ -232,7 +232,7 @@ create table tbl_quiz (
     point int not null comment '포인트',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '등록사용자 FK tbl_user.id',
+    modify_id int comment '등록사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시'
 );
 -- 삭제 시 데이터 완전 삭제 및 tbl_problem_quiz 데이터 완전 삭제
@@ -244,7 +244,7 @@ create table tbl_point_history (
     quiz_id int not null comment '퀴즈 FK tbl_quiz.id',
     point int not null comment '포인트',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '수정사용자 FK tbl_user.id',
+    modify_id int comment '수정사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시',
     delete_yn varchar(255) default 'N' comment '삭제여부',
     delete_id int comment '삭제사용자 FK tbl_user.id',
@@ -260,7 +260,7 @@ create table tbl_code (
     code_desc varchar(255) comment '설명',
     user_id int not null comment '등록사용자 FK tbl_user.id',
     regist_date datetime default now() comment '등록일시',
-    modify_id int not null comment '등록사용자 FK tbl_user.id',
+    modify_id int comment '등록사용자 FK tbl_user.id',
     modify_date datetime comment '수정일시'
 );
 -- 삭제 시 데이터 완전 삭제

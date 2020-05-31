@@ -1,0 +1,7 @@
+python manage.py makemigrations backend
+
+python manage.py migrate backend
+
+python manage.py dumpdata --indent 2 backend > dump_data.json
+
+python manage.py loaddata doc/seed/seed.json
