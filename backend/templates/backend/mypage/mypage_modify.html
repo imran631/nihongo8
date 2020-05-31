@@ -1,0 +1,65 @@
+{% extends "backend/base/base.html" %}
+
+{% block content %}
+<div class="mdk-header-layout__content page-content ">
+  <div class="pt-32pt">
+    <div class="container page__container d-flex flex-column flex-md-row align-items-center text-center text-sm-left">
+      <div class="flex d-flex flex-column flex-sm-row align-items-center mb-24pt mb-md-0">
+        <div class="mb-24pt mb-sm-0 mr-sm-24pt">
+          <h2 class="mb-0">개인정보수정</h2>
+        </div>
+      </div>
+      <div class="row" role="tablist">
+        <div class="col-auto">
+          <a href="/mypage" class="btn btn-outline-secondary">이전으로</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container page__container">
+    <div class="page-section">
+      <div class="row">
+        <div class="form-group col">
+          <label class="form-label" for="exampleInputEmail1">이메일</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="" readonly>
+        </div>
+        <div class="form-group col">
+          <label class="form-label" for="exampleInputEmail1">사용자명</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="" readonly>
+        </div>
+        <div class="form-group col">
+          <label class="form-label" for="exampleInputEmail1">가입일자</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="" readonly>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="form-group col">
+          <label class="form-label" for="exampleInputEmail1">JLPT 등급</label>
+          <select id="custom-select" class="form-control custom-select">
+            <option value="0">없음</option>
+            <option value="5">N5</option>
+            <option value="4">N4</option>
+            <option value="3">N3</option>
+            <option value="2">N2</option>
+            <option value="1">N1</option>
+          </select>
+        </div>
+        <div class="form-group col">
+          <label class="form-label" for="exampleInputEmail1">신규 비밀번호</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="">
+        </div>
+        <div class="form-group col">
+          <label class="form-label" for="exampleInputEmail1">신규 비밀번호 확인</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="">
+        </div>
+      </div>
+
+      <div class="tar">
+        <button type="button" class="btn btn-primary">수정</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- // END Header Layout Content -->
+{% endblock %}

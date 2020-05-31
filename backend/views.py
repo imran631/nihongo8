@@ -12,6 +12,11 @@ def mypage(request):
     return render(request, 'backend/mypage/mypage.html', context)
 
 
+def mypage_modify(request):
+    context = {}
+    return render(request, 'backend/mypage/mypage_modify.html', context)
+
+
 def jlpt(request):
     context = {}
     return render(request, 'backend/jlpt/jlpt.html', context)
