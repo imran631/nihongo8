@@ -1636,7 +1636,7 @@
   "pk": 13,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "悪どい",
     "hiragana": "あくどい",
     "katakana": "",
@@ -1700,7 +1700,7 @@
   "pk": 17,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "浅ましい·浅間敷い",
     "hiragana": "あさましい",
     "katakana": "",
@@ -1732,7 +1732,7 @@
   "pk": 19,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "鮮やか",
     "hiragana": "あざやか",
     "katakana": "",
@@ -2196,7 +2196,7 @@
   "pk": 48,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "あやふや",
     "katakana": "",
@@ -2324,7 +2324,7 @@
   "pk": 56,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "荒っぽい",
     "hiragana": "あらっぽい",
     "katakana": "",
@@ -2372,7 +2372,7 @@
   "pk": 59,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有りの儘",
     "hiragana": "ありのまま",
     "katakana": "",
@@ -2900,7 +2900,7 @@
   "pk": 92,
   "fields": {
     "level": 1,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "いざ",
     "katakana": "",
@@ -3140,7 +3140,7 @@
   "pk": 107,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "著しい",
     "hiragana": "いちじるしい",
     "katakana": "",
@@ -3236,7 +3236,7 @@
   "pk": 113,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "一様",
     "hiragana": "いちよう",
     "katakana": "",
@@ -3572,7 +3572,7 @@
   "pk": 134,
   "fields": {
     "level": 1,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "否否",
     "hiragana": "いやいや",
     "katakana": "",
@@ -3588,7 +3588,7 @@
   "pk": 135,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "卑しい",
     "hiragana": "いやしい",
     "katakana": "",
@@ -3620,7 +3620,7 @@
   "pk": 137,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "嫌らしい",
     "hiragana": "いやらしい",
     "katakana": "",
@@ -3748,7 +3748,7 @@
   "pk": 145,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "陰気",
     "hiragana": "いんき",
     "katakana": "",
@@ -4164,7 +4164,7 @@
   "pk": 171,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "鬱陶しい",
     "hiragana": "うっとうしい",
     "katakana": "",
@@ -4196,7 +4196,7 @@
   "pk": 173,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "空ろ·虚ろ·洞",
     "hiragana": "うつろ",
     "katakana": "",
@@ -4372,7 +4372,7 @@
   "pk": 184,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "浮気",
     "hiragana": "うわき",
     "katakana": "",
@@ -4692,7 +4692,7 @@
   "pk": 204,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "エレガント",
@@ -4724,7 +4724,7 @@
   "pk": 206,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "円滑",
     "hiragana": "えんかつ",
     "katakana": "",
@@ -4772,7 +4772,7 @@
   "pk": 209,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "婉曲",
     "hiragana": "えんきょく",
     "katakana": "",
@@ -4884,7 +4884,7 @@
   "pk": 216,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "円満",
     "hiragana": "えんまん",
     "katakana": "",
@@ -5044,7 +5044,7 @@
   "pk": 226,
   "fields": {
     "level": 1,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "おおい",
     "katakana": "",
@@ -5076,7 +5076,7 @@
   "pk": 228,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大がら·大柄",
     "hiragana": "おおがら",
     "katakana": "",
@@ -5092,7 +5092,7 @@
   "pk": 229,
   "fields": {
     "level": 1,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "",
     "katakana": "オーケー",
@@ -5108,7 +5108,7 @@
   "pk": 230,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大雑把",
     "hiragana": "おおざっぱ",
     "katakana": "",
@@ -5172,7 +5172,7 @@
   "pk": 234,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "オープン",
@@ -5236,7 +5236,7 @@
   "pk": 238,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "臆病",
     "hiragana": "おくびょう",
     "katakana": "",
@@ -5284,7 +5284,7 @@
   "pk": 241,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "厳か",
     "hiragana": "おごそか",
     "katakana": "",
@@ -5668,7 +5668,7 @@
   "pk": 265,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "おっかない",
     "katakana": "",
@@ -5844,7 +5844,7 @@
   "pk": 276,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "夥しい",
     "hiragana": "おびただしい",
     "katakana": "",
@@ -6148,7 +6148,7 @@
   "pk": 295,
   "fields": {
     "level": 1,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "己·俺",
     "hiragana": "おれ",
     "katakana": "",
@@ -6164,7 +6164,7 @@
   "pk": 296,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "愚か",
     "hiragana": "おろか",
     "katakana": "",
@@ -6180,7 +6180,7 @@
   "pk": 297,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "疎か",
     "hiragana": "おろそか",
     "katakana": "",
@@ -7492,7 +7492,7 @@
   "pk": 379,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "幽か·微か",
     "hiragana": "かすか",
     "katakana": "",
@@ -7588,7 +7588,7 @@
   "pk": 385,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "過疎",
     "hiragana": "かそ",
     "katakana": "",
@@ -7860,7 +7860,7 @@
   "pk": 402,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "活発",
     "hiragana": "かっぱつ",
     "katakana": "",
@@ -8116,7 +8116,7 @@
   "pk": 418,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "過密",
     "hiragana": "かみつ",
     "katakana": "",
@@ -8740,7 +8740,7 @@
   "pk": 457,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "肝心",
     "hiragana": "かんじん",
     "katakana": "",
@@ -9252,7 +9252,7 @@
   "pk": 489,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "気軽",
     "hiragana": "きがる",
     "katakana": "",
@@ -9460,7 +9460,7 @@
   "pk": 502,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "気障",
     "hiragana": "きざ",
     "katakana": "",
@@ -9796,7 +9796,7 @@
   "pk": 523,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "几帳面",
     "hiragana": "きちょうめん",
     "katakana": "",
@@ -10100,7 +10100,7 @@
   "pk": 542,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "花車·華奢·華車",
     "hiragana": "きゃしゃ",
     "katakana": "",
@@ -10548,7 +10548,7 @@
   "pk": 570,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "強硬",
     "hiragana": "きょうこう",
     "katakana": "",
@@ -10836,7 +10836,7 @@
   "pk": 588,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "強烈",
     "hiragana": "きょうれつ",
     "katakana": "",
@@ -10996,7 +10996,7 @@
   "pk": 598,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "清らか",
     "hiragana": "きよらか",
     "katakana": "",
@@ -11012,7 +11012,7 @@
   "pk": 599,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "煌びやか",
     "hiragana": "きらびやか",
     "katakana": "",
@@ -11044,7 +11044,7 @@
   "pk": 601,
   "fields": {
     "level": 1,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "きり",
     "katakana": "",
@@ -11364,7 +11364,7 @@
   "pk": 621,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "空腹",
     "hiragana": "くうふく",
     "katakana": "",
@@ -11460,7 +11460,7 @@
   "pk": 627,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "擽ったい",
     "hiragana": "くすぐったい",
     "katakana": "",
@@ -11956,7 +11956,7 @@
   "pk": 658,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "軽快",
     "hiragana": "けいかい",
     "katakana": "",
@@ -12212,7 +12212,7 @@
   "pk": 674,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "汚らわしい",
     "hiragana": "けがらわしい",
     "katakana": "",
@@ -12580,7 +12580,7 @@
   "pk": 697,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "煙たい",
     "hiragana": "けむたい",
     "katakana": "",
@@ -12772,7 +12772,7 @@
   "pk": 709,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "健在",
     "hiragana": "けんざい",
     "katakana": "",
@@ -12900,7 +12900,7 @@
   "pk": 717,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "健全",
     "hiragana": "けんぜん",
     "katakana": "",
@@ -13076,7 +13076,7 @@
   "pk": 728,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "厳密",
     "hiragana": "げんみつ",
     "katakana": "",
@@ -13540,7 +13540,7 @@
   "pk": 757,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "高尚",
     "hiragana": "こうしょう",
     "katakana": "",
@@ -13636,7 +13636,7 @@
   "pk": 763,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "公然",
     "hiragana": "こうぜん",
     "katakana": "",
@@ -13940,7 +13940,7 @@
   "pk": 782,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "巧妙",
     "hiragana": "こうみょう",
     "katakana": "",
@@ -14036,7 +14036,7 @@
   "pk": 788,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "小がら·小柄",
     "hiragana": "こがら",
     "katakana": "",
@@ -14308,7 +14308,7 @@
   "pk": 805,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "心強い",
     "hiragana": "こころづよい",
     "katakana": "",
@@ -14324,7 +14324,7 @@
   "pk": 806,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "心細い",
     "hiragana": "こころぼそい",
     "katakana": "",
@@ -14372,7 +14372,7 @@
   "pk": 809,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "快い",
     "hiragana": "こころよい",
     "katakana": "",
@@ -14660,7 +14660,7 @@
   "pk": 827,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "孤独",
     "hiragana": "こどく",
     "katakana": "",
@@ -14756,7 +14756,7 @@
   "pk": 833,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "好ましい",
     "hiragana": "このましい",
     "katakana": "",
@@ -14836,7 +14836,7 @@
   "pk": 838,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "細やか",
     "hiragana": "こまやか",
     "katakana": "",
@@ -14884,7 +14884,7 @@
   "pk": 841,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "固有",
     "hiragana": "こゆう",
     "katakana": "",
@@ -15172,7 +15172,7 @@
   "pk": 859,
   "fields": {
     "level": 1,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "さ",
     "katakana": "",
@@ -15988,7 +15988,7 @@
   "pk": 910,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "雑",
     "hiragana": "ざつ",
     "katakana": "",
@@ -16020,7 +16020,7 @@
   "pk": 912,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "早急",
     "hiragana": "さっきゅう",
     "katakana": "",
@@ -16324,7 +16324,7 @@
   "pk": 931,
   "fields": {
     "level": 1,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "",
     "katakana": "サンキュー",
@@ -16580,7 +16580,7 @@
   "pk": 947,
   "fields": {
     "level": 1,
-    "type": "접사",
+    "type": "기타",
     "kanji": "次",
     "hiragana": "じ",
     "katakana": "",
@@ -17700,7 +17700,7 @@
   "pk": 1017,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "シック",
@@ -17908,7 +17908,7 @@
   "pk": 1030,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "淑やか",
     "hiragana": "しとやか",
     "katakana": "",
@@ -17940,7 +17940,7 @@
   "pk": 1032,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "嫋か",
     "hiragana": "しなやか",
     "katakana": "",
@@ -18068,7 +18068,7 @@
   "pk": 1040,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "しぶとい",
     "katakana": "",
@@ -18756,7 +18756,7 @@
   "pk": 1083,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "柔軟",
     "hiragana": "じゅうなん",
     "katakana": "",
@@ -18996,7 +18996,7 @@
   "pk": 1098,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "種種",
     "hiragana": "しゅじゅ",
     "katakana": "",
@@ -19956,7 +19956,7 @@
   "pk": 1158,
   "fields": {
     "level": 1,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "諸君",
     "hiragana": "しょくん",
     "katakana": "",
@@ -20628,7 +20628,7 @@
   "pk": 1200,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "神聖",
     "hiragana": "しんせい",
     "katakana": "",
@@ -20820,7 +20820,7 @@
   "pk": 1212,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "神秘",
     "hiragana": "しんぴ",
     "katakana": "",
@@ -21124,7 +21124,7 @@
   "pk": 1231,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "清清しい",
     "hiragana": "すがすがしい",
     "katakana": "",
@@ -21172,7 +21172,7 @@
   "pk": 1234,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "健やか",
     "hiragana": "すこやか",
     "katakana": "",
@@ -21316,7 +21316,7 @@
   "pk": 1243,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "すばしこい",
     "katakana": "",
@@ -21332,7 +21332,7 @@
   "pk": 1244,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "素早い",
     "hiragana": "すばやい",
     "katakana": "",
@@ -21444,7 +21444,7 @@
   "pk": 1251,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "速やか",
     "hiragana": "すみやか",
     "katakana": "",
@@ -21860,7 +21860,7 @@
   "pk": 1277,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "清純",
     "hiragana": "せいじゅん",
     "katakana": "",
@@ -21908,7 +21908,7 @@
   "pk": 1280,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "整然",
     "hiragana": "せいぜん",
     "katakana": "",
@@ -21940,7 +21940,7 @@
   "pk": 1282,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "盛大",
     "hiragana": "せいだい",
     "katakana": "",
@@ -21988,7 +21988,7 @@
   "pk": 1285,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "静的",
     "hiragana": "せいてき",
     "katakana": "",
@@ -22388,7 +22388,7 @@
   "pk": 1310,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "切実",
     "hiragana": "せつじつ",
     "katakana": "",
@@ -22468,7 +22468,7 @@
   "pk": 1315,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "切ない",
     "hiragana": "せつない",
     "katakana": "",
@@ -23012,7 +23012,7 @@
   "pk": 1349,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "善良",
     "hiragana": "ぜんりょう",
     "katakana": "",
@@ -23140,7 +23140,7 @@
   "pk": 1357,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "相応",
     "hiragana": "そうおう",
     "katakana": "",
@@ -23364,7 +23364,7 @@
   "pk": 1371,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "壮大",
     "hiragana": "そうだい",
     "katakana": "",
@@ -23556,7 +23556,7 @@
   "pk": 1383,
   "fields": {
     "level": 1,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "其処ら",
     "hiragana": "そこら",
     "katakana": "",
@@ -23668,7 +23668,7 @@
   "pk": 1390,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "素っ気無い",
     "hiragana": "そっけない",
     "katakana": "",
@@ -23892,7 +23892,7 @@
   "pk": 1404,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "ぞんざい",
     "katakana": "",
@@ -24244,7 +24244,7 @@
   "pk": 1426,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大胆",
     "hiragana": "だいたん",
     "katakana": "",
@@ -24260,7 +24260,7 @@
   "pk": 1427,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "対等",
     "hiragana": "たいとう",
     "katakana": "",
@@ -24356,7 +24356,7 @@
   "pk": 1433,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大部",
     "hiragana": "たいぶ",
     "katakana": "",
@@ -24452,7 +24452,7 @@
   "pk": 1439,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "怠慢",
     "hiragana": "たいまん",
     "katakana": "",
@@ -24500,7 +24500,7 @@
   "pk": 1442,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "タイムリー",
@@ -24676,7 +24676,7 @@
   "pk": 1453,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "逞しい",
     "hiragana": "たくましい",
     "katakana": "",
@@ -25124,7 +25124,7 @@
   "pk": 1481,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "多忙",
     "hiragana": "たぼう",
     "katakana": "",
@@ -25220,7 +25220,7 @@
   "pk": 1487,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "容易い",
     "hiragana": "たやすい",
     "katakana": "",
@@ -25252,7 +25252,7 @@
   "pk": 1489,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "怠い·懈い",
     "hiragana": "だるい",
     "katakana": "",
@@ -25364,7 +25364,7 @@
   "pk": 1496,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "単一",
     "hiragana": "たんいつ",
     "katakana": "",
@@ -25556,7 +25556,7 @@
   "pk": 1508,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "単独",
     "hiragana": "たんどく",
     "katakana": "",
@@ -25828,7 +25828,7 @@
   "pk": 1525,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "知的",
     "hiragana": "ちてき",
     "katakana": "",
@@ -26452,7 +26452,7 @@
   "pk": 1564,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "著名",
     "hiragana": "ちょめい",
     "katakana": "",
@@ -26804,7 +26804,7 @@
   "pk": 1586,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "月並(み)",
     "hiragana": "つきなみ",
     "katakana": "",
@@ -27572,7 +27572,7 @@
   "pk": 1634,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "でかい",
     "katakana": "",
@@ -27636,7 +27636,7 @@
   "pk": 1638,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "手軽",
     "hiragana": "てがる",
     "katakana": "",
@@ -27748,7 +27748,7 @@
   "pk": 1645,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "手ごろ",
     "hiragana": "てごろ",
     "katakana": "",
@@ -27828,7 +27828,7 @@
   "pk": 1650,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "手近",
     "hiragana": "てぢか",
     "katakana": "",
@@ -28500,7 +28500,7 @@
   "pk": 1692,
   "fields": {
     "level": 1,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "と",
     "katakana": "",
@@ -28996,7 +28996,7 @@
   "pk": 1723,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "動的",
     "hiragana": "どうてき",
     "katakana": "",
@@ -29012,7 +29012,7 @@
   "pk": 1724,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "尊い·貴い",
     "hiragana": "とうとい",
     "katakana": "",
@@ -29028,7 +29028,7 @@
   "pk": 1725,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "同等",
     "hiragana": "どうとう",
     "katakana": "",
@@ -29044,7 +29044,7 @@
   "pk": 1726,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "堂堂",
     "hiragana": "どうどう",
     "katakana": "",
@@ -29428,7 +29428,7 @@
   "pk": 1750,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "独自",
     "hiragana": "どくじ",
     "katakana": "",
@@ -29572,7 +29572,7 @@
   "pk": 1759,
   "fields": {
     "level": 1,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "どころか",
     "katakana": "",
@@ -29956,7 +29956,7 @@
   "pk": 1783,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "乏しい",
     "hiragana": "とぼしい",
     "katakana": "",
@@ -30052,7 +30052,7 @@
   "pk": 1789,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "ドライ",
@@ -30452,7 +30452,7 @@
   "pk": 1814,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "鈍感",
     "hiragana": "どんかん",
     "katakana": "",
@@ -30468,7 +30468,7 @@
   "pk": 1815,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "とんだ",
     "katakana": "",
@@ -30756,7 +30756,7 @@
   "pk": 1833,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "和やか",
     "hiragana": "なごやか",
     "katakana": "",
@@ -30804,7 +30804,7 @@
   "pk": 1836,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "情けない",
     "hiragana": "なさけない",
     "katakana": "",
@@ -30820,7 +30820,7 @@
   "pk": 1837,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "情け深い",
     "hiragana": "なさけぶかい",
     "katakana": "",
@@ -30852,7 +30852,7 @@
   "pk": 1839,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "名高い",
     "hiragana": "なだかい",
     "katakana": "",
@@ -30916,7 +30916,7 @@
   "pk": 1843,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "何気無い",
     "hiragana": "なにげない",
     "katakana": "",
@@ -30996,7 +30996,7 @@
   "pk": 1848,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "生臭い",
     "hiragana": "なまぐさい",
     "katakana": "",
@@ -31012,7 +31012,7 @@
   "pk": 1849,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "生温い",
     "hiragana": "なまぬるい",
     "katakana": "",
@@ -31076,7 +31076,7 @@
   "pk": 1853,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "滑らか",
     "hiragana": "なめらか",
     "katakana": "",
@@ -31108,7 +31108,7 @@
   "pk": 1855,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "悩ましい",
     "hiragana": "なやましい",
     "katakana": "",
@@ -31252,7 +31252,7 @@
   "pk": 1864,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "馴れ馴れしい",
     "hiragana": "なれなれしい",
     "katakana": "",
@@ -31284,7 +31284,7 @@
   "pk": 1866,
   "fields": {
     "level": 1,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "なんか",
     "katakana": "",
@@ -31700,7 +31700,7 @@
   "pk": 1892,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "俄",
     "hiragana": "にわか",
     "katakana": "",
@@ -31812,7 +31812,7 @@
   "pk": 1899,
   "fields": {
     "level": 1,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "主",
     "hiragana": "ぬし",
     "katakana": "",
@@ -32372,7 +32372,7 @@
   "pk": 1934,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "望ましい",
     "hiragana": "のぞましい",
     "katakana": "",
@@ -32420,7 +32420,7 @@
   "pk": 1937,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "長閑",
     "hiragana": "のどか",
     "katakana": "",
@@ -32964,7 +32964,7 @@
   "pk": 1971,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "果敢無い·儚い",
     "hiragana": "はかない",
     "katakana": "",
@@ -32980,7 +32980,7 @@
   "pk": 1972,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "馬鹿馬鹿しい",
     "hiragana": "ばかばかしい",
     "katakana": "",
@@ -33076,7 +33076,7 @@
   "pk": 1978,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "薄弱",
     "hiragana": "はくじゃく",
     "katakana": "",
@@ -33108,7 +33108,7 @@
   "pk": 1980,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "漠然",
     "hiragana": "ばくぜん",
     "katakana": "",
@@ -33684,7 +33684,7 @@
   "pk": 2016,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "花花しい·華華しい",
     "hiragana": "はなばなしい",
     "katakana": "",
@@ -33716,7 +33716,7 @@
   "pk": 2018,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "花やか·華やか",
     "hiragana": "はなやか",
     "katakana": "",
@@ -34244,7 +34244,7 @@
   "pk": 2051,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "半端",
     "hiragana": "はんぱ",
     "katakana": "",
@@ -34564,7 +34564,7 @@
   "pk": 2071,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "久しい",
     "hiragana": "ひさしい",
     "katakana": "",
@@ -34580,7 +34580,7 @@
   "pk": 2072,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "悲惨",
     "hiragana": "ひさん",
     "katakana": "",
@@ -34676,7 +34676,7 @@
   "pk": 2078,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "密か·窃か·私か",
     "hiragana": "ひそか",
     "katakana": "",
@@ -35220,7 +35220,7 @@
   "pk": 2112,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "平たい",
     "hiragana": "ひらたい",
     "katakana": "",
@@ -35428,7 +35428,7 @@
   "pk": 2125,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "貧乏",
     "hiragana": "びんぼう",
     "katakana": "",
@@ -35620,7 +35620,7 @@
   "pk": 2137,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不可欠",
     "hiragana": "ふかけつ",
     "katakana": "",
@@ -35636,7 +35636,7 @@
   "pk": 2138,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "ぶかぶか",
     "katakana": "",
@@ -35652,7 +35652,7 @@
   "pk": 2139,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不吉",
     "hiragana": "ふきつ",
     "katakana": "",
@@ -35780,7 +35780,7 @@
   "pk": 2147,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不景気",
     "hiragana": "ふけいき",
     "katakana": "",
@@ -35908,7 +35908,7 @@
   "pk": 2155,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "相応しい",
     "hiragana": "ふさわしい",
     "katakana": "",
@@ -35924,7 +35924,7 @@
   "pk": 2156,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不順",
     "hiragana": "ふじゅん",
     "katakana": "",
@@ -35972,7 +35972,7 @@
   "pk": 2159,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不振",
     "hiragana": "ふしん",
     "katakana": "",
@@ -35988,7 +35988,7 @@
   "pk": 2160,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不審",
     "hiragana": "ふしん",
     "katakana": "",
@@ -36180,7 +36180,7 @@
   "pk": 2172,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不当",
     "hiragana": "ふとう",
     "katakana": "",
@@ -36340,7 +36340,7 @@
   "pk": 2182,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不明",
     "hiragana": "ふめい",
     "katakana": "",
@@ -36452,7 +36452,7 @@
   "pk": 2189,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不良",
     "hiragana": "ふりょう",
     "katakana": "",
@@ -36532,7 +36532,7 @@
   "pk": 2194,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無礼",
     "hiragana": "ぶれい",
     "katakana": "",
@@ -36708,7 +36708,7 @@
   "pk": 2205,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "ふんだん",
     "katakana": "",
@@ -36996,7 +36996,7 @@
   "pk": 2223,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "ぺこぺこ",
     "katakana": "",
@@ -37588,7 +37588,7 @@
   "pk": 2260,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "呆然·茫然",
     "hiragana": "ぼうぜん",
     "katakana": "",
@@ -38884,7 +38884,7 @@
   "pk": 2341,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "紛らわしい",
     "hiragana": "まぎらわしい",
     "katakana": "",
@@ -39156,7 +39156,7 @@
   "pk": 2358,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "待(ち)遠しい",
     "hiragana": "まちどおしい",
     "katakana": "",
@@ -39188,7 +39188,7 @@
   "pk": 2360,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "区区",
     "hiragana": "まちまち",
     "katakana": "",
@@ -39508,7 +39508,7 @@
   "pk": 2380,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "真ん丸い·真ん円い",
     "hiragana": "まんまるい",
     "katakana": "",
@@ -39572,7 +39572,7 @@
   "pk": 2384,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "未開",
     "hiragana": "みかい",
     "katakana": "",
@@ -39620,7 +39620,7 @@
   "pk": 2387,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "見苦しい",
     "hiragana": "みぐるしい",
     "katakana": "",
@@ -39668,7 +39668,7 @@
   "pk": 2390,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "未熟",
     "hiragana": "みじゅく",
     "katakana": "",
@@ -39732,7 +39732,7 @@
   "pk": 2394,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "見窄らしい",
     "hiragana": "みすぼらしい",
     "katakana": "",
@@ -39860,7 +39860,7 @@
   "pk": 2402,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "身近",
     "hiragana": "みぢか",
     "katakana": "",
@@ -39956,7 +39956,7 @@
   "pk": 2408,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "未定",
     "hiragana": "みてい",
     "katakana": "",
@@ -40196,7 +40196,7 @@
   "pk": 2423,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "未練",
     "hiragana": "みれん",
     "katakana": "",
@@ -40308,7 +40308,7 @@
   "pk": 2430,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無口",
     "hiragana": "むくち",
     "katakana": "",
@@ -40340,7 +40340,7 @@
   "pk": 2432,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無効",
     "hiragana": "むこう",
     "katakana": "",
@@ -40500,7 +40500,7 @@
   "pk": 2442,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無知",
     "hiragana": "むち",
     "katakana": "",
@@ -40532,7 +40532,7 @@
   "pk": 2444,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "空しい·虚しい",
     "hiragana": "むなしい",
     "katakana": "",
@@ -40548,7 +40548,7 @@
   "pk": 2445,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無念",
     "hiragana": "むねん",
     "katakana": "",
@@ -40564,7 +40564,7 @@
   "pk": 2446,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無能",
     "hiragana": "むのう",
     "katakana": "",
@@ -40580,7 +40580,7 @@
   "pk": 2447,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無用",
     "hiragana": "むよう",
     "katakana": "",
@@ -40596,7 +40596,7 @@
   "pk": 2448,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "斑",
     "hiragana": "むら",
     "katakana": "",
@@ -40724,7 +40724,7 @@
   "pk": 2456,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "明瞭",
     "hiragana": "めいりょう",
     "katakana": "",
@@ -40740,7 +40740,7 @@
   "pk": 2457,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "明朗",
     "hiragana": "めいろう",
     "katakana": "",
@@ -40836,7 +40836,7 @@
   "pk": 2463,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "目覚(ま)しい",
     "hiragana": "めざましい",
     "katakana": "",
@@ -41188,7 +41188,7 @@
   "pk": 2485,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "猛烈",
     "hiragana": "もうれつ",
     "katakana": "",
@@ -41444,7 +41444,7 @@
   "pk": 2501,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "物足りない",
     "hiragana": "ものたりない",
     "katakana": "",
@@ -41620,7 +41620,7 @@
   "pk": 2512,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "脆い",
     "hiragana": "もろい",
     "katakana": "",
@@ -41812,7 +41812,7 @@
   "pk": 2524,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "安っぽい",
     "hiragana": "やすっぽい",
     "katakana": "",
@@ -41844,7 +41844,7 @@
   "pk": 2526,
   "fields": {
     "level": 1,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "奴",
     "hiragana": "やつ",
     "katakana": "",
@@ -41908,7 +41908,7 @@
   "pk": 2530,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "ややこしい",
     "katakana": "",
@@ -41972,7 +41972,7 @@
   "pk": 2534,
   "fields": {
     "level": 1,
-    "type": "접사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "",
     "katakana": "ヤング",
@@ -42068,7 +42068,7 @@
   "pk": 2540,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "勇敢",
     "hiragana": "ゆうかん",
     "katakana": "",
@@ -42180,7 +42180,7 @@
   "pk": 2547,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "優勢",
     "hiragana": "ゆうせい",
     "katakana": "",
@@ -42244,7 +42244,7 @@
   "pk": 2551,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有望",
     "hiragana": "ゆうぼう",
     "katakana": "",
@@ -42276,7 +42276,7 @@
   "pk": 2553,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有力",
     "hiragana": "ゆうりょく",
     "katakana": "",
@@ -42404,7 +42404,7 @@
   "pk": 2561,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "ユニーク",
@@ -42500,7 +42500,7 @@
   "pk": 2567,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "緩やか",
     "hiragana": "ゆるやか",
     "katakana": "",
@@ -42836,7 +42836,7 @@
   "pk": 2588,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "欲深い",
     "hiragana": "よくふかい",
     "katakana": "",
@@ -42932,7 +42932,7 @@
   "pk": 2594,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "良し·善し",
     "hiragana": "よし",
     "katakana": "",
@@ -42948,7 +42948,7 @@
   "pk": 2595,
   "fields": {
     "level": 1,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "よし",
     "katakana": "",
@@ -43620,7 +43620,7 @@
   "pk": 2637,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "良好",
     "hiragana": "りょうこう",
     "katakana": "",
@@ -43652,7 +43652,7 @@
   "pk": 2639,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "良質",
     "hiragana": "りょうしつ",
     "katakana": "",
@@ -43876,7 +43876,7 @@
   "pk": 2653,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "ルーズ",
@@ -44260,7 +44260,7 @@
   "pk": 2677,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "碌な",
     "hiragana": "ろくな",
     "katakana": "",
@@ -44292,7 +44292,7 @@
   "pk": 2679,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "ロマンチック",
@@ -44404,7 +44404,7 @@
   "pk": 2686,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "煩わしい",
     "hiragana": "わずらわしい",
     "katakana": "",
@@ -44516,7 +44516,7 @@
   "pk": 2693,
   "fields": {
     "level": 1,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "我",
     "hiragana": "われ",
     "katakana": "",
@@ -44532,7 +44532,7 @@
   "pk": 2694,
   "fields": {
     "level": 1,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "あっけない",
     "katakana": "",
@@ -44612,7 +44612,7 @@
   "pk": 2699,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "オートマチック",
@@ -44948,7 +44948,7 @@
   "pk": 2720,
   "fields": {
     "level": 1,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "先天的",
     "hiragana": "せんてんてき",
     "katakana": "",
@@ -45252,7 +45252,7 @@
   "pk": 2739,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "曖昧",
     "hiragana": "あいまい",
     "katakana": "",
@@ -45428,7 +45428,7 @@
   "pk": 2750,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "明くる",
     "hiragana": "あくる",
     "katakana": "",
@@ -45524,7 +45524,7 @@
   "pk": 2756,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "厚かましい",
     "hiragana": "あつかましい",
     "katakana": "",
@@ -45556,7 +45556,7 @@
   "pk": 2758,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼方",
     "hiragana": "あっち",
     "katakana": "",
@@ -45780,7 +45780,7 @@
   "pk": 2772,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "危うい",
     "hiragana": "あやうい",
     "katakana": "",
@@ -45828,7 +45828,7 @@
   "pk": 2775,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "あら",
     "katakana": "",
@@ -45844,7 +45844,7 @@
   "pk": 2776,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "荒い",
     "hiragana": "あらい",
     "katakana": "",
@@ -45860,7 +45860,7 @@
   "pk": 2777,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "粗い",
     "hiragana": "あらい",
     "katakana": "",
@@ -45924,7 +45924,7 @@
   "pk": 2781,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "新た",
     "hiragana": "あらた",
     "katakana": "",
@@ -45972,7 +45972,7 @@
   "pk": 2784,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有らゆる",
     "hiragana": "あらゆる",
     "katakana": "",
@@ -46036,7 +46036,7 @@
   "pk": 2788,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "有り難う",
     "hiragana": "ありがとう",
     "katakana": "",
@@ -46068,7 +46068,7 @@
   "pk": 2790,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "或(る)",
     "hiragana": "ある",
     "katakana": "",
@@ -46116,7 +46116,7 @@
   "pk": 2793,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "慌ただしい",
     "hiragana": "あわただしい",
     "katakana": "",
@@ -46244,7 +46244,7 @@
   "pk": 2801,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "否",
     "hiragana": "いえ",
     "katakana": "",
@@ -46260,7 +46260,7 @@
   "pk": 2802,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "意外",
     "hiragana": "いがい",
     "katakana": "",
@@ -46452,7 +46452,7 @@
   "pk": 2814,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何れ·孰れ",
     "hiragana": "いずれ",
     "katakana": "",
@@ -46468,7 +46468,7 @@
   "pk": 2815,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "偉大",
     "hiragana": "いだい",
     "katakana": "",
@@ -46500,7 +46500,7 @@
   "pk": 2817,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "悪戯",
     "hiragana": "いたずら",
     "katakana": "",
@@ -46868,7 +46868,7 @@
   "pk": 2840,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "否",
     "hiragana": "いや",
     "katakana": "",
@@ -46996,7 +46996,7 @@
   "pk": 2848,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "所謂",
     "hiragana": "いわゆる",
     "katakana": "",
@@ -47444,7 +47444,7 @@
   "pk": 2876,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "上手い·巧い",
     "hiragana": "うまい",
     "katakana": "",
@@ -47668,7 +47668,7 @@
   "pk": 2890,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "え",
     "katakana": "",
@@ -47748,7 +47748,7 @@
   "pk": 2895,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "ええと",
     "katakana": "",
@@ -47860,7 +47860,7 @@
   "pk": 2902,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "偉い",
     "hiragana": "えらい",
     "katakana": "",
@@ -48228,7 +48228,7 @@
   "pk": 2925,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "おお",
     "katakana": "",
@@ -48260,7 +48260,7 @@
   "pk": 2927,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大げさ",
     "hiragana": "おおげさ",
     "katakana": "",
@@ -48516,7 +48516,7 @@
   "pk": 2943,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "惜しい",
     "hiragana": "おしい",
     "katakana": "",
@@ -48628,7 +48628,7 @@
   "pk": 2950,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "穏やか",
     "hiragana": "おだやか",
     "katakana": "",
@@ -48708,7 +48708,7 @@
   "pk": 2955,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "各",
     "hiragana": "おのおの",
     "katakana": "",
@@ -48724,7 +48724,7 @@
   "pk": 2956,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "お早う",
     "hiragana": "おはよう",
     "katakana": "",
@@ -48820,7 +48820,7 @@
   "pk": 2962,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "お前",
     "hiragana": "おまえ",
     "katakana": "",
@@ -48852,7 +48852,7 @@
   "pk": 2964,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "お待(ち)遠様",
     "hiragana": "おまちどおさま",
     "katakana": "",
@@ -48868,7 +48868,7 @@
   "pk": 2965,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "御目出度い·御芽出度い",
     "hiragana": "おめでたい",
     "katakana": "",
@@ -48884,7 +48884,7 @@
   "pk": 2966,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "御目出度う·御芽出度う",
     "hiragana": "おめでとう",
     "katakana": "",
@@ -48900,7 +48900,7 @@
   "pk": 2967,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "思いがけない",
     "hiragana": "おもいがけない",
     "katakana": "",
@@ -49124,7 +49124,7 @@
   "pk": 2981,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "温暖",
     "hiragana": "おんだん",
     "katakana": "",
@@ -49956,7 +49956,7 @@
   "pk": 3033,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "確実",
     "hiragana": "かくじつ",
     "katakana": "",
@@ -50388,7 +50388,7 @@
   "pk": 3060,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "過剰",
     "hiragana": "かじょう",
     "katakana": "",
@@ -50532,7 +50532,7 @@
   "pk": 3069,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "硬い",
     "hiragana": "かたい",
     "katakana": "",
@@ -50948,7 +50948,7 @@
   "pk": 3095,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "可能",
     "hiragana": "かのう",
     "katakana": "",
@@ -52020,7 +52020,7 @@
   "pk": 3162,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "黄色",
     "hiragana": "きいろ",
     "katakana": "",
@@ -52420,7 +52420,7 @@
   "pk": 3187,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "貴重",
     "hiragana": "きちょう",
     "katakana": "",
@@ -52500,7 +52500,7 @@
   "pk": 3192,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "気の毒",
     "hiragana": "きのどく",
     "katakana": "",
@@ -52596,7 +52596,7 @@
   "pk": 3198,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "奇妙",
     "hiragana": "きみょう",
     "katakana": "",
@@ -52740,7 +52740,7 @@
   "pk": 3207,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "急激·急劇",
     "hiragana": "きゅうげき",
     "katakana": "",
@@ -52820,7 +52820,7 @@
   "pk": 3212,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "清い",
     "hiragana": "きよい",
     "katakana": "",
@@ -52836,7 +52836,7 @@
   "pk": 3213,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "器用",
     "hiragana": "きよう",
     "katakana": "",
@@ -53108,7 +53108,7 @@
   "pk": 3230,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "巨大",
     "hiragana": "きょだい",
     "katakana": "",
@@ -53796,7 +53796,7 @@
   "pk": 3273,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "諄い",
     "hiragana": "くどい",
     "katakana": "",
@@ -54692,7 +54692,7 @@
   "pk": 3329,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "傑作",
     "hiragana": "けっさく",
     "katakana": "",
@@ -54756,7 +54756,7 @@
   "pk": 3333,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "煙い",
     "hiragana": "けむい",
     "katakana": "",
@@ -54932,7 +54932,7 @@
   "pk": 3344,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "厳重",
     "hiragana": "げんじゅう",
     "katakana": "",
@@ -54980,7 +54980,7 @@
   "pk": 3347,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "謙遜",
     "hiragana": "けんそん",
     "katakana": "",
@@ -55124,7 +55124,7 @@
   "pk": 3356,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "懸命",
     "hiragana": "けんめい",
     "katakana": "",
@@ -55252,7 +55252,7 @@
   "pk": 3364,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "恋しい",
     "hiragana": "こいしい",
     "katakana": "",
@@ -55316,7 +55316,7 @@
   "pk": 3368,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "強引",
     "hiragana": "ごういん",
     "katakana": "",
@@ -55348,7 +55348,7 @@
   "pk": 3370,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "高価",
     "hiragana": "こうか",
     "katakana": "",
@@ -55876,7 +55876,7 @@
   "pk": 3403,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "高等",
     "hiragana": "こうとう",
     "katakana": "",
@@ -56868,7 +56868,7 @@
   "pk": 3465,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "此等·是等",
     "hiragana": "これら",
     "katakana": "",
@@ -56996,7 +56996,7 @@
   "pk": 3473,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "困難",
     "hiragana": "こんなん",
     "katakana": "",
@@ -57092,7 +57092,7 @@
   "pk": 3479,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "最",
     "hiragana": "さい",
     "katakana": "",
@@ -57988,7 +57988,7 @@
   "pk": 3535,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "騒がしい",
     "hiragana": "さわがしい",
     "katakana": "",
@@ -58004,7 +58004,7 @@
   "pk": 3536,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "爽やか",
     "hiragana": "さわやか",
     "katakana": "",
@@ -58132,7 +58132,7 @@
   "pk": 3544,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "氏",
     "hiragana": "し",
     "katakana": "",
@@ -58228,7 +58228,7 @@
   "pk": 3550,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "四角",
     "hiragana": "しかく",
     "katakana": "",
@@ -58276,7 +58276,7 @@
   "pk": 3553,
   "fields": {
     "level": 2,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "しき",
     "katakana": "",
@@ -59204,7 +59204,7 @@
   "pk": 3611,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "しまった",
     "katakana": "",
@@ -59252,7 +59252,7 @@
   "pk": 3614,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "しめた",
     "katakana": "",
@@ -59780,7 +59780,7 @@
   "pk": 3647,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "重大",
     "hiragana": "じゅうだい",
     "katakana": "",
@@ -60116,7 +60116,7 @@
   "pk": 3668,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "主要",
     "hiragana": "しゅよう",
     "katakana": "",
@@ -60228,7 +60228,7 @@
   "pk": 3675,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "純情",
     "hiragana": "じゅんじょう",
     "katakana": "",
@@ -60468,7 +60468,7 @@
   "pk": 3690,
   "fields": {
     "level": 2,
-    "type": "접사",
+    "type": "기타",
     "kanji": "畳",
     "hiragana": "",
     "katakana": "-じょう",
@@ -60820,7 +60820,7 @@
   "pk": 3712,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "上等",
     "hiragana": "じょうとう",
     "katakana": "",
@@ -61540,7 +61540,7 @@
   "pk": 3757,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "深刻",
     "hiragana": "しんこく",
     "katakana": "",
@@ -61636,7 +61636,7 @@
   "pk": 3763,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "新鮮",
     "hiragana": "しんせん",
     "katakana": "",
@@ -62564,7 +62564,7 @@
   "pk": 3821,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "酸っぱい",
     "hiragana": "すっぱい",
     "katakana": "",
@@ -62676,7 +62676,7 @@
   "pk": 3828,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "スマート",
@@ -62804,7 +62804,7 @@
   "pk": 3836,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "狡い",
     "hiragana": "ずるい",
     "katakana": "",
@@ -62932,7 +62932,7 @@
   "pk": 3844,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "生",
     "hiragana": "せい",
     "katakana": "",
@@ -64180,7 +64180,7 @@
   "pk": 3922,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "騒騒しい",
     "hiragana": "そうぞうしい",
     "katakana": "",
@@ -64356,7 +64356,7 @@
   "pk": 3933,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "其方",
     "hiragana": "そっち",
     "katakana": "",
@@ -64372,7 +64372,7 @@
   "pk": 3934,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "率直",
     "hiragana": "そっちょく",
     "katakana": "",
@@ -64484,7 +64484,7 @@
   "pk": 3941,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "素朴",
     "hiragana": "そぼく",
     "katakana": "",
@@ -64500,7 +64500,7 @@
   "pk": 3942,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "粗末",
     "hiragana": "そまつ",
     "katakana": "",
@@ -64884,7 +64884,7 @@
   "pk": 3966,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "退屈",
     "hiragana": "たいくつ",
     "katakana": "",
@@ -65236,7 +65236,7 @@
   "pk": 3988,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "平ら",
     "hiragana": "たいら",
     "katakana": "",
@@ -65412,7 +65412,7 @@
   "pk": 3999,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "宅",
     "hiragana": "たく",
     "katakana": "",
@@ -65636,7 +65636,7 @@
   "pk": 4013,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "妥当",
     "hiragana": "だとう",
     "katakana": "",
@@ -65844,7 +65844,7 @@
   "pk": 4026,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "偶·適",
     "hiragana": "たま",
     "katakana": "",
@@ -65988,7 +65988,7 @@
   "pk": 4035,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "だらしない",
     "katakana": "",
@@ -66244,7 +66244,7 @@
   "pk": 4051,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "単なる",
     "hiragana": "たんなる",
     "katakana": "",
@@ -66468,7 +66468,7 @@
   "pk": 4065,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "力強い",
     "hiragana": "ちからづよい",
     "katakana": "",
@@ -67076,7 +67076,7 @@
   "pk": 4103,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "直角",
     "hiragana": "ちょっかく",
     "katakana": "",
@@ -67892,7 +67892,7 @@
   "pk": 4154,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "強気",
     "hiragana": "つよき",
     "katakana": "",
@@ -68148,7 +68148,7 @@
   "pk": 4170,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "的確",
     "hiragana": "てきかく",
     "katakana": "",
@@ -68164,7 +68164,7 @@
   "pk": 4171,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "適確",
     "hiragana": "てきかく",
     "katakana": "",
@@ -68212,7 +68212,7 @@
   "pk": 4174,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "適度",
     "hiragana": "てきど",
     "katakana": "",
@@ -68964,7 +68964,7 @@
   "pk": 4221,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "同一",
     "hiragana": "どういつ",
     "katakana": "",
@@ -69268,7 +69268,7 @@
   "pk": 4240,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "透明",
     "hiragana": "とうめい",
     "katakana": "",
@@ -69316,7 +69316,7 @@
   "pk": 4243,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "同様",
     "hiragana": "どうよう",
     "katakana": "",
@@ -69556,7 +69556,7 @@
   "pk": 4258,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "独特",
     "hiragana": "どくとく",
     "katakana": "",
@@ -70116,7 +70116,7 @@
   "pk": 4293,
   "fields": {
     "level": 2,
-    "type": "접사",
+    "type": "기타",
     "kanji": "内",
     "hiragana": "ない",
     "katakana": "",
@@ -70164,7 +70164,7 @@
   "pk": 4296,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "永い",
     "hiragana": "ながい",
     "katakana": "",
@@ -70388,7 +70388,7 @@
   "pk": 4310,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "懐かしい",
     "hiragana": "なつかしい",
     "katakana": "",
@@ -70468,7 +70468,7 @@
   "pk": 4315,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "何何",
     "hiragana": "なになに",
     "katakana": "",
@@ -70628,7 +70628,7 @@
   "pk": 4325,
   "fields": {
     "level": 2,
-    "type": "조사",
+    "type": "기타",
     "kanji": "何て",
     "hiragana": "なんて",
     "katakana": "",
@@ -70804,7 +70804,7 @@
   "pk": 4336,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "苦手",
     "hiragana": "にがて",
     "katakana": "",
@@ -70836,7 +70836,7 @@
   "pk": 4338,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "憎らしい",
     "hiragana": "にくらしい",
     "katakana": "",
@@ -70964,7 +70964,7 @@
   "pk": 4346,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "鈍い",
     "hiragana": "にぶい",
     "katakana": "",
@@ -71076,7 +71076,7 @@
   "pk": 4353,
   "fields": {
     "level": 2,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "ね",
     "katakana": "",
@@ -71572,7 +71572,7 @@
   "pk": 4384,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "鈍い",
     "hiragana": "のろい",
     "katakana": "",
@@ -71588,7 +71588,7 @@
   "pk": 4385,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "呑気·暢気·暖気",
     "hiragana": "のんき",
     "katakana": "",
@@ -71620,7 +71620,7 @@
   "pk": 4387,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "はあ",
     "katakana": "",
@@ -71684,7 +71684,7 @@
   "pk": 4391,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "",
     "katakana": "バイバイ",
@@ -71844,7 +71844,7 @@
   "pk": 4401,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "馬鹿らしい",
     "hiragana": "ばからしい",
     "katakana": "",
@@ -71924,7 +71924,7 @@
   "pk": 4406,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "ばく大",
     "hiragana": "ばくだい",
     "katakana": "",
@@ -72404,7 +72404,7 @@
   "pk": 4436,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "甚だしい",
     "hiragana": "はなはだしい",
     "katakana": "",
@@ -72804,7 +72804,7 @@
   "pk": 4461,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "ハンサム",
@@ -73028,7 +73028,7 @@
   "pk": 4475,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "卑怯",
     "hiragana": "ひきょう",
     "katakana": "",
@@ -73140,7 +73140,7 @@
   "pk": 4482,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "非常",
     "hiragana": "ひじょう",
     "katakana": "",
@@ -73348,7 +73348,7 @@
   "pk": 4495,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "等しい",
     "hiragana": "ひとしい",
     "katakana": "",
@@ -73684,7 +73684,7 @@
   "pk": 4516,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "微妙",
     "hiragana": "びみょう",
     "katakana": "",
@@ -74020,7 +74020,7 @@
   "pk": 4537,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不安",
     "hiragana": "ふあん",
     "katakana": "",
@@ -74084,7 +74084,7 @@
   "pk": 4541,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不運",
     "hiragana": "ふうん",
     "katakana": "",
@@ -74356,7 +74356,7 @@
   "pk": 4558,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不潔",
     "hiragana": "ふけつ",
     "katakana": "",
@@ -74788,7 +74788,7 @@
   "pk": 4585,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "物騒",
     "hiragana": "ぶっそう",
     "katakana": "",
@@ -74932,7 +74932,7 @@
   "pk": 4594,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不利",
     "hiragana": "ふり",
     "katakana": "",
@@ -75860,7 +75860,7 @@
   "pk": 4652,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "膨大",
     "hiragana": "ぼうだい",
     "katakana": "",
@@ -75908,7 +75908,7 @@
   "pk": 4655,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "豊富",
     "hiragana": "ほうふ",
     "katakana": "",
@@ -76052,7 +76052,7 @@
   "pk": 4664,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "朗らか",
     "hiragana": "ほがらか",
     "katakana": "",
@@ -76372,7 +76372,7 @@
   "pk": 4684,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "本の",
     "hiragana": "ほんの",
     "katakana": "",
@@ -76852,7 +76852,7 @@
   "pk": 4714,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "希·稀",
     "hiragana": "まれ",
     "katakana": "",
@@ -76964,7 +76964,7 @@
   "pk": 4721,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "見事·美事",
     "hiragana": "みごと",
     "katakana": "",
@@ -76996,7 +76996,7 @@
   "pk": 4723,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "惨め",
     "hiragana": "みじめ",
     "katakana": "",
@@ -77124,7 +77124,7 @@
   "pk": 4731,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "密",
     "hiragana": "みつ",
     "katakana": "",
@@ -77140,7 +77140,7 @@
   "pk": 4732,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "みっともない",
     "katakana": "",
@@ -77476,7 +77476,7 @@
   "pk": 4753,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "無数",
     "hiragana": "むすう",
     "katakana": "",
@@ -77556,7 +77556,7 @@
   "pk": 4758,
   "fields": {
     "level": 2,
-    "type": "접사",
+    "type": "기타",
     "kanji": "名",
     "hiragana": "めい",
     "katakana": "",
@@ -77796,7 +77796,7 @@
   "pk": 4773,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "目出度い·芽出度い·目出い",
     "hiragana": "めでたい",
     "katakana": "",
@@ -78116,7 +78116,7 @@
   "pk": 4793,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "尤も",
     "hiragana": "もっとも",
     "katakana": "",
@@ -78308,7 +78308,7 @@
   "pk": 4805,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "物すごい",
     "hiragana": "ものすごい",
     "katakana": "",
@@ -78644,7 +78644,7 @@
   "pk": 4826,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "易い",
     "hiragana": "やすい",
     "katakana": "",
@@ -78660,7 +78660,7 @@
   "pk": 4827,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "野生",
     "hiragana": "やせい",
     "katakana": "",
@@ -78676,7 +78676,7 @@
   "pk": 4828,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "厄介",
     "hiragana": "やっかい",
     "katakana": "",
@@ -78804,7 +78804,7 @@
   "pk": 4836,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "やや",
     "katakana": "",
@@ -78820,7 +78820,7 @@
   "pk": 4837,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "軟らかい",
     "hiragana": "やわらかい",
     "katakana": "",
@@ -78884,7 +78884,7 @@
   "pk": 4841,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有効",
     "hiragana": "ゆうこう",
     "katakana": "",
@@ -78900,7 +78900,7 @@
   "pk": 4842,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "優秀",
     "hiragana": "ゆうしゅう",
     "katakana": "",
@@ -78932,7 +78932,7 @@
   "pk": 4844,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有能",
     "hiragana": "ゆうのう",
     "katakana": "",
@@ -78964,7 +78964,7 @@
   "pk": 4846,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "悠悠",
     "hiragana": "ゆうゆう",
     "katakana": "",
@@ -78980,7 +78980,7 @@
   "pk": 4847,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有利",
     "hiragana": "ゆうり",
     "katakana": "",
@@ -79108,7 +79108,7 @@
   "pk": 4855,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "豊か",
     "hiragana": "ゆたか",
     "katakana": "",
@@ -79172,7 +79172,7 @@
   "pk": 4859,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "よいしょ",
     "katakana": "",
@@ -79204,7 +79204,7 @@
   "pk": 4861,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "容易",
     "hiragana": "ようい",
     "katakana": "",
@@ -79252,7 +79252,7 @@
   "pk": 4864,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "陽気",
     "hiragana": "ようき",
     "katakana": "",
@@ -79396,7 +79396,7 @@
   "pk": 4873,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "幼稚",
     "hiragana": "ようち",
     "katakana": "",
@@ -79684,7 +79684,7 @@
   "pk": 4891,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "余分",
     "hiragana": "よぶん",
     "katakana": "",
@@ -79812,7 +79812,7 @@
   "pk": 4899,
   "fields": {
     "level": 2,
-    "type": "접사",
+    "type": "기타",
     "kanji": "来",
     "hiragana": "らい",
     "katakana": "",
@@ -80500,7 +80500,7 @@
   "pk": 4942,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "我が",
     "hiragana": "わが",
     "katakana": "",
@@ -80676,7 +80676,7 @@
   "pk": 4953,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "我我",
     "hiragana": "われわれ",
     "katakana": "",
@@ -80724,7 +80724,7 @@
   "pk": 4956,
   "fields": {
     "level": 2,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼方此方",
     "hiragana": "あちらこちら",
     "katakana": "",
@@ -80948,7 +80948,7 @@
   "pk": 4970,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "御苦労様",
     "hiragana": "ごくろうさま",
     "katakana": "",
@@ -80964,7 +80964,7 @@
   "pk": 4971,
   "fields": {
     "level": 2,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "御馳走様",
     "hiragana": "ごちそうさま",
     "katakana": "",
@@ -81012,7 +81012,7 @@
   "pk": 4974,
   "fields": {
     "level": 2,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "しかくい",
     "katakana": "",
@@ -81124,7 +81124,7 @@
   "pk": 4981,
   "fields": {
     "level": 2,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "積極的",
     "hiragana": "せっきょくてき",
     "katakana": "",
@@ -81444,7 +81444,7 @@
   "pk": 5001,
   "fields": {
     "level": 3,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "あ",
     "katakana": "",
@@ -81460,7 +81460,7 @@
   "pk": 5002,
   "fields": {
     "level": 3,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "ああ",
     "katakana": "",
@@ -81556,7 +81556,7 @@
   "pk": 5008,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "青白い",
     "hiragana": "あおじろい",
     "katakana": "",
@@ -81588,7 +81588,7 @@
   "pk": 5010,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "明らか",
     "hiragana": "あきらか",
     "katakana": "",
@@ -81812,7 +81812,7 @@
   "pk": 5024,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "暖かい·温かい",
     "hiragana": "あたたかい",
     "katakana": "",
@@ -81860,7 +81860,7 @@
   "pk": 5027,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "当(た)り前",
     "hiragana": "あたりまえ",
     "katakana": "",
@@ -81988,7 +81988,7 @@
   "pk": 5035,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "怪しい",
     "hiragana": "あやしい",
     "katakana": "",
@@ -82036,7 +82036,7 @@
   "pk": 5038,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "有(り)難い",
     "hiragana": "ありがたい",
     "katakana": "",
@@ -82404,7 +82404,7 @@
   "pk": 5061,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "勇ましい",
     "hiragana": "いさましい",
     "katakana": "",
@@ -82852,7 +82852,7 @@
   "pk": 5089,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "薄暗い",
     "hiragana": "うすぐらい",
     "katakana": "",
@@ -83044,7 +83044,7 @@
   "pk": 5101,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "羨ましい",
     "hiragana": "うらやましい",
     "katakana": "",
@@ -83140,7 +83140,7 @@
   "pk": 5107,
   "fields": {
     "level": 3,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "うん",
     "katakana": "",
@@ -83364,7 +83364,7 @@
   "pk": 5121,
   "fields": {
     "level": 3,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "おい",
     "katakana": "",
@@ -83636,7 +83636,7 @@
   "pk": 5138,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "幼い",
     "hiragana": "おさない",
     "katakana": "",
@@ -83652,7 +83652,7 @@
   "pk": 5139,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "御洒落",
     "hiragana": "おしゃれ",
     "katakana": "",
@@ -83668,7 +83668,7 @@
   "pk": 5140,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "恐ろしい",
     "hiragana": "おそろしい",
     "katakana": "",
@@ -83828,7 +83828,7 @@
   "pk": 5150,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "重たい",
     "hiragana": "おもたい",
     "katakana": "",
@@ -84564,7 +84564,7 @@
   "pk": 5196,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "賢い",
     "hiragana": "かしこい",
     "katakana": "",
@@ -84916,7 +84916,7 @@
   "pk": 5218,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "痒い",
     "hiragana": "かゆい",
     "katakana": "",
@@ -84964,7 +84964,7 @@
   "pk": 5221,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "空っぽ",
     "hiragana": "からっぽ",
     "katakana": "",
@@ -85012,7 +85012,7 @@
   "pk": 5224,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "可哀相",
     "hiragana": "かわいそう",
     "katakana": "",
@@ -85028,7 +85028,7 @@
   "pk": 5225,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "可愛らしい",
     "hiragana": "かわいらしい",
     "katakana": "",
@@ -85508,7 +85508,7 @@
   "pk": 5255,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "きつい",
     "katakana": "",
@@ -86116,7 +86116,7 @@
   "pk": 5293,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "臭い",
     "hiragana": "くさい",
     "katakana": "",
@@ -86228,7 +86228,7 @@
   "pk": 5300,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "下らない",
     "hiragana": "くだらない",
     "katakana": "",
@@ -86340,7 +86340,7 @@
   "pk": 5307,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "悔しい",
     "hiragana": "くやしい",
     "katakana": "",
@@ -86452,7 +86452,7 @@
   "pk": 5314,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "苦労",
     "hiragana": "くろう",
     "katakana": "",
@@ -86484,7 +86484,7 @@
   "pk": 5316,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "詳しい",
     "hiragana": "くわしい",
     "katakana": "",
@@ -86516,7 +86516,7 @@
   "pk": 5318,
   "fields": {
     "level": 3,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "け",
     "katakana": "",
@@ -86900,7 +86900,7 @@
   "pk": 5342,
   "fields": {
     "level": 3,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "けれど",
     "katakana": "",
@@ -86916,7 +86916,7 @@
   "pk": 5343,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "険しい",
     "hiragana": "けわしい",
     "katakana": "",
@@ -87124,7 +87124,7 @@
   "pk": 5356,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "濃い",
     "hiragana": "こい",
     "katakana": "",
@@ -87188,7 +87188,7 @@
   "pk": 5360,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "幸運",
     "hiragana": "こううん",
     "katakana": "",
@@ -87252,7 +87252,7 @@
   "pk": 5364,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "高級",
     "hiragana": "こうきゅう",
     "katakana": "",
@@ -87636,7 +87636,7 @@
   "pk": 5388,
   "fields": {
     "level": 3,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "此方",
     "hiragana": "こっち",
     "katakana": "",
@@ -87668,7 +87668,7 @@
   "pk": 5390,
   "fields": {
     "level": 3,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "こと",
     "katakana": "",
@@ -88500,7 +88500,7 @@
   "pk": 5442,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "塩辛い",
     "hiragana": "しおからい",
     "katakana": "",
@@ -88804,7 +88804,7 @@
   "pk": 5461,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "しつこい",
     "katakana": "",
@@ -89396,7 +89396,7 @@
   "pk": 5498,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "重要",
     "hiragana": "じゅうよう",
     "katakana": "",
@@ -90068,7 +90068,7 @@
   "pk": 5540,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "上品",
     "hiragana": "じょうひん",
     "katakana": "",
@@ -90724,7 +90724,7 @@
   "pk": 5581,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "図図しい",
     "hiragana": "ずうずうしい",
     "katakana": "",
@@ -90964,7 +90964,7 @@
   "pk": 5596,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "素敵·素的",
     "hiragana": "すてき",
     "katakana": "",
@@ -91028,7 +91028,7 @@
   "pk": 5600,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "素直",
     "hiragana": "すなお",
     "katakana": "",
@@ -91140,7 +91140,7 @@
   "pk": 5607,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "鋭い",
     "hiragana": "するどい",
     "katakana": "",
@@ -91988,7 +91988,7 @@
   "pk": 5660,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "そそっかしい",
     "katakana": "",
@@ -92244,7 +92244,7 @@
   "pk": 5676,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大した",
     "hiragana": "たいした",
     "katakana": "",
@@ -92708,7 +92708,7 @@
   "pk": 5705,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "徒",
     "hiragana": "ただ",
     "katakana": "",
@@ -92884,7 +92884,7 @@
   "pk": 5716,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "頼もしい",
     "hiragana": "たのもしい",
     "katakana": "",
@@ -94180,7 +94180,7 @@
   "pk": 5797,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "辛い",
     "hiragana": "つらい",
     "katakana": "",
@@ -94404,7 +94404,7 @@
   "pk": 5811,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "適当",
     "hiragana": "てきとう",
     "katakana": "",
@@ -94756,7 +94756,7 @@
   "pk": 5833,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "遠回り",
     "hiragana": "とおまわり",
     "katakana": "",
@@ -94868,7 +94868,7 @@
   "pk": 5840,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "得意",
     "hiragana": "とくい",
     "katakana": "",
@@ -95060,7 +95060,7 @@
   "pk": 5852,
   "fields": {
     "level": 3,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何方",
     "hiragana": "どっち",
     "katakana": "",
@@ -95316,7 +95316,7 @@
   "pk": 5868,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "とんでもない",
     "katakana": "",
@@ -95508,7 +95508,7 @@
   "pk": 5880,
   "fields": {
     "level": 3,
-    "type": "조사",
+    "type": "기타",
     "kanji": "乍ら",
     "hiragana": "ながら",
     "katakana": "",
@@ -95540,7 +95540,7 @@
   "pk": 5882,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "なだらか",
     "katakana": "",
@@ -95716,7 +95716,7 @@
   "pk": 5893,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "憎い",
     "hiragana": "にくい",
     "katakana": "",
@@ -96580,7 +96580,7 @@
   "pk": 5947,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "激しい",
     "hiragana": "はげしい",
     "katakana": "",
@@ -97812,7 +97812,7 @@
   "pk": 6024,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不足",
     "hiragana": "ふそく",
     "katakana": "",
@@ -98004,7 +98004,7 @@
   "pk": 6036,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不満",
     "hiragana": "ふまん",
     "katakana": "",
@@ -98228,7 +98228,7 @@
   "pk": 6050,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "平気",
     "hiragana": "へいき",
     "katakana": "",
@@ -98340,7 +98340,7 @@
   "pk": 6057,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "別別",
     "hiragana": "べつべつ",
     "katakana": "",
@@ -98964,7 +98964,7 @@
   "pk": 6096,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "貧しい",
     "hiragana": "まずしい",
     "katakana": "",
@@ -99076,7 +99076,7 @@
   "pk": 6103,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "真っ赤",
     "hiragana": "まっか",
     "katakana": "",
@@ -99092,7 +99092,7 @@
   "pk": 6104,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "真っ暗",
     "hiragana": "まっくら",
     "katakana": "",
@@ -99108,7 +99108,7 @@
   "pk": 6105,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "真っ黒",
     "hiragana": "まっくろ",
     "katakana": "",
@@ -99124,7 +99124,7 @@
   "pk": 6106,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "真っ青",
     "hiragana": "まっさお",
     "katakana": "",
@@ -99140,7 +99140,7 @@
   "pk": 6107,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "真っ白",
     "hiragana": "まっしろ",
     "katakana": "",
@@ -99252,7 +99252,7 @@
   "pk": 6114,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "眩しい",
     "hiragana": "まぶしい",
     "katakana": "",
@@ -99476,7 +99476,7 @@
   "pk": 6128,
   "fields": {
     "level": 3,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "身",
     "hiragana": "み",
     "katakana": "",
@@ -99668,7 +99668,7 @@
   "pk": 6140,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "醜い",
     "hiragana": "みにくい",
     "katakana": "",
@@ -99892,7 +99892,7 @@
   "pk": 6154,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "蒸(し)暑い",
     "hiragana": "むしあつい",
     "katakana": "",
@@ -100052,7 +100052,7 @@
   "pk": 6164,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "明確",
     "hiragana": "めいかく",
     "katakana": "",
@@ -100116,7 +100116,7 @@
   "pk": 6168,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "明白",
     "hiragana": "めいはく",
     "katakana": "",
@@ -100132,7 +100132,7 @@
   "pk": 6169,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "迷惑",
     "hiragana": "めいわく",
     "katakana": "",
@@ -100324,7 +100324,7 @@
   "pk": 6181,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "面倒",
     "hiragana": "めんどう",
     "katakana": "",
@@ -100580,7 +100580,7 @@
   "pk": 6197,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "喧しい",
     "hiragana": "やかましい",
     "katakana": "",
@@ -100916,7 +100916,7 @@
   "pk": 6218,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "緩い",
     "hiragana": "ゆるい",
     "katakana": "",
@@ -101092,7 +101092,7 @@
   "pk": 6229,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "欲張り",
     "hiragana": "よくばり",
     "katakana": "",
@@ -101748,7 +101748,7 @@
   "pk": 6270,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "若若しい",
     "hiragana": "わかわかしい",
     "katakana": "",
@@ -101924,7 +101924,7 @@
   "pk": 6281,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "朝寝坊",
     "hiragana": "あさねぼう",
     "katakana": "",
@@ -101940,7 +101940,7 @@
   "pk": 6282,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "意地悪",
     "hiragana": "いじわる",
     "katakana": "",
@@ -102116,7 +102116,7 @@
   "pk": 6293,
   "fields": {
     "level": 3,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "消極的",
     "hiragana": "しょうきょくてき",
     "katakana": "",
@@ -102308,7 +102308,7 @@
   "pk": 6305,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "面倒臭い",
     "hiragana": "めんどうくさい",
     "katakana": "",
@@ -102324,7 +102324,7 @@
   "pk": 6306,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "",
     "hiragana": "もうしわけない",
     "katakana": "",
@@ -102340,7 +102340,7 @@
   "pk": 6307,
   "fields": {
     "level": 3,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "勿体無い·物体無い",
     "hiragana": "もったいない",
     "katakana": "",
@@ -102532,7 +102532,7 @@
   "pk": 6319,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "浅い",
     "hiragana": "あさい",
     "katakana": "",
@@ -102628,7 +102628,7 @@
   "pk": 6325,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "熱い",
     "hiragana": "あつい",
     "katakana": "",
@@ -102644,7 +102644,7 @@
   "pk": 6326,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "厚い",
     "hiragana": "あつい",
     "katakana": "",
@@ -102708,7 +102708,7 @@
   "pk": 6330,
   "fields": {
     "level": 4,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "あの",
     "katakana": "",
@@ -102820,7 +102820,7 @@
   "pk": 6337,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼",
     "hiragana": "あれ",
     "katakana": "",
@@ -102836,7 +102836,7 @@
   "pk": 6338,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "安心",
     "hiragana": "あんしん",
     "katakana": "",
@@ -103412,7 +103412,7 @@
   "pk": 6374,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "内",
     "hiragana": "うち",
     "katakana": "",
@@ -103444,7 +103444,7 @@
   "pk": 6376,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "美しい",
     "hiragana": "うつくしい",
     "katakana": "",
@@ -103492,7 +103492,7 @@
   "pk": 6379,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "旨い·甘い·美味い",
     "hiragana": "うまい",
     "katakana": "",
@@ -103540,7 +103540,7 @@
   "pk": 6382,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "嬉しい",
     "hiragana": "うれしい",
     "katakana": "",
@@ -103636,7 +103636,7 @@
   "pk": 6388,
   "fields": {
     "level": 4,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "ええ",
     "katakana": "",
@@ -103716,7 +103716,7 @@
   "pk": 6393,
   "fields": {
     "level": 4,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "お",
     "katakana": "",
@@ -103748,7 +103748,7 @@
   "pk": 6395,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "可笑しい",
     "hiragana": "おかしい",
     "katakana": "",
@@ -103908,7 +103908,7 @@
   "pk": 6405,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "お宅",
     "hiragana": "おたく",
     "katakana": "",
@@ -104020,7 +104020,7 @@
   "pk": 6412,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "大人しい",
     "hiragana": "おとなしい",
     "katakana": "",
@@ -104180,7 +104180,7 @@
   "pk": 6422,
   "fields": {
     "level": 4,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "おや",
     "katakana": "",
@@ -104724,7 +104724,7 @@
   "pk": 6456,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "堅い·固い",
     "hiragana": "かたい",
     "katakana": "",
@@ -104852,7 +104852,7 @@
   "pk": 6464,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "悲しい",
     "hiragana": "かなしい",
     "katakana": "",
@@ -104916,7 +104916,7 @@
   "pk": 6468,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼女",
     "hiragana": "かのじょ",
     "katakana": "",
@@ -104996,7 +104996,7 @@
   "pk": 6473,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼",
     "hiragana": "かれ",
     "katakana": "",
@@ -105028,7 +105028,7 @@
   "pk": 6475,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼ら",
     "hiragana": "かれら",
     "katakana": "",
@@ -105412,7 +105412,7 @@
   "pk": 6499,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "厳しい",
     "hiragana": "きびしい",
     "katakana": "",
@@ -105460,7 +105460,7 @@
   "pk": 6502,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "君",
     "hiragana": "きみ",
     "katakana": "",
@@ -105876,7 +105876,7 @@
   "pk": 6528,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "苦しい",
     "hiragana": "くるしい",
     "katakana": "",
@@ -106100,7 +106100,7 @@
   "pk": 6542,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "結構",
     "hiragana": "けっこう",
     "katakana": "",
@@ -106148,7 +106148,7 @@
   "pk": 6545,
   "fields": {
     "level": 4,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "けれども",
     "katakana": "",
@@ -106724,7 +106724,7 @@
   "pk": 6581,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "細かい",
     "hiragana": "こまかい",
     "katakana": "",
@@ -106836,7 +106836,7 @@
   "pk": 6588,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "怖い",
     "hiragana": "こわい",
     "katakana": "",
@@ -106964,7 +106964,7 @@
   "pk": 6596,
   "fields": {
     "level": 4,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "さあ",
     "katakana": "",
@@ -107092,7 +107092,7 @@
   "pk": 6604,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "盛ん",
     "hiragana": "さかん",
     "katakana": "",
@@ -107236,7 +107236,7 @@
   "pk": 6613,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "寂しい",
     "hiragana": "さびしい",
     "katakana": "",
@@ -107252,7 +107252,7 @@
   "pk": 6614,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "様",
     "hiragana": "さま",
     "katakana": "",
@@ -107332,7 +107332,7 @@
   "pk": 6619,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "三角",
     "hiragana": "さんかく",
     "katakana": "",
@@ -107428,7 +107428,7 @@
   "pk": 6625,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "残念",
     "hiragana": "ざんねん",
     "katakana": "",
@@ -107652,7 +107652,7 @@
   "pk": 6639,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "親しい",
     "hiragana": "したしい",
     "katakana": "",
@@ -107716,7 +107716,7 @@
   "pk": 6643,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "失礼",
     "hiragana": "しつれい",
     "katakana": "",
@@ -107812,7 +107812,7 @@
   "pk": 6649,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "自分",
     "hiragana": "じぶん",
     "katakana": "",
@@ -107956,7 +107956,7 @@
   "pk": 6658,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "邪魔",
     "hiragana": "じゃま",
     "katakana": "",
@@ -108436,7 +108436,7 @@
   "pk": 6688,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "心配",
     "hiragana": "しんぱい",
     "katakana": "",
@@ -108596,7 +108596,7 @@
   "pk": 6698,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "凄い",
     "hiragana": "すごい",
     "katakana": "",
@@ -108612,7 +108612,7 @@
   "pk": 6699,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "涼しい",
     "hiragana": "すずしい",
     "katakana": "",
@@ -108724,7 +108724,7 @@
   "pk": 6706,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "素晴らしい",
     "hiragana": "すばらしい",
     "katakana": "",
@@ -109348,7 +109348,7 @@
   "pk": 6745,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "",
     "katakana": "ソフト",
@@ -109556,7 +109556,7 @@
   "pk": 6758,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大切",
     "hiragana": "たいせつ",
     "katakana": "",
@@ -109652,7 +109652,7 @@
   "pk": 6764,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大変",
     "hiragana": "たいへん",
     "katakana": "",
@@ -109732,7 +109732,7 @@
   "pk": 6769,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "確か",
     "hiragana": "たしか",
     "katakana": "",
@@ -109796,7 +109796,7 @@
   "pk": 6773,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "正しい",
     "hiragana": "ただしい",
     "katakana": "",
@@ -110564,7 +110564,7 @@
   "pk": 6821,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "冷たい",
     "hiragana": "つめたい",
     "katakana": "",
@@ -110820,7 +110820,7 @@
   "pk": 6837,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "手前",
     "hiragana": "てまえ",
     "katakana": "",
@@ -111620,7 +111620,7 @@
   "pk": 6887,
   "fields": {
     "level": 4,
-    "type": "조사",
+    "type": "기타",
     "kanji": "等·抔",
     "hiragana": "など",
     "katakana": "",
@@ -111764,7 +111764,7 @@
   "pk": 6896,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何",
     "hiragana": "なん",
     "katakana": "",
@@ -111812,7 +111812,7 @@
   "pk": 6899,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "苦い",
     "hiragana": "にがい",
     "katakana": "",
@@ -112052,7 +112052,7 @@
   "pk": 6914,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "温い",
     "hiragana": "ぬるい",
     "katakana": "",
@@ -112132,7 +112132,7 @@
   "pk": 6919,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "寝坊",
     "hiragana": "ねぼう",
     "katakana": "",
@@ -112148,7 +112148,7 @@
   "pk": 6920,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "眠い",
     "hiragana": "ねむい",
     "katakana": "",
@@ -112164,7 +112164,7 @@
   "pk": 6921,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "眠たい",
     "hiragana": "ねむたい",
     "katakana": "",
@@ -112420,7 +112420,7 @@
   "pk": 6937,
   "fields": {
     "level": 4,
-    "type": "조사",
+    "type": "기타",
     "kanji": "許り",
     "hiragana": "ばかり",
     "katakana": "",
@@ -112628,7 +112628,7 @@
   "pk": 6950,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "恥ずかしい",
     "hiragana": "はずかしい",
     "katakana": "",
@@ -113156,7 +113156,7 @@
   "pk": 6983,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "必要",
     "hiragana": "ひつよう",
     "katakana": "",
@@ -113172,7 +113172,7 @@
   "pk": 6984,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "酷い·非道い",
     "hiragana": "ひどい",
     "katakana": "",
@@ -113412,7 +113412,7 @@
   "pk": 6999,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "深い",
     "hiragana": "ふかい",
     "katakana": "",
@@ -113524,7 +113524,7 @@
   "pk": 7006,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "太い",
     "hiragana": "ふとい",
     "katakana": "",
@@ -113604,7 +113604,7 @@
   "pk": 7011,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "不便",
     "hiragana": "ふべん",
     "katakana": "",
@@ -114004,7 +114004,7 @@
   "pk": 7036,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "僕",
     "hiragana": "ぼく",
     "katakana": "",
@@ -114036,7 +114036,7 @@
   "pk": 7038,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "欲しい",
     "hiragana": "ほしい",
     "katakana": "",
@@ -114068,7 +114068,7 @@
   "pk": 7040,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "細い",
     "hiragana": "ほそい",
     "katakana": "",
@@ -114404,7 +114404,7 @@
   "pk": 7061,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "円い",
     "hiragana": "まるい",
     "katakana": "",
@@ -114532,7 +114532,7 @@
   "pk": 7069,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "皆",
     "hiragana": "みな",
     "katakana": "",
@@ -114724,7 +114724,7 @@
   "pk": 7081,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "珍しい",
     "hiragana": "めずらしい",
     "katakana": "",
@@ -114852,7 +114852,7 @@
   "pk": 7089,
   "fields": {
     "level": 4,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "もの",
     "katakana": "",
@@ -114916,7 +114916,7 @@
   "pk": 7093,
   "fields": {
     "level": 4,
-    "type": "접사",
+    "type": "기타",
     "kanji": "屋",
     "hiragana": "や",
     "katakana": "",
@@ -114996,7 +114996,7 @@
   "pk": 7098,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "易しい",
     "hiragana": "やさしい",
     "katakana": "",
@@ -115012,7 +115012,7 @@
   "pk": 7099,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "優しい",
     "hiragana": "やさしい",
     "katakana": "",
@@ -115140,7 +115140,7 @@
   "pk": 7107,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "柔らかい",
     "hiragana": "やわらかい",
     "katakana": "",
@@ -115204,7 +115204,7 @@
   "pk": 7111,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "有名",
     "hiragana": "ゆうめい",
     "katakana": "",
@@ -115508,7 +115508,7 @@
   "pk": 7130,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "宜しい",
     "hiragana": "よろしい",
     "katakana": "",
@@ -115524,7 +115524,7 @@
   "pk": 7131,
   "fields": {
     "level": 4,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "立派",
     "hiragana": "りっぱ",
     "katakana": "",
@@ -115844,7 +115844,7 @@
   "pk": 7151,
   "fields": {
     "level": 4,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "若い",
     "hiragana": "わかい",
     "katakana": "",
@@ -115972,7 +115972,7 @@
   "pk": 7159,
   "fields": {
     "level": 4,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "私",
     "hiragana": "わたくし",
     "katakana": "",
@@ -116500,7 +116500,7 @@
   "pk": 7192,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "青い",
     "hiragana": "あおい",
     "katakana": "",
@@ -116516,7 +116516,7 @@
   "pk": 7193,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "赤い",
     "hiragana": "あかい",
     "katakana": "",
@@ -116548,7 +116548,7 @@
   "pk": 7195,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "明るい",
     "hiragana": "あかるい",
     "katakana": "",
@@ -116692,7 +116692,7 @@
   "pk": 7204,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼処·彼所",
     "hiragana": "あそこ",
     "katakana": "",
@@ -116740,7 +116740,7 @@
   "pk": 7207,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "新しい",
     "hiragana": "あたらしい",
     "katakana": "",
@@ -116756,7 +116756,7 @@
   "pk": 7208,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "彼方",
     "hiragana": "あちら",
     "katakana": "",
@@ -116772,7 +116772,7 @@
   "pk": 7209,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "暑い",
     "hiragana": "あつい",
     "katakana": "",
@@ -116804,7 +116804,7 @@
   "pk": 7211,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "貴方·貴下",
     "hiragana": "あなた",
     "katakana": "",
@@ -116852,7 +116852,7 @@
   "pk": 7214,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "彼の",
     "hiragana": "あの",
     "katakana": "",
@@ -116900,7 +116900,7 @@
   "pk": 7217,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "危ない",
     "hiragana": "あぶない",
     "katakana": "",
@@ -116916,7 +116916,7 @@
   "pk": 7218,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "甘い",
     "hiragana": "あまい",
     "katakana": "",
@@ -117012,7 +117012,7 @@
   "pk": 7224,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "あんな",
     "katakana": "",
@@ -117028,7 +117028,7 @@
   "pk": 7225,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "良い·善い·好い",
     "hiragana": "いい",
     "katakana": "",
@@ -117044,7 +117044,7 @@
   "pk": 7226,
   "fields": {
     "level": 5,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "いいえ",
     "katakana": "",
@@ -117188,7 +117188,7 @@
   "pk": 7235,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "忙しい",
     "hiragana": "いそがしい",
     "katakana": "",
@@ -117204,7 +117204,7 @@
   "pk": 7236,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "痛い",
     "hiragana": "いたい",
     "katakana": "",
@@ -117412,7 +117412,7 @@
   "pk": 7249,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "嫌",
     "hiragana": "いや",
     "katakana": "",
@@ -117556,7 +117556,7 @@
   "pk": 7258,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "薄い",
     "hiragana": "うすい",
     "katakana": "",
@@ -117652,7 +117652,7 @@
   "pk": 7264,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "煩い·五月蠅い",
     "hiragana": "うるさい",
     "katakana": "",
@@ -117780,7 +117780,7 @@
   "pk": 7272,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "美味しい",
     "hiragana": "おいしい",
     "katakana": "",
@@ -117796,7 +117796,7 @@
   "pk": 7273,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "多い",
     "hiragana": "おおい",
     "katakana": "",
@@ -117812,7 +117812,7 @@
   "pk": 7274,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "大きい",
     "hiragana": "おおきい",
     "katakana": "",
@@ -117828,7 +117828,7 @@
   "pk": 7275,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大きな",
     "hiragana": "おおきな",
     "katakana": "",
@@ -118004,7 +118004,7 @@
   "pk": 7286,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "遅い",
     "hiragana": "おそい",
     "katakana": "",
@@ -118164,7 +118164,7 @@
   "pk": 7296,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "同じ",
     "hiragana": "おなじ",
     "katakana": "",
@@ -118260,7 +118260,7 @@
   "pk": 7302,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "重い",
     "hiragana": "おもい",
     "katakana": "",
@@ -118276,7 +118276,7 @@
   "pk": 7303,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "面白い",
     "hiragana": "おもしろい",
     "katakana": "",
@@ -118788,7 +118788,7 @@
   "pk": 7335,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "辛い",
     "hiragana": "からい",
     "katakana": "",
@@ -118836,7 +118836,7 @@
   "pk": 7338,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "軽い",
     "hiragana": "かるい",
     "katakana": "",
@@ -118884,7 +118884,7 @@
   "pk": 7341,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "可愛い",
     "hiragana": "かわいい",
     "katakana": "",
@@ -118932,7 +118932,7 @@
   "pk": 7344,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "黄色い",
     "hiragana": "きいろい",
     "katakana": "",
@@ -119012,7 +119012,7 @@
   "pk": 7349,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "汚い",
     "hiragana": "きたない",
     "katakana": "",
@@ -119188,7 +119188,7 @@
   "pk": 7360,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "嫌い",
     "hiragana": "きらい",
     "katakana": "",
@@ -119204,7 +119204,7 @@
   "pk": 7361,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "奇麗·綺麗",
     "hiragana": "きれい",
     "katakana": "",
@@ -119332,7 +119332,7 @@
   "pk": 7369,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "暗い",
     "hiragana": "くらい",
     "katakana": "",
@@ -119364,7 +119364,7 @@
   "pk": 7371,
   "fields": {
     "level": 5,
-    "type": "조사",
+    "type": "기타",
     "kanji": "位",
     "hiragana": "ぐらい",
     "katakana": "",
@@ -119444,7 +119444,7 @@
   "pk": 7376,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "黒い",
     "hiragana": "くろい",
     "katakana": "",
@@ -119652,7 +119652,7 @@
   "pk": 7389,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "此処·此所",
     "hiragana": "ここ",
     "katakana": "",
@@ -119732,7 +119732,7 @@
   "pk": 7394,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "此方",
     "hiragana": "こちら",
     "katakana": "",
@@ -119796,7 +119796,7 @@
   "pk": 7398,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "此の",
     "hiragana": "この",
     "katakana": "",
@@ -119860,7 +119860,7 @@
   "pk": 7402,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "此れ·之·是",
     "hiragana": "これ",
     "katakana": "",
@@ -119908,7 +119908,7 @@
   "pk": 7405,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "こんな",
     "katakana": "",
@@ -120036,7 +120036,7 @@
   "pk": 7413,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "寒い",
     "hiragana": "さむい",
     "katakana": "",
@@ -120052,7 +120052,7 @@
   "pk": 7414,
   "fields": {
     "level": 5,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "然様なら·左様なら",
     "hiragana": "さようなら",
     "katakana": "",
@@ -120180,7 +120180,7 @@
   "pk": 7422,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "静か",
     "hiragana": "しずか",
     "katakana": "",
@@ -120388,7 +120388,7 @@
   "pk": 7435,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "丈夫",
     "hiragana": "じょうぶ",
     "katakana": "",
@@ -120420,7 +120420,7 @@
   "pk": 7437,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "白い",
     "hiragana": "しろい",
     "katakana": "",
@@ -120484,7 +120484,7 @@
   "pk": 7441,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "好き",
     "hiragana": "すき",
     "katakana": "",
@@ -120500,7 +120500,7 @@
   "pk": 7442,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "少ない",
     "hiragana": "すくない",
     "katakana": "",
@@ -120740,7 +120740,7 @@
   "pk": 7457,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "狭い",
     "hiragana": "せまい",
     "katakana": "",
@@ -120836,7 +120836,7 @@
   "pk": 7463,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "其処·其所",
     "hiragana": "そこ",
     "katakana": "",
@@ -120852,7 +120852,7 @@
   "pk": 7464,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "其方",
     "hiragana": "そちら",
     "katakana": "",
@@ -120884,7 +120884,7 @@
   "pk": 7466,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "其の·夫の",
     "hiragana": "その",
     "katakana": "",
@@ -120932,7 +120932,7 @@
   "pk": 7469,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "其れ",
     "hiragana": "それ",
     "katakana": "",
@@ -120948,7 +120948,7 @@
   "pk": 7470,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "",
     "hiragana": "そんな",
     "katakana": "",
@@ -120980,7 +120980,7 @@
   "pk": 7472,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大丈夫",
     "hiragana": "だいじょうぶ",
     "katakana": "",
@@ -120996,7 +120996,7 @@
   "pk": 7473,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "大好き",
     "hiragana": "だいすき",
     "katakana": "",
@@ -121044,7 +121044,7 @@
   "pk": 7476,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "高い",
     "hiragana": "たかい",
     "katakana": "",
@@ -121092,7 +121092,7 @@
   "pk": 7479,
   "fields": {
     "level": 5,
-    "type": "조사",
+    "type": "기타",
     "kanji": "丈",
     "hiragana": "だけ",
     "katakana": "",
@@ -121156,7 +121156,7 @@
   "pk": 7483,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "楽しい",
     "hiragana": "たのしい",
     "katakana": "",
@@ -121220,7 +121220,7 @@
   "pk": 7487,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "誰",
     "hiragana": "だれ",
     "katakana": "",
@@ -121252,7 +121252,7 @@
   "pk": 7489,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "小さい",
     "hiragana": "ちいさい",
     "katakana": "",
@@ -121268,7 +121268,7 @@
   "pk": 7490,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "小さな",
     "hiragana": "ちいさな",
     "katakana": "",
@@ -121284,7 +121284,7 @@
   "pk": 7491,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "近い",
     "hiragana": "ちかい",
     "katakana": "",
@@ -121428,7 +121428,7 @@
   "pk": 7500,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "強い",
     "hiragana": "つよい",
     "katakana": "",
@@ -121556,7 +121556,7 @@
   "pk": 7508,
   "fields": {
     "level": 5,
-    "type": "조사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "でも",
     "katakana": "",
@@ -121700,7 +121700,7 @@
   "pk": 7517,
   "fields": {
     "level": 5,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "どう",
     "katakana": "",
@@ -121780,7 +121780,7 @@
   "pk": 7522,
   "fields": {
     "level": 5,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "どうも",
     "katakana": "",
@@ -121796,7 +121796,7 @@
   "pk": 7523,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "遠い",
     "hiragana": "とおい",
     "katakana": "",
@@ -121860,7 +121860,7 @@
   "pk": 7527,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何処·何所",
     "hiragana": "どこ",
     "katakana": "",
@@ -121908,7 +121908,7 @@
   "pk": 7530,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何方",
     "hiragana": "どちら",
     "katakana": "",
@@ -121940,7 +121940,7 @@
   "pk": 7532,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何方",
     "hiragana": "どなた",
     "katakana": "",
@@ -121972,7 +121972,7 @@
   "pk": 7534,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "何の",
     "hiragana": "どの",
     "katakana": "",
@@ -122068,7 +122068,7 @@
   "pk": 7540,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何れ",
     "hiragana": "どれ",
     "katakana": "",
@@ -122084,7 +122084,7 @@
   "pk": 7541,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "何様な",
     "hiragana": "どんな",
     "katakana": "",
@@ -122100,7 +122100,7 @@
   "pk": 7542,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "無い",
     "hiragana": "ない",
     "katakana": "",
@@ -122148,7 +122148,7 @@
   "pk": 7545,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "長い",
     "hiragana": "ながい",
     "katakana": "",
@@ -122228,7 +122228,7 @@
   "pk": 7550,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "何",
     "hiragana": "なに",
     "katakana": "",
@@ -122308,7 +122308,7 @@
   "pk": 7555,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "賑やか",
     "hiragana": "にぎやか",
     "katakana": "",
@@ -122500,7 +122500,7 @@
   "pk": 7567,
   "fields": {
     "level": 5,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "はい",
     "katakana": "",
@@ -122740,7 +122740,7 @@
   "pk": 7582,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "早い",
     "hiragana": "はやい",
     "katakana": "",
@@ -122756,7 +122756,7 @@
   "pk": 7583,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "速い",
     "hiragana": "はやい",
     "katakana": "",
@@ -122868,7 +122868,7 @@
   "pk": 7590,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "低い",
     "hiragana": "ひくい",
     "katakana": "",
@@ -123028,7 +123028,7 @@
   "pk": 7600,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "広い",
     "hiragana": "ひろい",
     "katakana": "",
@@ -123140,7 +123140,7 @@
   "pk": 7607,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "古い",
     "hiragana": "ふるい",
     "katakana": "",
@@ -123204,7 +123204,7 @@
   "pk": 7611,
   "fields": {
     "level": 5,
-    "type": "형용동사",
+    "type": "な형용사",
     "kanji": "便利",
     "hiragana": "べんり",
     "katakana": "",
@@ -123444,7 +123444,7 @@
   "pk": 7626,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "不味い",
     "hiragana": "まずい",
     "katakana": "",
@@ -123556,7 +123556,7 @@
   "pk": 7633,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "丸い",
     "hiragana": "まるい",
     "katakana": "",
@@ -123604,7 +123604,7 @@
   "pk": 7636,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "短い",
     "hiragana": "みじかい",
     "katakana": "",
@@ -123732,7 +123732,7 @@
   "pk": 7644,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "皆さん",
     "hiragana": "みなさん",
     "katakana": "",
@@ -123828,7 +123828,7 @@
   "pk": 7650,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "難しい",
     "hiragana": "むずかしい",
     "katakana": "",
@@ -123876,7 +123876,7 @@
   "pk": 7653,
   "fields": {
     "level": 5,
-    "type": "감동사",
+    "type": "기타",
     "kanji": "",
     "hiragana": "もしもし",
     "katakana": "",
@@ -123988,7 +123988,7 @@
   "pk": 7660,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "安い",
     "hiragana": "やすい",
     "katakana": "",
@@ -124116,7 +124116,7 @@
   "pk": 7668,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "良い·善い",
     "hiragana": "よい",
     "katakana": "",
@@ -124260,7 +124260,7 @@
   "pk": 7677,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "弱い",
     "hiragana": "よわい",
     "katakana": "",
@@ -124404,7 +124404,7 @@
   "pk": 7686,
   "fields": {
     "level": 5,
-    "type": "대명사",
+    "type": "기타",
     "kanji": "私",
     "hiragana": "わたし",
     "katakana": "",
@@ -124420,7 +124420,7 @@
   "pk": 7687,
   "fields": {
     "level": 5,
-    "type": "형용사",
+    "type": "い형용사",
     "kanji": "悪い",
     "hiragana": "わるい",
     "katakana": "",
