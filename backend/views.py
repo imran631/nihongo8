@@ -1,5 +1,23 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponseRedirect
+from django.views import View
+
+from .forms import RegistForm
+
+
+class RegistView(View):
+    form_class = RegistForm
+    template_name = 'backend/auth/regist.html'
+
+    def get(self, request, *args, **kwargs):
+        form = RegistForm()
+        return render(request, self.template_name, {'form': form})
+
+    def post(self, request, *args, **kwargs):
+        form = self.form_class(request.POST)
+        if form.is_valid():
+            return HttpResponseRedirect('/')
+        return render(request, self.template_name, {'form': form})
 
 
 def index(request):
@@ -75,11 +93,6 @@ def problem_result(request):
 def login(request):
     context = {}
     return render(request, 'backend/auth/login.html', context)
-
-
-def regist(request):
-    context = {}
-    return render(request, 'backend/auth/regist.html', context)
 
 
 def reset_password(request):

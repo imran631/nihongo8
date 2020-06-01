@@ -1,6 +1,41 @@
 from django.db import models
+from django.contrib.auth.models import User
+from django.utils import timezone
 
 
+class UserProfile(models.Model):
+
+    JLPT_CHOICES = (
+        ('N1', 'JLPT N1'),
+        ('N2', 'JLPT N2'),
+        ('N3', 'JLPT N3'),
+        ('N4', 'JLPT N4'),
+        ('N5', 'JLPT N5'),
+        ('N0', '자격증 없음')
+    )
+    user = models.OneToOneField(User, unique=True, db_index=True, related_name='profile', on_delete=models.CASCADE)
+    jlpt = models.IntegerField(max_length=6, choices=JLPT_CHOICES, default='N0')
+    point = models.IntegerField(default=0)
+
+    class Meta:
+        db_table = "auth_userprofile"
+
+
+class FileManage(models.Model):
+    user = models.OneToOneField(User, unique=True, db_index=True, related_name='profile_img', on_delete=models.CASCADE)
+    raw_name = models.CharField(max_length=255)
+    enc_name = models.CharField(max_length=255)
+    ext = models.CharField(max_length=255)
+    size = models.IntegerField()
+    save_path = models.CharField(max_length=255)
+    create_at = models.DateTimeField(blank=True, null=True, default=timezone.now)
+    update_at = models.DateTimeField(blank=True, null=True)
+
+    class Meta:
+        db_table = 'file_manage'
+
+
+"""
 class TblCode(models.Model):
     code_type = models.CharField(max_length=255, blank=True, null=True)
     code_col = models.CharField(max_length=255, blank=True, null=True)
@@ -233,29 +268,6 @@ class TblReport(models.Model):
         db_table = 'tbl_report'
 
 
-class TblUser(models.Model):
-    email = models.CharField(unique=True, max_length=255)
-    password = models.CharField(max_length=255)
-    username = models.CharField(max_length=255)
-    jlpt = models.IntegerField(blank=True, null=True)
-    profile_img = models.IntegerField(blank=True, null=True)
-    point = models.IntegerField(blank=True, null=True)
-    is_active = models.IntegerField(blank=True, null=True)
-    is_staff = models.IntegerField(blank=True, null=True)
-    delete_yn = models.CharField(max_length=255, blank=True, null=True)
-    regist_date = models.DateTimeField(blank=True, null=True)
-    regist_ip = models.CharField(max_length=255, blank=True, null=True)
-    modify_date = models.DateTimeField(blank=True, null=True)
-    modify_ip = models.CharField(max_length=255, blank=True, null=True)
-    delete_date = models.DateTimeField(blank=True, null=True)
-    delete_ip = models.CharField(max_length=255, blank=True, null=True)
-    reset_date = models.DateTimeField(blank=True, null=True)
-    reset_ip = models.CharField(max_length=255, blank=True, null=True)
-
-    class Meta:
-        db_table = 'tbl_user'
-
-
 class TblUserJlpt(models.Model):
     user_id = models.IntegerField(primary_key=True)
     pub_jlpt_n1 = models.IntegerField(blank=True, null=True)
@@ -271,3 +283,4 @@ class TblUserJlpt(models.Model):
 
     class Meta:
         db_table = 'tbl_user_jlpt'
+"""
