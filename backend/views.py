@@ -1,12 +1,13 @@
 from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
 from django.views import View
+from django.contrib.auth.models import User
+from django.contrib.auth.forms import UserCreationForm
 
 from .forms import RegistForm
 
 
 class RegistView(View):
-    form_class = RegistForm
     template_name = 'backend/auth/regist.html'
 
     def get(self, request, *args, **kwargs):
@@ -14,8 +15,9 @@ class RegistView(View):
         return render(request, self.template_name, {'form': form})
 
     def post(self, request, *args, **kwargs):
-        form = self.form_class(request.POST)
+        form = RegistForm(request.POST)
         if form.is_valid():
+            form.save()
             return HttpResponseRedirect('/')
         return render(request, self.template_name, {'form': form})
 

@@ -16,7 +16,10 @@ class RegistForm(UserCreationForm):
             'class': "form-control", 
             'placeholder': '아이디를 입력하십시오.'
         }),
-        validators=[not_in_admin]
+        validators=[not_in_admin],
+        error_messages={
+            'unique': _("ID already exists."),
+        }
     )
 
     email = forms.CharField(
