@@ -4,7 +4,7 @@ from django.views import View
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from django.db import transaction
-from django.contrib.auth import authenticate
+from django.contrib.auth import authenticate, login
 from django.utils.translation import gettext_lazy as _
 
 from .models import UserProfile
@@ -45,6 +45,7 @@ class LoginView(View):
             password = form.cleaned_data["password"]
             user = authenticate(username=username, password=password)
             if user is not None:
+                login(request, user)
                 return HttpResponseRedirect('/')
             else:
                 form.errors['username'] = [_('ID or password does not match.')]
