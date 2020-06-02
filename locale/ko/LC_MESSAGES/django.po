@@ -28,4 +28,4 @@ msgstr "admin은 아이디에 포함하실 수 없습니다."
 
 #: .\backend\views.py:51
 msgid "ID or password does not match."
-msgstr ""
+msgstr "아이디 또는 비밀번호가 일치하지 않습니다."

@@ -13,3 +13,5 @@ python manage.py compilemessages --locale ko --ignore venv
 python manage.py shell
 
 raise Exception('bug')
+
+python manage.py createsuperuser

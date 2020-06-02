@@ -8,7 +8,7 @@ from django.contrib.auth import authenticate, login
 from django.utils.translation import gettext_lazy as _
 
 from .models import UserProfile
-from .forms import RegistForm, LoginForm
+from .forms import RegistForm, LoginForm, ResetForm
 
 
 class RegistView(View):
@@ -49,6 +49,20 @@ class LoginView(View):
                 return HttpResponseRedirect('/')
             else:
                 form.errors['username'] = [_('ID or password does not match.')]
+        return render(request, self.template_name, {'form': form})
+
+
+class ResetView(View):
+    template_name = 'backend/auth/reset.html'
+
+    def get(self, request, *args, **kwargs):
+        form = ResetForm()
+        return render(request, self.template_name, {'form': form})
+
+    def post(self, request, *args, **kwargs):
+        form = ResetForm(request.POST)
+        if form.is_valid():
+            return HttpResponseRedirect('/login')
         return render(request, self.template_name, {'form': form})
 
 
@@ -125,11 +139,6 @@ def problem_result(request):
 def reset_password(request):
     context = {}
     return render(request, 'backend/auth/reset_password.html', context)
-
-
-def reset(request):
-    context = {}
-    return render(request, 'backend/auth/reset.html', context)
 
 
 def sample(request):

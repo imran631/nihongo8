@@ -9,7 +9,8 @@
           <h1 class="h2 mb-0 tac">비밀번호 찾기</h1>
           <p class="text-breadcrumb tac">Forgot Password</p>
         </div>
-        <form action="#" class="col-md-5 p-0 mx-auto">
+        <form class="col-md-5 p-0 mx-auto" method="POST">
+          {% csrf_token %}
           <div class="alert alert-soft-warning">
             <div class="d-flex flex-wrap">
               <div class="mr-8pt">
@@ -24,8 +25,8 @@
             </div>
           </div>
           <div class="form-group">
-            <label class="form-label" for="email">이메일</label>
-            <input id="email" type="text" class="form-control" placeholder="이메일을 입력하십시오.">
+            <label class="form-label" for="{{ form.email.id_for_label }}">이메일</label>
+            {{ form.email }}
           </div>
           <div class="text-center">
             <button class="btn btn-primary w100p">이메일 발송</button>

@@ -82,3 +82,17 @@ class LoginForm(forms.Form):
     class Meta:
         model = User
         fields = ('username', 'password')
+
+
+class ResetForm(forms.Form):
+
+    email = forms.CharField(
+        widget=forms.EmailInput(attrs={
+            'class': "form-control", 
+            'placeholder': '이메일을 입력하십시오.'
+        })
+    )
+
+    class Meta:
+        model = User
+        fields = ('email')
