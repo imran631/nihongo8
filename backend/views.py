@@ -27,7 +27,7 @@ class RegistView(View):
                 user = user,
                 jlpt = form.cleaned_data["jlpt"]
             ).save()
-            return HttpResponseRedirect('/login')
+            return HttpResponseRedirect('/login?success=regist')
         return render(request, self.template_name, {'form': form})
 
 
@@ -35,8 +35,12 @@ class LoginView(View):
     template_name = 'backend/auth/login.html'
 
     def get(self, request, *args, **kwargs):
+        success = request.GET.get('success')
         form = LoginForm()
-        return render(request, self.template_name, {'form': form})
+        context = {}
+        context['form'] = form
+        context['success'] = success
+        return render(request, self.template_name, context)
 
     def post(self, request, *args, **kwargs):
         form = LoginForm(request.POST)
@@ -62,7 +66,7 @@ class ResetView(View):
     def post(self, request, *args, **kwargs):
         form = ResetForm(request.POST)
         if form.is_valid():
-            return HttpResponseRedirect('/login')
+            return HttpResponseRedirect('/login?success=reset')
         return render(request, self.template_name, {'form': form})
 
 
