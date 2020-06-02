@@ -14,13 +14,13 @@ class UserProfile(models.Model):
         ('N0', '자격증 없음')
     )
     user = models.OneToOneField(User, unique=True, db_index=True, related_name='profile', on_delete=models.CASCADE)
-    jlpt = models.IntegerField(max_length=6, choices=JLPT_CHOICES, default='N0')
+    jlpt = models.CharField(max_length=6, choices=JLPT_CHOICES, default='N0')
     point = models.IntegerField(default=0)
 
     class Meta:
         db_table = "auth_userprofile"
 
-
+"""
 class FileManage(models.Model):
     user = models.OneToOneField(User, unique=True, db_index=True, related_name='profile_img', on_delete=models.CASCADE)
     raw_name = models.CharField(max_length=255)
@@ -33,7 +33,7 @@ class FileManage(models.Model):
 
     class Meta:
         db_table = 'file_manage'
-
+"""
 
 """
 class TblCode(models.Model):

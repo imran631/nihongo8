@@ -4,6 +4,7 @@ from django.views import View
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 
+from .models import UserProfile
 from .forms import RegistForm
 
 
@@ -17,7 +18,12 @@ class RegistView(View):
     def post(self, request, *args, **kwargs):
         form = RegistForm(request.POST)
         if form.is_valid():
-            form.save()
+            user = form.save()
+            UserProfile(
+                user = user,
+                jlpt = form.cleaned_data["jlpt"]
+            ).save()
+            
             return HttpResponseRedirect('/')
         return render(request, self.template_name, {'form': form})
 
