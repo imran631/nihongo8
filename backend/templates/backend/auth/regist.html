@@ -14,16 +14,7 @@
           {% if form.errors %}
             {% for field in form %}
               {% for error in field.errors %}
-                <div class="alert alert-light border-1 border-left-4 border-left-accent" role="alert">
-                  <div class="d-flex flex-wrap align-items-center">
-                    <i class="material-icons mr-8pt">error_outline</i>
-                    <div class="media-body" style="min-width: 180px">
-                      <small class="text-black-100">
-                        {{ error|escape }}
-                      </small>
-                    </div>
-                  </div>
-                </div>
+                {% include "backend/components/alert_error.html" with txt=error %}
               {% endfor %}
             {% endfor %}
           {% endif %}
