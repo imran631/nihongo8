@@ -9,3 +9,7 @@ python manage.py loaddata doc/seed/seed.json
 python manage.py makemessages --locale ko
 
 python manage.py compilemessages --locale ko
+
+python manage.py shell
+
+raise Exception('bug')

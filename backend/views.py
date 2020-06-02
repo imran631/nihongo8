@@ -3,6 +3,7 @@ from django.http import HttpResponse, HttpResponseRedirect
 from django.views import View
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
+from django.db import transaction
 
 from .models import UserProfile
 from .forms import RegistForm
@@ -15,6 +16,7 @@ class RegistView(View):
         form = RegistForm()
         return render(request, self.template_name, {'form': form})
 
+    @transaction.atomic
     def post(self, request, *args, **kwargs):
         form = RegistForm(request.POST)
         if form.is_valid():
@@ -23,8 +25,7 @@ class RegistView(View):
                 user = user,
                 jlpt = form.cleaned_data["jlpt"]
             ).save()
-            
-            return HttpResponseRedirect('/')
+            return HttpResponseRedirect('/login')
         return render(request, self.template_name, {'form': form})
 
 
