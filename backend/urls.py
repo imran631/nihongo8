@@ -1,6 +1,6 @@
 from django.urls import path
 
-from backend.views import RegistView
+from backend.views import RegistView, LoginView
 from . import views
 
 
@@ -22,7 +22,7 @@ urlpatterns = [
     path('problem/quiz', views.problem_quiz, name='problem_quiz'),
     path('problem/result', views.problem_result, name='problem_result'),
 
-    path('login', views.login, name='login'),
+    path('login', LoginView.as_view()),
     path('regist', RegistView.as_view()),
     path('reset', views.reset, name='reset'),
     path('reset_password', views.reset_password, name='reset_password'),

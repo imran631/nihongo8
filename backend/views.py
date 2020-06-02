@@ -4,9 +4,11 @@ from django.views import View
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from django.db import transaction
+from django.contrib.auth import authenticate
+from django.utils.translation import gettext_lazy as _
 
 from .models import UserProfile
-from .forms import RegistForm
+from .forms import RegistForm, LoginForm
 
 
 class RegistView(View):
@@ -26,6 +28,26 @@ class RegistView(View):
                 jlpt = form.cleaned_data["jlpt"]
             ).save()
             return HttpResponseRedirect('/login')
+        return render(request, self.template_name, {'form': form})
+
+
+class LoginView(View):
+    template_name = 'backend/auth/login.html'
+
+    def get(self, request, *args, **kwargs):
+        form = LoginForm()
+        return render(request, self.template_name, {'form': form})
+
+    def post(self, request, *args, **kwargs):
+        form = LoginForm(request.POST)
+        if form.is_valid():
+            username = form.cleaned_data["username"]
+            password = form.cleaned_data["password"]
+            user = authenticate(username=username, password=password)
+            if user is not None:
+                return HttpResponseRedirect('/')
+            else:
+                form.errors['username'] = [_('ID or password does not match.')]
         return render(request, self.template_name, {'form': form})
 
 
@@ -97,11 +119,6 @@ def problem_quiz(request):
 def problem_result(request):
     context = {}
     return render(request, 'backend/problem/result.html', context)
-
-
-def login(request):
-    context = {}
-    return render(request, 'backend/auth/login.html', context)
 
 
 def reset_password(request):
