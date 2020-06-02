@@ -6,9 +6,9 @@ python manage.py dumpdata --indent 2 backend > dump_data.json
 
 python manage.py loaddata doc/seed/seed.json
 
-python manage.py makemessages --locale ko
+python manage.py makemessages --locale ko --ignore venv
 
-python manage.py compilemessages --locale ko
+python manage.py compilemessages --locale ko --ignore venv
 
 python manage.py shell
 
