@@ -1,10 +1,11 @@
 from django import forms
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
-
+from django.http import HttpResponse, HttpResponseRedirect
 from django.core import validators
 from django.core.exceptions import ValidationError
 from django.utils.translation import gettext_lazy as _
+from django.contrib.auth import authenticate, login
 
 from backend.validators import not_in_admin
 
@@ -82,6 +83,17 @@ class LoginForm(forms.Form):
     class Meta:
         model = User
         fields = ('username', 'password')
+
+    def is_login(self, request):
+        username = self.cleaned_data["username"]
+        password = self.cleaned_data["password"]
+        user = authenticate(username=username, password=password)
+        if user is not None:
+            login(request, user)
+            return True
+        else:
+            self.errors['username'] = [_('ID or password does not match.')]
+            return False
 
 
 class ResetForm(forms.Form):

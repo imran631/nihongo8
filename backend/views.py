@@ -45,14 +45,8 @@ class LoginView(View):
     def post(self, request, *args, **kwargs):
         form = LoginForm(request.POST)
         if form.is_valid():
-            username = form.cleaned_data["username"]
-            password = form.cleaned_data["password"]
-            user = authenticate(username=username, password=password)
-            if user is not None:
-                login(request, user)
+            if form.is_login(request):
                 return HttpResponseRedirect('/')
-            else:
-                form.errors['username'] = [_('ID or password does not match.')]
         return render(request, self.template_name, {'form': form})
 
 
