@@ -1,4 +1,5 @@
 import logging
+import base64
 
 from django.http import JsonResponse
 from django.shortcuts import render
@@ -11,6 +12,7 @@ from django.conf import settings
 from django.contrib.auth import authenticate, login
 from django.utils.translation import gettext_lazy as _
 from django.contrib.auth.forms import SetPasswordForm
+from django.contrib.auth.tokens import PasswordResetTokenGenerator
 
 from backend.util import AESCipher
 
@@ -79,27 +81,34 @@ class ResetPasswordView(View):
 
     def get(self, request, *args, **kwargs):
         token = request.GET.get('token')
+        if token == '' or token == None:
+            return HttpResponseRedirect('/login')
         form = ResetPasswordForm(user=None)
-
-        print('token => ', token)
-
         context = {}
         context['form'] = form
         context['token'] = token
         return render(request, self.template_name, context)
 
     def post(self, request, *args, **kwargs):
-        token = request.POST.get('token').replace(' ', '+')
+        token = request.POST.get('token')
         try:
-            cipher = AESCipher(settings.AES_KEY)
-            id = cipher.decrypt(token)
-            user = User.objects.get(id=id)
+            auth_pack = base64.b64decode(token).decode()
+            token_code = auth_pack.split('#')[0]
+            email = auth_pack.split('#')[1]
+        except BaseException:
+            return HttpResponseRedirect('/login')
+        user = User.objects.filter(email=email).first()
+        token_gernerator = PasswordResetTokenGenerator()
+        if token_gernerator.check_token(user, token_code):
             form = ResetPasswordForm(data=request.POST, user=user)
-        except ValueError:
+            if form.is_valid():
+                form.save()
+                return HttpResponseRedirect('/login?success=regist_password')
+            else:
+                pass
+        else:
             form = ResetPasswordForm(data=request.POST, user=None)
-        if form.is_valid():
-            form.save()
-            return HttpResponseRedirect('/login?success=regist_password')
+            form.errors['new_password1'] = [_('The link has expired. If you want to change it, send an email again.')]
         context = {}
         context['form'] = form
         context['token'] = token
