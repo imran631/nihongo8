@@ -29,7 +29,7 @@
             {{ form.email }}
           </div>
           <div class="text-center">
-            <button class="btn btn-primary w100p">이메일 발송</button>
+            <button id="btn_send" class="btn btn-primary w100p">이메일 발송</button>
           </div>
           <p class="text-right mt8">
             <span class="small color-sm">비밀번호가 기억나셨나요...?</span>
@@ -43,11 +43,39 @@
 {% endblock %}
 
 {% block js %}
-<!-- <script>
-$('form').on('submit', function (e) {
-    e.preventDefault(); // form submit disable
-    console.log('xxx');
-});
-</script> -->
+<script>
+function getFormData($form){
+  var unindexed_array = $form.serializeArray();
+  var indexed_array = {};
 
+  $.map(unindexed_array, function(n, i){
+      indexed_array[n['name']] = n['value'];
+  });
+
+  return indexed_array;
+}
+
+$('form').bind('submit', function(e) {
+    e.preventDefault();
+    send_email();
+});
+
+function send_email() {
+  $('#btn_send').attr('disabled', true);
+
+  var $form = $("form");
+  var data = getFormData($form);
+
+  $.ajax({
+    method: "POST",
+    url: "/reset",
+    dataType: 'json',
+    data: data
+  }).done(function( data ) {
+    redirect('/login?success=reset');
+  }).fail(function() {
+    $('#btn_send').attr('disabled', false);
+  })
+}
+</script>
 {% endblock %}

@@ -1,3 +1,6 @@
+import logging
+
+from django.http import JsonResponse
 from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
 from django.views import View
@@ -10,6 +13,8 @@ from django.utils.translation import gettext_lazy as _
 from .models import UserProfile
 from .forms import RegistForm, LoginForm, ResetForm
 
+
+logger = logging.getLogger(__name__)
 
 class RegistView(View):
     template_name = 'backend/auth/regist.html'
@@ -60,8 +65,9 @@ class ResetView(View):
     def post(self, request, *args, **kwargs):
         form = ResetForm(request.POST)
         if form.is_valid():
-            return HttpResponseRedirect('/login?success=reset')
-        return render(request, self.template_name, {'form': form})
+            if form.is_excute():
+                return JsonResponse({'result': 200})
+        return JsonResponse({'result': 500})
 
 
 def index(request):

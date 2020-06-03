@@ -1,14 +1,20 @@
+import logging
+
 from django import forms
 from django.contrib.auth.models import User
-from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, PasswordResetForm
 from django.http import HttpResponse, HttpResponseRedirect
 from django.core import validators
+from django.conf import settings
 from django.core.exceptions import ValidationError
 from django.utils.translation import gettext_lazy as _
 from django.contrib.auth import authenticate, login
+from django.core.mail import send_mail
 
 from backend.validators import not_in_admin
 
+
+logger = logging.getLogger(__name__)
 
 class RegistForm(UserCreationForm):
 
@@ -96,7 +102,10 @@ class LoginForm(forms.Form):
             return False
 
 
-class ResetForm(forms.Form):
+class ResetForm(PasswordResetForm):
+
+    subject = '題名'
+    message = '本文'
 
     email = forms.CharField(
         widget=forms.EmailInput(attrs={
@@ -108,3 +117,11 @@ class ResetForm(forms.Form):
     class Meta:
         model = User
         fields = ('email')
+
+    def is_excute(self):
+        email = self.cleaned_data["email"]
+        if len(User.objects.filter(email=email)) > 0:
+            from_email = settings.EMAIL_HOST_EMAIL
+            recipient_list = [email]
+            send_mail(self.subject, self.message, from_email, recipient_list)
+            return True

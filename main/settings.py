@@ -59,6 +59,7 @@ try:
         smtp = json.load(json_file)
     EMAIL_HOST = smtp['EMAIL_HOST']
     EMAIL_PORT = smtp['EMAIL_PORT']
+    EMAIL_HOST_EMAIL = smtp['EMAIL_HOST_EMAIL']
     EMAIL_HOST_USER = smtp['EMAIL_HOST_USER']
     EMAIL_HOST_PASSWORD = smtp['EMAIL_HOST_PASSWORD']
     EMAIL_USE_TLS = smtp['EMAIL_USE_TLS']
@@ -113,3 +114,30 @@ USE_L10N = True
 USE_TZ = True
 
 STATIC_URL = '/static/'
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'standard': {
+            'format': '%(asctime)s [%(levelname)s] [%(module)s:%(lineno)s] %(message)s'
+        },
+    },
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+            'formatter': 'standard'
+        },
+    },
+    'root': {
+        'handlers': ['console'],
+        'level': 'DEBUG',
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['console'],
+            'level': os.getenv('DJANGO_LOG_LEVEL', 'INFO'),
+            'propagate': False,
+        },
+    },
+}
