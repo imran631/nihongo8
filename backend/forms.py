@@ -16,7 +16,6 @@ from django.template import Context
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 from django.contrib.sites.shortcuts import get_current_site
 from backend.validators import not_in_admin
-from backend.util import AESCipher
 
 
 logger = logging.getLogger(__name__)

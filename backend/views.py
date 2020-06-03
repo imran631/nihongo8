@@ -14,8 +14,6 @@ from django.utils.translation import gettext_lazy as _
 from django.contrib.auth.forms import SetPasswordForm
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 
-from backend.util import AESCipher
-
 from .models import UserProfile
 from .forms import RegistForm, LoginForm, ResetForm, ResetPasswordForm
 
