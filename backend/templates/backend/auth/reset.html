@@ -24,6 +24,11 @@
               </div>
             </div>
           </div>
+
+          <div id="error_send_mail" class="dis-none">
+            {% include "backend/components/alert_error.html" with error='메일 전송이 실패하였습니다.<br>관리자에게 문의해주십시오.' %}
+          </div>
+
           <div class="form-group">
             <label class="form-label" for="{{ form.email.id_for_label }}">이메일</label>
             {{ form.email }}
@@ -75,6 +80,7 @@ function send_email() {
     redirect('/login?success=reset');
   }).fail(function() {
     $('#btn_send').attr('disabled', false);
+    $('#error_send_mail').show();
   })
 }
 </script>
