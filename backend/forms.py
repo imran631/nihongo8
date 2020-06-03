@@ -14,7 +14,7 @@ from django.core.mail import send_mail
 from django.template.loader import get_template
 from django.template import Context
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
-
+from django.contrib.sites.shortcuts import get_current_site
 from backend.validators import not_in_admin
 from backend.util import AESCipher
 
@@ -120,7 +120,10 @@ class ResetForm(forms.Form):
         model = User
         fields = ('email')
 
-    def is_excute(self):
+    def is_excute(self, request):
+        scheme = request.is_secure() and "https" or "http"
+        host = get_current_site(request)
+        base_url = '{}://{}/'.format(scheme, host)        
         token_gernerator = PasswordResetTokenGenerator()
         email = self.cleaned_data["email"]
         users = User.objects.filter(email=email)
@@ -131,7 +134,7 @@ class ResetForm(forms.Form):
         subject = '[日本語８] 비밀번호 초기화 메일'
         message = get_template('backend/email/reset_template.html').render(
             {
-                'base_url': settings.BASE_URL + 'reset_password',
+                'base_url': base_url + 'reset_password',
                 'token': enc_auth_pack.decode('ascii')
             }
         )

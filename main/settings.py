@@ -8,20 +8,10 @@ logger = logging.getLogger(__name__)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 PASSWORD_RESET_TIMEOUT_DAYS = 1
+
 SECRET_KEY = '6!ny_^en^*19+d#(bj1$gs2mqfog_o1!uei!s)jwh@=p=gm!)w'
 
-# global variable
-
 DEBUG = True
-HTTPS = False
-
-BASE_DOMAIN = 'localhost:8000'
-if HTTPS == True:
-    BASE_URL = 'https://{}/'.format(BASE_DOMAIN)
-else:
-    BASE_URL = 'http://{}/'.format(BASE_DOMAIN)
-
-AES_KEY = 'nihongo8'
 
 ALLOWED_HOSTS = []
 

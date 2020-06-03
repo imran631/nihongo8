@@ -71,7 +71,7 @@ class ResetView(View):
     def post(self, request, *args, **kwargs):
         form = ResetForm(request.POST)
         if form.is_valid():
-            if form.is_excute():
+            if form.is_excute(request):
                 return JsonResponse({'code': 200})
         return JsonResponse({'code': 500})
 
