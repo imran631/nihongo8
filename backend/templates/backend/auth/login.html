@@ -15,6 +15,8 @@
             {% include "backend/components/alert_success.html" with txt1="비밀번호 초기화 메일을 보내드렸습니다!" txt2="메일을 확인하신 후 비밀번호를 변경해주세요." %}
           {% elif success == 'regist' %}
             {% include "backend/components/alert_success.html" with txt1="회원가입이 완료되었습니다!" txt2="로그인 하신 후 서비스를 이용해주세요." %}
+          {% elif success == 'regist_password' %}
+            {% include "backend/components/alert_success.html" with txt1="비밀번호가 변경 되었습니다!" txt2="로그인 하신 후 서비스를 이용해주세요."%}
           {% endif %}
 
           {% if form.errors %}

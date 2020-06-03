@@ -7,11 +7,15 @@ from django.views import View
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from django.db import transaction
+from django.conf import settings
 from django.contrib.auth import authenticate, login
 from django.utils.translation import gettext_lazy as _
+from django.contrib.auth.forms import SetPasswordForm
+
+from backend.util import AESCipher
 
 from .models import UserProfile
-from .forms import RegistForm, LoginForm, ResetForm
+from .forms import RegistForm, LoginForm, ResetForm, ResetPasswordForm
 
 
 logger = logging.getLogger(__name__)
@@ -66,8 +70,40 @@ class ResetView(View):
         form = ResetForm(request.POST)
         if form.is_valid():
             if form.is_excute():
-                return JsonResponse({'result': 200})
-        return JsonResponse({'result': 500})
+                return JsonResponse({'code': 200})
+        return JsonResponse({'code': 500})
+
+
+class ResetPasswordView(View):
+    template_name = 'backend/auth/reset_password.html'
+
+    def get(self, request, *args, **kwargs):
+        token = request.GET.get('token')
+        form = ResetPasswordForm(user=None)
+
+        print('token => ', token)
+
+        context = {}
+        context['form'] = form
+        context['token'] = token
+        return render(request, self.template_name, context)
+
+    def post(self, request, *args, **kwargs):
+        token = request.POST.get('token').replace(' ', '+')
+        try:
+            cipher = AESCipher(settings.AES_KEY)
+            id = cipher.decrypt(token)
+            user = User.objects.get(id=id)
+            form = ResetPasswordForm(data=request.POST, user=user)
+        except ValueError:
+            form = ResetPasswordForm(data=request.POST, user=None)
+        if form.is_valid():
+            form.save()
+            return HttpResponseRedirect('/login?success=regist_password')
+        context = {}
+        context['form'] = form
+        context['token'] = token
+        return render(request, self.template_name, context)
 
 
 def index(request):
@@ -138,11 +174,6 @@ def problem_quiz(request):
 def problem_result(request):
     context = {}
     return render(request, 'backend/problem/result.html', context)
-
-
-def reset_password(request):
-    context = {}
-    return render(request, 'backend/auth/reset_password.html', context)
 
 
 def sample(request):

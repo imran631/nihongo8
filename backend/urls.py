@@ -1,6 +1,6 @@
 from django.urls import path
 
-from backend.views import RegistView, LoginView, ResetView
+from backend.views import RegistView, LoginView, ResetView, ResetPasswordView
 from . import views
 
 
@@ -25,7 +25,7 @@ urlpatterns = [
     path('login', LoginView.as_view()),
     path('regist', RegistView.as_view()),
     path('reset', ResetView.as_view()),
-    path('reset_password', views.reset_password, name='reset_password'),
+    path('reset_password', ResetPasswordView.as_view()),
 
     path('mypage', views.mypage, name='mypage'),
     path('mypage/modify', views.mypage_modify, name='mypage_modify'),

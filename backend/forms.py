@@ -2,7 +2,7 @@ import logging
 
 from django import forms
 from django.contrib.auth.models import User
-from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, PasswordResetForm
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, SetPasswordForm
 from django.http import HttpResponse, HttpResponseRedirect
 from django.core import validators
 from django.conf import settings
@@ -10,8 +10,11 @@ from django.core.exceptions import ValidationError
 from django.utils.translation import gettext_lazy as _
 from django.contrib.auth import authenticate, login
 from django.core.mail import send_mail
+from django.template.loader import get_template
+from django.template import Context
 
 from backend.validators import not_in_admin
+from backend.util import AESCipher
 
 
 logger = logging.getLogger(__name__)
@@ -102,10 +105,7 @@ class LoginForm(forms.Form):
             return False
 
 
-class ResetForm(PasswordResetForm):
-
-    subject = '題名'
-    message = '本文'
+class ResetForm(forms.Form):
 
     email = forms.CharField(
         widget=forms.EmailInput(attrs={
@@ -120,8 +120,54 @@ class ResetForm(PasswordResetForm):
 
     def is_excute(self):
         email = self.cleaned_data["email"]
-        if len(User.objects.filter(email=email)) > 0:
+        users = User.objects.filter(email=email)
+        user = users.first()
+        text = str(user.id)
+        cipher = AESCipher(settings.AES_KEY)
+        token = cipher.encrypt(text).decode('ascii')
+        subject = '[日本語８] 비밀번호 초기화 메일'
+        message = get_template('backend/email/reset_template.html').render(
+            {
+                'base_url': settings.BASE_URL + 'reset_password',
+                'token': token
+            }
+        )
+        if len(users) > 0:
+            user = users.first()
             from_email = settings.EMAIL_HOST_EMAIL
             recipient_list = [email]
-            send_mail(self.subject, self.message, from_email, recipient_list)
+            send_mail(
+                subject, 
+                None, 
+                from_email, 
+                recipient_list,
+                False,
+                None,
+                None,
+                None,
+                message
+            )
             return True
+        else:
+            return False
+
+
+class ResetPasswordForm(SetPasswordForm):
+
+    new_password1 = forms.CharField(
+        widget=forms.PasswordInput(attrs={
+            'class': "form-control", 
+            'placeholder': '비밀번호를 입력하십시오.'
+        })
+    )
+
+    new_password2 = forms.CharField(
+        widget=forms.PasswordInput(attrs={
+            'class': "form-control", 
+            'placeholder': '비밀번호 확인을 입력하십시오.'
+        })
+    )
+
+    class Meta:
+        model = User
+        fields = ('new_password1', 'new_password2')

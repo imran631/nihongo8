@@ -1,3 +1,4 @@
 Django==3.0.6
 pylint==2.5.2
 mysqlclient==1.4.6
+pycryptodome==3.9.7
