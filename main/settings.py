@@ -1,4 +1,9 @@
 import os
+import json 
+import logging
+
+
+logger = logging.getLogger(__name__)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -45,6 +50,20 @@ TEMPLATES = [
         },
     },
 ]
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+
+try: 
+    with open( os.path.join(BASE_DIR, 'main', 'smtp.json') ) as json_file:
+        smtp = json.load(json_file)
+    EMAIL_HOST = smtp['EMAIL_HOST']
+    EMAIL_PORT = smtp['EMAIL_PORT']
+    EMAIL_HOST_USER = smtp['EMAIL_HOST_USER']
+    EMAIL_HOST_PASSWORD = smtp['EMAIL_HOST_PASSWORD']
+    EMAIL_USE_TLS = smtp['EMAIL_USE_TLS']
+except FileNotFoundError:
+    logger.warning('you need setting smtp, make smtp.json')
 
 WSGI_APPLICATION = 'main.wsgi.application'
 
