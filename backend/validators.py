@@ -10,4 +10,3 @@ def not_in_admin(username):
         )
     return username
 
-        

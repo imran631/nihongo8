@@ -57,6 +57,7 @@ $('form').bind('submit', function(e) {
 });
 
 function regist_user() {
+  $('#alert_area').empty();
   $('#btn_regist').attr('disabled', true);
 
   var $form = $("form");
@@ -68,22 +69,20 @@ function regist_user() {
     dataType: 'json',
     data: data
   }).done(function( data ) {
-    if (data.code === 200) {
+    if (data.result === 200) {
       redirect('/login?success=regist');
     } else {
-      console.log('data.errors => ', data.errors)
       Object.keys(data.errors).forEach(function(key) {
         $.each(data.errors[key], function( index, value ) {
-          console.log( index + ": " + value );
-          console.log(alertError(value));
           $('#alert_area').append(alertError(value));
         });
       });
+      $('#btn_regist').attr('disabled', false);
     }
   }).fail(function() {
-    // pass
+    $('#alert_area').append(alertError(UNKNOWN_ERROR));
+    $('#btn_regist').attr('disabled', false);
   })
-  $('#btn_regist').attr('disabled', false);
 }
 </script>
 {% endblock %}
