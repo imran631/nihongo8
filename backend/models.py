@@ -23,6 +23,14 @@ class UserProfile(models.Model):
         db_table = "auth_userprofile"
 
 
+@receiver(post_save, sender=User)
+def create_user_profile(sender, instance, created, **kwargs):
+    if created:
+        user = User.objects.get(id=instance.id)
+        user.is_active = False
+        user.save()
+
+
 """
 class FileManage(models.Model):
     user = models.OneToOneField(User, unique=True, db_index=True, related_name='profile_img', on_delete=models.CASCADE)

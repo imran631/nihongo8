@@ -36,8 +36,8 @@ class RegistView(View):
                 user = user,
                 jlpt = form.cleaned_data["jlpt"]
             ).save()
-            return HttpResponseRedirect('/login?success=regist')
-        return render(request, self.template_name, {'form': form})
+            return JsonResponse({ 'result': 200 })
+        return JsonResponse({ 'result': 500, 'errors': form.errors })
 
 
 class LoginView(View):

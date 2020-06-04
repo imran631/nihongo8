@@ -15,6 +15,8 @@ from django.template.loader import get_template
 from django.template import Context
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 from django.contrib.sites.shortcuts import get_current_site
+from django.forms import ValidationError
+
 from backend.validators import not_in_admin
 
 
@@ -97,13 +99,23 @@ class LoginForm(forms.Form):
     def is_login(self, request):
         username = self.cleaned_data["username"]
         password = self.cleaned_data["password"]
+        raise ValidationError('Looks like email already exists')
         user = authenticate(username=username, password=password)
+        return False
+        """
         if user is not None:
             login(request, user)
             return True
         else:
-            self.errors['username'] = [_('ID or password does not match.')]
+            users = User.objects.filter(username=username)
+            if len(users) > 0:
+                user = users.first()
+                if user.is_active == 0:
+                    self.errors['username'] = [_('Your account has not been activated. Please check your identity email.')]
+            else:        
+                self.errors['username'] = [_('ID or password does not match.')]
             return False
+        """
 
 
 class ResetForm(forms.Form):
