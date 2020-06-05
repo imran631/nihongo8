@@ -10,3 +10,12 @@ def not_in_admin(username):
         )
     return username
 
+
+def min_username(username):
+    if len(username) < 4:
+        raise ValidationError(
+            _('ID can be 4 letters or more.'),
+            code='min_username'
+        )
+    return username
+

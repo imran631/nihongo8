@@ -5,7 +5,7 @@ from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, SetPasswordForm
 from django.utils.translation import gettext_lazy as _
 
-from backend.validators import not_in_admin
+from backend.validators import not_in_admin, min_username
 
 
 logger = logging.getLogger(__name__)
@@ -18,7 +18,7 @@ class RegistForm(UserCreationForm):
             'class': "form-control", 
             'placeholder': '아이디를 입력하십시오.'
         }),
-        validators=[not_in_admin],
+        validators=[not_in_admin, min_username],
         error_messages={
             'unique': _("ID already exists."),
         }
