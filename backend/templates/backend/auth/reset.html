@@ -10,7 +10,7 @@
           <p class="text-breadcrumb tac">Forgot Password</p>
         </div>
         <form class="col-md-5 p-0 mx-auto" method="POST">
-          {% csrf_token %}
+
           <div class="alert alert-soft-warning">
             <div class="d-flex flex-wrap">
               <div class="mr-8pt">
@@ -25,6 +25,11 @@
             </div>
           </div>
 
+          <div id="alert_area">
+          </div>
+
+          {% csrf_token %}
+
           <div id="error_send_mail" class="dis-none">
             {% include "backend/components/alert_error.html" with error='메일 전송이 실패하였습니다.<br>관리자에게 문의해주십시오.' %}
           </div>
@@ -38,7 +43,7 @@
             {{ form.email }}
           </div>
           <div class="text-center">
-            <button id="btn_send" class="btn btn-primary w100p">이메일 발송</button>
+            <button id="btn_submit" class="btn btn-primary w100p">이메일 발송</button>
           </div>
           <p class="text-right mt8">
             <span class="small color-sm">비밀번호가 기억나셨나요...?</span>
@@ -53,15 +58,14 @@
 
 {% block js %}
 <script>
-
-
 $('form').bind('submit', function(e) {
     e.preventDefault();
     send_email();
 });
 
 function send_email() {
-  $('#btn_send').attr('disabled', true);
+  $('#alert_area').empty();
+  $('#btn_submit').attr('disabled', true);
 
   var $form = $("form");
   var data = getFormData($form);
@@ -72,15 +76,19 @@ function send_email() {
     dataType: 'json',
     data: data
   }).done(function( data ) {
-    if (data.code === 200) {
-      redirect('/login?success=reset');
+    if (data.result === 200) {
+      redirect('/login?type=reset&alert=success');
     } else {
-      $('#btn_send').attr('disabled', false);
-      $('#error_not_user').show();  
+      Object.keys(data.errors).forEach(function(key) {
+        $.each(data.errors[key], function( index, value ) {
+          $('#alert_area').append(alertError(value));
+        });
+      });
+      $('#btn_submit').attr('disabled', false);
     }
   }).fail(function() {
-    $('#btn_send').attr('disabled', false);
-    $('#error_send_mail').show();
+    $('#alert_area').append(alertError(UNKNOWN_ERROR));
+    $('#btn_submit').attr('disabled', false);
   })
 }
 </script>

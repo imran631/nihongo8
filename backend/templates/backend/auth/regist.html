@@ -36,7 +36,7 @@
             {{ form.jlpt }}
           </div>
           <div class="text-center">
-            <button id="btn_regist" type="submit" class="btn btn-primary w100p">회원가입</button>
+            <button id="btn_submit" type="submit" class="btn btn-primary w100p">회원가입</button>
           </div>
           <p class="text-right mt8">
             <span class="small color-sm">계정이 있으신가요...?</span>
@@ -58,7 +58,7 @@ $('form').bind('submit', function(e) {
 
 function regist_user() {
   $('#alert_area').empty();
-  $('#btn_regist').attr('disabled', true);
+  $('#btn_submit').attr('disabled', true);
 
   var $form = $("form");
   var data = getFormData($form);
@@ -70,18 +70,18 @@ function regist_user() {
     data: data
   }).done(function( data ) {
     if (data.result === 200) {
-      redirect('/login?success=regist');
+      redirect('/login?type=regist&alert=success');
     } else {
       Object.keys(data.errors).forEach(function(key) {
         $.each(data.errors[key], function( index, value ) {
           $('#alert_area').append(alertError(value));
         });
       });
-      $('#btn_regist').attr('disabled', false);
+      $('#btn_submit').attr('disabled', false);
     }
   }).fail(function() {
     $('#alert_area').append(alertError(UNKNOWN_ERROR));
-    $('#btn_regist').attr('disabled', false);
+    $('#btn_submit').attr('disabled', false);
   })
 }
 </script>

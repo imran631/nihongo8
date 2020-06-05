@@ -1,12 +1,17 @@
 from django.urls import path
 
-from backend.views import RegistView, LoginView, ResetView, ResetPasswordView
+from backend.djangoapps.auth.views import RegistView, LoginView, ResetView, ResetPasswordView, ActiveView
 from . import views
 
 
 urlpatterns = [
-
     path('', views.index, name='index'),
+
+    path('login', LoginView.as_view()),
+    path('regist', RegistView.as_view()),
+    path('active', ActiveView.as_view()),
+    path('reset', ResetView.as_view()),
+    path('reset_password', ResetPasswordView.as_view()),
 
     path('jlpt', views.jlpt, name='jlpt'),
 
@@ -21,11 +26,6 @@ urlpatterns = [
     path('problem/detail', views.problem_detail, name='problem_detail'),
     path('problem/quiz', views.problem_quiz, name='problem_quiz'),
     path('problem/result', views.problem_result, name='problem_result'),
-
-    path('login', LoginView.as_view()),
-    path('regist', RegistView.as_view()),
-    path('reset', ResetView.as_view()),
-    path('reset_password', ResetPasswordView.as_view()),
 
     path('mypage', views.mypage, name='mypage'),
     path('mypage/modify', views.mypage_modify, name='mypage_modify'),

@@ -11,31 +11,22 @@
         </div>
         <form class="col-md-5 p-0 mx-auto" method="POST">
 
-          {% if success == 'reset' %}
-            {% include "backend/components/alert_success.html" with txt1="비밀번호 초기화 메일을 보내드렸습니다!" txt2="메일을 확인하신 후 비밀번호를 변경해주세요." %}
-          {% elif success == 'regist' %}
-            {% include "backend/components/alert_success.html" with txt1="회원가입이 완료되었습니다!" txt2="로그인 하신 후 서비스를 이용해주세요." %}
-          {% elif success == 'regist_password' %}
-            {% include "backend/components/alert_success.html" with txt1="비밀번호가 변경 되었습니다!" txt2="로그인 하신 후 서비스를 이용해주세요."%}
+          {% if alert_txt1 != None and alert_txt2 != None and alert == 'success' %}
+            {% include "backend/components/alert_success.html" with txt1=alert_txt1 txt2=alert_txt2 %}
+          {% elif alert_txt1 != None and alert_txt2 != None and alert == 'fail' %}
+            {% include "backend/components/alert_error.html" with txt1=alert_txt1 txt2=alert_txt2 %}
           {% endif %}
 
-          {% if form.errors %}
-            {% for field in form %}
-              {% for error in field.errors %}
-                {% include "backend/components/alert_error.html" with txt=error %}
-              {% endfor %}
-            {% endfor %}
-          {% endif %}
+          <div id="alert_area">
+          </div>
 
           {% csrf_token %}
           <div class="form-group">
             <label class="form-label" for="{{ form.username.id_for_label }}">아이디</label>
-            <!-- <input id="email" type="text" class="form-control" placeholder="이메일을 입력하십시오."> -->
             {{ form.username }}
           </div>
           <div class="form-group">
             <label class="form-label" for="{{ form.password.id_for_label }}">비밀번호</label>
-            <!-- <input id="password" type="password" class="form-control" placeholder="비밀번호를 입력하십시오."> -->
             {{ form.password }}
             <p class="text-right mt8">
               <span class="small color-sm">비밀번호를 잊으셨나요...?</span>
@@ -43,7 +34,7 @@
             </p>
           </div>
           <div class="text-center">
-            <button type="submit" class="btn btn-primary w100p">로그인</button>
+            <button id="btn_submit" type="submit" class="btn btn-primary w100p">로그인</button>
           </div>
           <p class="text-right mt8">
             <span class="small color-sm">아직 회원이 아니신가요...?</span>
@@ -60,9 +51,10 @@
     </div>
     <div class="bg-body pt-32pt pb-32pt pb-md-64pt text-center">
       <div class="container page__container">
-        <a href="fixed-index.html" class="btn btn-secondary btn-block-xs">Facebook</a>
-        <a href="fixed-index.html" class="btn btn-secondary btn-block-xs">Naver</a>
-        <a href="fixed-index.html" class="btn btn-secondary btn-block-xs">Google</a>
+        <a href="#" class="btn btn-secondary btn-block-xs">Facebook</a>
+        <a href="#" class="btn btn-secondary btn-block-xs">Naver</a>
+        <a href="#" class="btn btn-secondary btn-block-xs">Google</a>
+        <a href="#" class="btn btn-secondary btn-block-xs">Kakao</a>
       </div>
     </div>
     {% endif %}
@@ -70,4 +62,42 @@
 
   </section>
 </div>
+{% endblock %}
+
+{% block js %}
+<script>
+$('form').bind('submit', function(e) {
+    e.preventDefault();
+    login_user();
+});
+
+function login_user() {
+  $('#alert_area').empty();
+  $('#btn_submit').attr('disabled', true);
+
+  var $form = $("form");
+  var data = getFormData($form);
+
+  $.ajax({
+    method: "POST",
+    url: "/login",
+    dataType: 'json',
+    data: data
+  }).done(function( data ) {
+    if (data.result === 200) {
+      redirect('/');
+    } else {
+      Object.keys(data.errors).forEach(function(key) {
+        $.each(data.errors[key], function( index, value ) {
+          $('#alert_area').append(alertError(value));
+        });
+      });
+      $('#btn_submit').attr('disabled', false);
+    }
+  }).fail(function() {
+    $('#alert_area').append(alertError(UNKNOWN_ERROR));
+    $('#btn_submit').attr('disabled', false);
+  })
+}
+</script>
 {% endblock %}

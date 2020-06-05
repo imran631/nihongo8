@@ -1,26 +1,15 @@
 import logging
-import base64
 
 from django import forms
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, SetPasswordForm
-from django.http import HttpResponse, HttpResponseRedirect
-from django.core import validators
-from django.conf import settings
-from django.core.exceptions import ValidationError
 from django.utils.translation import gettext_lazy as _
-from django.contrib.auth import authenticate, login
-from django.core.mail import send_mail
-from django.template.loader import get_template
-from django.template import Context
-from django.contrib.auth.tokens import PasswordResetTokenGenerator
-from django.contrib.sites.shortcuts import get_current_site
-from django.forms import ValidationError
 
 from backend.validators import not_in_admin
 
 
 logger = logging.getLogger(__name__)
+
 
 class RegistForm(UserCreationForm):
 
@@ -96,27 +85,6 @@ class LoginForm(forms.Form):
         model = User
         fields = ('username', 'password')
 
-    def is_login(self, request):
-        username = self.cleaned_data["username"]
-        password = self.cleaned_data["password"]
-        raise ValidationError('Looks like email already exists')
-        user = authenticate(username=username, password=password)
-        return False
-        """
-        if user is not None:
-            login(request, user)
-            return True
-        else:
-            users = User.objects.filter(username=username)
-            if len(users) > 0:
-                user = users.first()
-                if user.is_active == 0:
-                    self.errors['username'] = [_('Your account has not been activated. Please check your identity email.')]
-            else:        
-                self.errors['username'] = [_('ID or password does not match.')]
-            return False
-        """
-
 
 class ResetForm(forms.Form):
 
@@ -130,43 +98,6 @@ class ResetForm(forms.Form):
     class Meta:
         model = User
         fields = ('email')
-
-    def is_excute(self, request):
-        scheme = request.is_secure() and "https" or "http"
-        host = get_current_site(request)
-        base_url = '{}://{}/'.format(scheme, host)        
-        token_gernerator = PasswordResetTokenGenerator()
-        email = self.cleaned_data["email"]
-        users = User.objects.filter(email=email)
-        user = users.first()
-        token_code = token_gernerator.make_token(user)
-        auth_pack = token_code + '#' + email
-        enc_auth_pack = base64.b64encode(auth_pack.encode())
-        subject = '[日本語８] 비밀번호 초기화 메일'
-        message = get_template('backend/email/reset_template.html').render(
-            {
-                'base_url': base_url + 'reset_password',
-                'token': enc_auth_pack.decode('ascii')
-            }
-        )
-        if len(users) > 0:
-            user = users.first()
-            from_email = settings.EMAIL_HOST_EMAIL
-            recipient_list = [email]
-            send_mail(
-                subject, 
-                None, 
-                from_email, 
-                recipient_list,
-                False,
-                None,
-                None,
-                None,
-                message
-            )
-            return True
-        else:
-            return False
 
 
 class ResetPasswordForm(SetPasswordForm):

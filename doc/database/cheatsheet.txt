@@ -15,3 +15,5 @@ python manage.py shell
 raise Exception('bug')
 
 python manage.py createsuperuser
+
+python manage.py test backend.tests.auth.tests.AuthTestCase

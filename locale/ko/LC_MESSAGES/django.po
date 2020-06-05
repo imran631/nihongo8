@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-04 12:57+0900\n"
+"POT-Creation-Date: 2020-06-06 00:12+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,22 +18,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: backend/forms.py:32
+#: .\backend\forms.py:34
 msgid "ID already exists."
 msgstr "해당 아이디는 이미 존재합니다."
 
-#: backend/forms.py:109
-msgid "Your account has not been activated. Please check your identity email."
-msgstr "계정이 활성화 되지 않았습니다. 본인인증 이메일을 확인해주십시오"
+#: .\backend\mixin.py:29
+msgid "[日本語８] 회원가입 본인인증 메일"
+msgstr ""
 
-#: backend/forms.py:111
-msgid "ID or password does not match."
-msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
+#: .\backend\mixin.py:37
+msgid "[日本語８] 비밀번호 초기화 메일"
+msgstr ""
 
-#: backend/validators.py:8
+#: .\backend\validators.py:8
 msgid "You can not include \"admin\"."
 msgstr "admin은 아이디에 포함하실 수 없습니다."
 
-#: backend/views.py:109
+#: .\backend\views.py:43
+msgid "Email already registered."
+msgstr "해당 아이디는 이미 존재합니다."
+
+#: .\backend\views.py:89
+msgid "Your account has not been activated. Please check your identity email."
+msgstr "계정이 활성화 되지 않았습니다. 본인인증 이메일을 확인해주십시오"
+
+#: .\backend\views.py:91
+msgid "ID or password does not match."
+msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
+
+#: .\backend\views.py:111
+msgid "This email is not registered."
+msgstr "서비스에 가입되어있는 이메일이 아닙니다."
+
+#: .\backend\views.py:147
 msgid "The link has expired. If you want to change it, send an email again."
-msgstr "링크가 만료되었습니다. 비밀번호 변경을 원하시면 이메일을 다시 발송해주십시오."
+msgstr ""
+"링크가 만료되었습니다. 비밀번호 변경을 원하시면 이메일을 다시 발송해주십시오."
