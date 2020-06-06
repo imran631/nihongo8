@@ -26,7 +26,7 @@ class SendMailMixin(TokenPackerMixin, PasswordResetTokenGenerator):
 
     def make_subject_and_message(self, type, base_url, token):
         if type == 'regist':
-            subject = _('[日本語８] 회원가입 본인인증 메일')
+            subject = _('[日本語８] Member registration confirmation mail')
             message = get_template('backend/email/regist_template.html').render(
                 {
                     'base_url': base_url + 'active',
@@ -34,7 +34,7 @@ class SendMailMixin(TokenPackerMixin, PasswordResetTokenGenerator):
                 }
             )
         elif type == 'reset':
-            subject = _('[日本語８] 비밀번호 초기화 메일')
+            subject = _('[日本語８] Password Initialization Mail')
             message = get_template('backend/email/reset_template.html').render(
                 {
                     'base_url': base_url + 'reset_password',
@@ -63,13 +63,13 @@ class LoginSuccessTxtMixin():
 
     def makeText(self, type):
         if type == 'active':
-            return '계정이 활성화 되었습니다', '로그인 하신 후 서비스를 이용해주세요.'
+            return _('Your account has been activated.'), _('Please log in and use the service.')
         elif type == 'regist':
-            return '회원가입이 완료되었습니다', '이메일을 확인하신 후 본인인증을 해주세요.'
+            return _('Membership has been completed.'), _('Please verify your e-mail and give your identity.')
         elif type == 'regist_password':
-            return '"비밀번호가 변경 되었습니다!', '로그인 하신 후 서비스를 이용해주세요.'
+            return _('Your password has been changed!'), _('Please log in and use the service.')
         elif type == 'reset':
-            return '비밀번호 초기화 메일을 보내드렸습니다!', '이메일을 확인하신 후 비밀번호를 변경해주세요.'
+            return _('We have sent you a password reset mail!'), _('Please check your email and change your password.')
         elif type == 'non_active':
-            return '계정을 활성화 할 수 없습니다', '다시 회원가입을 진행하여 본인인증 해주세요.'
+            return _('Your account cannot be activated.'), _('Please sign up again and authenticate yourself.')
         return None, None

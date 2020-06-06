@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-06 12:16+0900\n"
+"POT-Creation-Date: 2020-06-06 12:57+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,12 +64,48 @@ msgid "no license"
 msgstr "자격증 없음"
 
 #: .\backend\mixin.py:29
-msgid "[日本語８] 회원가입 본인인증 메일"
-msgstr ""
+msgid "[日本語８] Member registration confirmation mail"
+msgstr "[日本語８] 회원가입 본인인증 메일"
 
 #: .\backend\mixin.py:37
-msgid "[日本語８] 비밀번호 초기화 메일"
-msgstr ""
+msgid "[日本語８] Password Initialization Mail"
+msgstr "[日本語８] 비밀번호 초기화 메일"
+
+#: .\backend\mixin.py:66
+msgid "Your account has been activated."
+msgstr "계정이 활성화 되었습니다."
+
+#: .\backend\mixin.py:66 .\backend\mixin.py:70
+msgid "Please log in and use the service."
+msgstr "로그인 하신 후 서비스를 이용해주세요."
+
+#: .\backend\mixin.py:68
+msgid "Membership has been completed."
+msgstr "회원가입이 완료되었습니다."
+
+#: .\backend\mixin.py:68
+msgid "Please verify your e-mail and give your identity."
+msgstr "이메일을 확인하신 후 본인인증을 해주세요."
+
+#: .\backend\mixin.py:70
+msgid "Your password has been changed!"
+msgstr "비밀번호가 변경 되었습니다!"
+
+#: .\backend\mixin.py:72
+msgid "We have sent you a password reset mail!"
+msgstr "비밀번호 초기화 메일을 보내드렸습니다!"
+
+#: .\backend\mixin.py:72
+msgid "Please check your email and change your password."
+msgstr "이메일을 확인하신 후 비밀번호를 변경해주세요."
+
+#: .\backend\mixin.py:74
+msgid "Your account cannot be activated."
+msgstr "계정을 활성화 할 수 없습니다."
+
+#: .\backend\mixin.py:74
+msgid "Please sign up again and authenticate yourself."
+msgstr "다시 회원가입을 진행하여 본인인증 해주세요."
 
 #: .\backend\templates\backend\auth\login.html:10
 #: .\backend\templates\backend\auth\login.html:39
@@ -149,6 +185,29 @@ msgstr "변경할 비밀번호"
 #: .\backend\templates\backend\auth\reset_password.html:24
 msgid "Confirm password to change"
 msgstr "변경할 비밀번호 확인"
+
+#: .\backend\templates\backend\email\regist_template.html:9
+#: .\backend\templates\backend\email\reset_template.html:9
+msgid "Hello! We are 日本語８."
+msgstr "안녕하세요! 日本語８ 입니다."
+
+#: .\backend\templates\backend\email\regist_template.html:12
+msgid "This is a link to sign up and verify your identity."
+msgstr "회원가입 본인인증 이메일 링크입니다."
+
+#: .\backend\templates\backend\email\regist_template.html:16
+#: .\backend\templates\backend\email\reset_template.html:16
+msgid "You can change your password by clicking the link below."
+msgstr "아래의 링크를 클릭하여 비밀번호를 변경하실 수 있습니다."
+
+#: .\backend\templates\backend\email\regist_template.html:22
+#: .\backend\templates\backend\email\reset_template.html:22
+msgid "The link is valid for 24 hours."
+msgstr "해당 링크는 24시간 동안 유효합니다."
+
+#: .\backend\templates\backend\email\reset_template.html:12
+msgid "We sending you a link to change your password."
+msgstr "비밀번호 변경을 요청하여 초기화할 수 있는 링크를 보내드립니다."
 
 #: .\backend\validators.py:8
 msgid "You can not include \"admin\"."
