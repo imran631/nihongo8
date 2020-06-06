@@ -47,6 +47,12 @@
 .bg-fff { background: #fff !important; }
 .bg-nav { background: #5567ff !important;}
 
+.lang-img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
 .menu-top {
   background-position: center; 
   background-size: cover; 

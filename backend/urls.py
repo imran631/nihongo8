@@ -1,6 +1,6 @@
 from django.urls import path
 
-from backend.djangoapps.auth.views import RegistView, LoginView, ResetView, ResetPasswordView, ActiveView
+from backend.djangoapps.auth.views import RegistView, LoginView, ResetView, ResetPasswordView, ActiveView, LanguageView
 from . import views
 
 
@@ -12,6 +12,7 @@ urlpatterns = [
     path('active', ActiveView.as_view()),
     path('reset', ResetView.as_view()),
     path('reset_password', ResetPasswordView.as_view()),
+    path('language', LanguageView.as_view()),
 
     path('jlpt', views.jlpt, name='jlpt'),
 

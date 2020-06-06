@@ -1,4 +1,5 @@
 {% extends "backend/base/base.html" %}
+{% load i18n %}
 
 {% block content %}
 <div class="mdk-header-layout__content page-content " style="padding-top: 64px;">
@@ -6,7 +7,7 @@
     <div class="pt-32pt pt-sm-64pt pb-32pt">
       <div class="container page__container">
         <div class="flex mb30">
-          <h1 class="h2 mb-0 tac">비밀번호 찾기</h1>
+          <h1 class="h2 mb-0 tac">{% trans "Find Password" %}</h1>
           <p class="text-breadcrumb tac">Forgot Password</p>
         </div>
         <form class="col-md-5 p-0 mx-auto" method="POST">
@@ -18,8 +19,8 @@
               </div>
               <div class="flex" style="min-width: 180px">
                 <small class="text-black-100">
-                  가입하신 이메일을 입력하신 후 "이메일 발송" 클릭 시<br>
-                  비밀번호를 변경할 수 있는 링크를 보내드립니다.
+                  {% trans "When you enter your subscribed email and click 'Send Email'" %}<br>
+                  {% trans "I'm sending you a link to change your password." %}
                 </small>
               </div>
             </div>
@@ -30,24 +31,16 @@
 
           {% csrf_token %}
 
-          <div id="error_send_mail" class="dis-none">
-            {% include "backend/components/alert_error.html" with error='메일 전송이 실패하였습니다.<br>관리자에게 문의해주십시오.' %}
-          </div>
-
-          <div id="error_not_user" class="dis-none">
-            {% include "backend/components/alert_error.html" with error='입력하신 이메일은 "日本語８" 회원이 아닙니다.' %}
-          </div>
-
           <div class="form-group">
-            <label class="form-label" for="{{ form.email.id_for_label }}">이메일</label>
+            <label class="form-label" for="{{ form.email.id_for_label }}">{% trans "Email" %}</label>
             {{ form.email }}
           </div>
           <div class="text-center">
-            <button id="btn_submit" class="btn btn-primary w100p">이메일 발송</button>
+            <button id="btn_submit" class="btn btn-primary w100p">{% trans "Send Email" %}</button>
           </div>
           <p class="text-right mt8">
-            <span class="small color-sm">비밀번호가 기억나셨나요...?</span>
-            <a href="/login" class="small color-link">로그인</a>
+            <span class="small color-sm">{% trans "Did you remember the password?" %}</span>
+            <a href="/login" class="small color-link">{% trans "Login" %}</a>
           </p>
         </form>
       </div>

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-06 12:16+0900\n"
+"POT-Creation-Date: 2020-06-06 12:20+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,48 +20,47 @@ msgstr ""
 
 #: .\backend\djangoapps\auth\views.py:47
 msgid "Email already registered."
-msgstr "해당 이메일은 이미 존재합니다."
+msgstr "メールアドレスはすでに存在します。"
 
 #: .\backend\djangoapps\auth\views.py:93
 msgid "Your account has not been activated. Please check your identity email."
-msgstr "계정이 활성화 되지 않았습니다. 본인인증 이메일을 확인해주십시오."
+msgstr "アカウントが有効化されていません。 本人認証のメールを確認してください。"
 
 #: .\backend\djangoapps\auth\views.py:95
 msgid "ID or password does not match."
-msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
+msgstr "アカウントまたはパスワードが一致しません。"
 
 #: .\backend\djangoapps\auth\views.py:115
 msgid "This email is not registered."
-msgstr "서비스에 가입되어있는 이메일이 아닙니다."
+msgstr "サービスに登録されているメールアドレスではありません。"
 
 #: .\backend\djangoapps\auth\views.py:147
 msgid "The link has expired. If you want to change it, send an email again."
-msgstr ""
-"링크가 만료되었습니다. 비밀번호 변경을 원하시면 이메일을 다시 발송해주십시오."
+msgstr "リンクが満了しました。 パスワードの変更を希望する場合は、もう一度メールを送信してください。"
 
 #: .\backend\forms.py:19 .\backend\forms.py:73
 msgid "Please enter your ID."
-msgstr "아이디를 입력하십시오."
+msgstr "アカウントを入力してください。"
 
 #: .\backend\forms.py:23
 msgid "ID already exists."
-msgstr "해당 아이디는 이미 존재합니다."
+msgstr "アカウントはすでに存在します。"
 
 #: .\backend\forms.py:30 .\backend\forms.py:94
 msgid "Please enter your Email."
-msgstr "이메일을 입력하십시오."
+msgstr "メールアドレスを入力してください。"
 
 #: .\backend\forms.py:37 .\backend\forms.py:80 .\backend\forms.py:108
 msgid "Please enter your Password."
-msgstr "비밀번호를 입력하십시오."
+msgstr "パスワードを入力してください。"
 
 #: .\backend\forms.py:44 .\backend\forms.py:115
 msgid "Please enter your Password Check."
-msgstr "비밀번호 확인을 입력하십시오."
+msgstr "パスワード確認を入力してください。"
 
 #: .\backend\forms.py:49
 msgid "no license"
-msgstr "자격증 없음"
+msgstr "資格なし"
 
 #: .\backend\mixin.py:29
 msgid "[日本語８] 회원가입 본인인증 메일"
@@ -76,96 +75,96 @@ msgstr ""
 #: .\backend\templates\backend\auth\regist.html:44
 #: .\backend\templates\backend\auth\reset.html:43
 msgid "Login"
-msgstr "로그인"
+msgstr "ログイン"
 
 #: .\backend\templates\backend\auth\login.html:27
 #: .\backend\templates\backend\auth\regist.html:20
 msgid "ID"
-msgstr "아이디"
+msgstr "アカウント"
 
 #: .\backend\templates\backend\auth\login.html:31
 #: .\backend\templates\backend\auth\regist.html:28
 msgid "Password"
-msgstr "비밀번호"
+msgstr "パスワード"
 
 #: .\backend\templates\backend\auth\login.html:34
 msgid "Have you forgotten your password?"
-msgstr "비밀번호를 잊으셨나요?"
+msgstr "パスワードはお忘れですか？"
 
 #: .\backend\templates\backend\auth\login.html:35
 #: .\backend\templates\backend\auth\reset.html:10
 msgid "Find Password"
-msgstr "비밀번호 찾기"
+msgstr "パスワードを検索"
 
 #: .\backend\templates\backend\auth\login.html:42
 #: .\backend\templates\backend\auth\regist.html:43
 msgid "Do you have an account?"
-msgstr "아직 회원이 아니신가요?"
+msgstr "まだ会員ではございませんか？"
 
 #: .\backend\templates\backend\auth\login.html:43
 #: .\backend\templates\backend\auth\regist.html:10
 #: .\backend\templates\backend\auth\regist.html:40
 msgid "Regist"
-msgstr "회원가입"
+msgstr "登録"
 
 #: .\backend\templates\backend\auth\regist.html:24
 #: .\backend\templates\backend\auth\reset.html:35
 msgid "Email"
-msgstr "이메일"
+msgstr "メール"
 
 #: .\backend\templates\backend\auth\regist.html:32
 msgid "Confirm Password"
-msgstr "비밀번호 확인"
+msgstr "パスワード確認"
 
 #: .\backend\templates\backend\auth\regist.html:36
 msgid "JLPT Level"
-msgstr "JLPT 등급"
+msgstr "JLPT 等級"
 
 #: .\backend\templates\backend\auth\reset.html:22
 msgid "When you enter your subscribed email and click 'Send Email'"
-msgstr "가입하신 이메일을 입력하신 후 '이메일 발송' 클릭 시"
+msgstr "登録したメールアドレスを入力し、'メール送信'をクリックする、"
 
 #: .\backend\templates\backend\auth\reset.html:23
 msgid "I'm sending you a link to change your password."
-msgstr "비밀번호를 변경할 수 있는 링크를 보내드립니다."
+msgstr "パスワードを変更できるリンクをお送りします。"
 
 #: .\backend\templates\backend\auth\reset.html:39
 msgid "Send Email"
-msgstr "이메일 발송"
+msgstr "メール送信"
 
 #: .\backend\templates\backend\auth\reset.html:42
 msgid "Did you remember the password?"
-msgstr "비밀번호가 기억나셨나요?"
+msgstr "パスワードを覚えていますか。"
 
 #: .\backend\templates\backend\auth\reset_password.html:10
 #: .\backend\templates\backend\auth\reset_password.html:29
 msgid "Change Password"
-msgstr "비밀번호 찾기"
+msgstr "パスワードを検索"
 
 #: .\backend\templates\backend\auth\reset_password.html:20
 msgid "Password to change"
-msgstr "변경할 비밀번호"
+msgstr "変更するパスワード"
 
 #: .\backend\templates\backend\auth\reset_password.html:24
 msgid "Confirm password to change"
-msgstr "변경할 비밀번호 확인"
+msgstr "変更するパスワード確認"
 
 #: .\backend\validators.py:8
 msgid "You can not include \"admin\"."
-msgstr "admin은 아이디에 포함하실 수 없습니다."
+msgstr "adminはアカウントに含まれることができません。"
 
 #: .\backend\validators.py:17
 msgid "ID can be 4 letters or more."
-msgstr "아이디는 4글자 이상 입력해주세요."
+msgstr "アカウントは4文字以上入力してください。"
 
 #: .\main\settings.py:110
 msgid "Korean"
-msgstr "한국어"
+msgstr "韓国語"
 
 #: .\main\settings.py:111
 msgid "English"
-msgstr "영어"
+msgstr "英語"
 
 #: .\main\settings.py:112
 msgid "Japanese"
-msgstr "일본어"
+msgstr "日本語"

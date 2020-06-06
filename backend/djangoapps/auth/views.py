@@ -1,12 +1,17 @@
 import logging
 
+from django.conf import settings
 from django.contrib.auth import authenticate, login
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponseRedirect, HttpResponse
 from django.shortcuts import render, redirect
+from django.urls import translate_url
 from django.views import View
 from django.contrib.auth.models import User
 from django.db import transaction
 from django.utils.translation import gettext_lazy as _
+from django.utils.translation import (
+    LANGUAGE_SESSION_KEY, check_for_language, get_language,
+)
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 
 from backend.models import UserProfile
@@ -141,3 +146,32 @@ class ResetPasswordView(View, TokenPackerMixin, PasswordResetTokenGenerator):
         else:
             form.errors['new_password1'] = [_('The link has expired. If you want to change it, send an email again.')]
         return JsonResponse({'result': 500, 'errors': form.errors})
+
+
+class LanguageView(View):
+
+    def get(self, request, *args, **kwargs):
+        next = request.GET.get('next')
+        lang_code = request.GET.get('language')
+
+        response = HttpResponseRedirect(next) if next else HttpResponse(status=204)
+        if lang_code and check_for_language(lang_code):
+            if next:
+                next_trans = translate_url(next, lang_code)
+                if next_trans != next:
+                    response = HttpResponseRedirect(next_trans)
+            if hasattr(request, 'session'):
+                # Storing the language in the session is deprecated.
+                # (RemovedInDjango40Warning)
+                request.session[LANGUAGE_SESSION_KEY] = lang_code
+            response.set_cookie(
+                settings.LANGUAGE_COOKIE_NAME, lang_code,
+                max_age=settings.LANGUAGE_COOKIE_AGE,
+                path=settings.LANGUAGE_COOKIE_PATH,
+                domain=settings.LANGUAGE_COOKIE_DOMAIN,
+                secure=settings.LANGUAGE_COOKIE_SECURE,
+                httponly=settings.LANGUAGE_COOKIE_HTTPONLY,
+                samesite=settings.LANGUAGE_COOKIE_SAMESITE,
+            )
+
+        return response

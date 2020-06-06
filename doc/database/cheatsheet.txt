@@ -10,6 +10,10 @@ python manage.py makemessages --locale ko --ignore venv
 
 python manage.py compilemessages --locale ko --ignore venv
 
+python manage.py makemessages --locale ja --ignore venv
+
+python manage.py compilemessages --locale ja --ignore venv
+
 python manage.py shell
 
 raise Exception('bug')

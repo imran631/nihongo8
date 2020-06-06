@@ -50,6 +50,13 @@ function redirect(url) {
   window.location.href = url;
 }
 
+function changeLanguage(language) {
+  var pathname = window.location.pathname;
+  var param = '?' + 'next=' + pathname + '&' + 'language=' + language
+  var url = '/language'
+  redirect(url + param)
+}
+
 function getFormData($form){
   var unindexed_array = $form.serializeArray();
   var indexed_array = {};

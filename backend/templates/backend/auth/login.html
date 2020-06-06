@@ -1,4 +1,5 @@
 {% extends "backend/base/base.html" %}
+{% load i18n %}
 
 {% block content %}
 <div class="mdk-header-layout__content page-content " style="padding-top: 64px;">
@@ -6,7 +7,8 @@
     <div class="pt-32pt pt-sm-64pt pb-32pt">
       <div class="container page__container">
         <div class="flex mb30">
-          <h1 class="h2 mb-0 tac">로그인</h1>
+          <h1 class="h2 mb-0 tac">{% trans "Login" %}</h1>
+          {% get_current_language as LANGUAGE_CODE %}
           <p class="text-breadcrumb tac">Login</p>
         </div>
         <form class="col-md-5 p-0 mx-auto" method="POST">
@@ -22,23 +24,23 @@
 
           {% csrf_token %}
           <div class="form-group">
-            <label class="form-label" for="{{ form.username.id_for_label }}">아이디</label>
+            <label class="form-label" for="{{ form.username.id_for_label }}">{% trans "ID" %}</label>
             {{ form.username }}
           </div>
           <div class="form-group">
-            <label class="form-label" for="{{ form.password.id_for_label }}">비밀번호</label>
+            <label class="form-label" for="{{ form.password.id_for_label }}">{% trans "Password" %}</label>
             {{ form.password }}
             <p class="text-right mt8">
-              <span class="small color-sm">비밀번호를 잊으셨나요...?</span>
-              <a href="/reset" class="small color-link">비밀번호 찾기</a>
+              <span class="small color-sm">{% trans "Have you forgotten your password?" %}</span>
+              <a href="/reset" class="small color-link">{% trans "Find Password" %}</a>
             </p>
           </div>
           <div class="text-center">
-            <button id="btn_submit" type="submit" class="btn btn-primary w100p">로그인</button>
+            <button id="btn_submit" type="submit" class="btn btn-primary w100p">{% trans "Login" %}</button>
           </div>
           <p class="text-right mt8">
-            <span class="small color-sm">아직 회원이 아니신가요...?</span>
-            <a href="/regist" class="small color-link">회원가입</a>
+            <span class="small color-sm">{% trans "Do you have an account?" %}</span>
+            <a href="/regist" class="small color-link">{% trans "Regist" %}</a>
           </p>
         </form>
       </div>
