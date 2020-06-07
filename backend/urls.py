@@ -20,7 +20,7 @@ urlpatterns = [
     path('manage/core/regist', views.admin_core_regist, name='admin_core_regist'),
     path('manage/quiz', views.admin_quiz, name='admin_quiz'),
     path('manage/quiz/regist', views.admin_quiz_regist, name='admin_quiz_regist'),
-    path('manage/provblem', views.admin_problem, name='admin_problem'),
+    path('manage/problem', views.admin_problem, name='admin_problem'),
     path('manage/problem/regist', views.admin_problem_regist, name='admin_problem_regist'),
 
     path('problem/list', views.problem_list, name='problem_list'),

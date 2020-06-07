@@ -2,10 +2,10 @@ import logging
 
 from django import forms
 from django.contrib.auth.models import User
-from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, SetPasswordForm
+from django.contrib.auth.forms import UserCreationForm, SetPasswordForm
 from django.utils.translation import gettext_lazy as _
 
-from backend.validators import not_in_admin, min_username
+from backend.djangoapps.auth.validators import not_in_admin, min_username
 
 
 logger = logging.getLogger(__name__)

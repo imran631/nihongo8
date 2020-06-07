@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-06 12:57+0900\n"
+"POT-Creation-Date: 2020-06-07 16:33+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,84 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\backend\djangoapps\auth\forms.py:19 .\backend\djangoapps\auth\forms.py:73
+msgid "Please enter your ID."
+msgstr "아이디를 입력하십시오."
+
+#: .\backend\djangoapps\auth\forms.py:23
+msgid "ID already exists."
+msgstr "해당 아이디는 이미 존재합니다."
+
+#: .\backend\djangoapps\auth\forms.py:30 .\backend\djangoapps\auth\forms.py:94
+msgid "Please enter your Email."
+msgstr "이메일을 입력하십시오."
+
+#: .\backend\djangoapps\auth\forms.py:37 .\backend\djangoapps\auth\forms.py:80
+#: .\backend\djangoapps\auth\forms.py:108
+msgid "Please enter your Password."
+msgstr "비밀번호를 입력하십시오."
+
+#: .\backend\djangoapps\auth\forms.py:44
+#: .\backend\djangoapps\auth\forms.py:115
+msgid "Please enter your Password Check."
+msgstr "비밀번호 확인을 입력하십시오."
+
+#: .\backend\djangoapps\auth\forms.py:49 .\backend\models.py:43
+msgid "no license"
+msgstr "자격증 없음"
+
+#: .\backend\djangoapps\auth\mixin.py:29
+msgid "[日本語８] Member registration confirmation mail"
+msgstr "[日本語８] 회원가입 본인인증 메일"
+
+#: .\backend\djangoapps\auth\mixin.py:37
+msgid "[日本語８] Password Initialization Mail"
+msgstr "[日本語８] 비밀번호 초기화 메일"
+
+#: .\backend\djangoapps\auth\mixin.py:66
+msgid "Your account has been activated."
+msgstr "계정이 활성화 되었습니다."
+
+#: .\backend\djangoapps\auth\mixin.py:66 .\backend\djangoapps\auth\mixin.py:70
+msgid "Please log in and use the service."
+msgstr "로그인 하신 후 서비스를 이용해주세요."
+
+#: .\backend\djangoapps\auth\mixin.py:68
+msgid "Membership has been completed."
+msgstr "회원가입이 완료되었습니다."
+
+#: .\backend\djangoapps\auth\mixin.py:68
+msgid "Please verify your e-mail and give your identity."
+msgstr "이메일을 확인하신 후 본인인증을 해주세요."
+
+#: .\backend\djangoapps\auth\mixin.py:70
+msgid "Your password has been changed!"
+msgstr "비밀번호가 변경 되었습니다!"
+
+#: .\backend\djangoapps\auth\mixin.py:72
+msgid "We have sent you a password reset mail!"
+msgstr "비밀번호 초기화 메일을 보내드렸습니다!"
+
+#: .\backend\djangoapps\auth\mixin.py:72
+msgid "Please check your email and change your password."
+msgstr "이메일을 확인하신 후 비밀번호를 변경해주세요."
+
+#: .\backend\djangoapps\auth\mixin.py:74
+msgid "Your account cannot be activated."
+msgstr "계정을 활성화 할 수 없습니다."
+
+#: .\backend\djangoapps\auth\mixin.py:74
+msgid "Please sign up again and authenticate yourself."
+msgstr "다시 회원가입을 진행하여 본인인증 해주세요."
+
+#: .\backend\djangoapps\auth\validators.py:8
+msgid "You can not include \"admin\"."
+msgstr "admin은 아이디에 포함하실 수 없습니다."
+
+#: .\backend\djangoapps\auth\validators.py:17
+msgid "ID can be 4 letters or more."
+msgstr "아이디는 4글자 이상 입력해주세요."
 
 #: .\backend\djangoapps\auth\views.py:47
 msgid "Email already registered."
@@ -39,73 +117,85 @@ msgid "The link has expired. If you want to change it, send an email again."
 msgstr ""
 "링크가 만료되었습니다. 비밀번호 변경을 원하시면 이메일을 다시 발송해주십시오."
 
-#: .\backend\forms.py:19 .\backend\forms.py:73
-msgid "Please enter your ID."
-msgstr "아이디를 입력하십시오."
+#: .\backend\models.py:7
+msgid "Naming word"
+msgstr "명사"
 
-#: .\backend\forms.py:23
-msgid "ID already exists."
-msgstr "해당 아이디는 이미 존재합니다."
+#: .\backend\models.py:8
+msgid "Verb"
+msgstr "동사"
 
-#: .\backend\forms.py:30 .\backend\forms.py:94
-msgid "Please enter your Email."
-msgstr "이메일을 입력하십시오."
+#: .\backend\models.py:9
+msgid "adjective I"
+msgstr "이형용사"
 
-#: .\backend\forms.py:37 .\backend\forms.py:80 .\backend\forms.py:108
-msgid "Please enter your Password."
-msgstr "비밀번호를 입력하십시오."
+#: .\backend\models.py:10
+msgid "adjective N"
+msgstr "나형용사"
 
-#: .\backend\forms.py:44 .\backend\forms.py:115
-msgid "Please enter your Password Check."
-msgstr "비밀번호 확인을 입력하십시오."
+#: .\backend\models.py:11
+msgid "adverb"
+msgstr "부사"
 
-#: .\backend\forms.py:49
-msgid "no license"
-msgstr "자격증 없음"
+#: .\backend\models.py:12 .\backend\models.py:21 .\backend\models.py:39
+msgid "ETC"
+msgstr "기타"
 
-#: .\backend\mixin.py:29
-msgid "[日本語８] Member registration confirmation mail"
-msgstr "[日本語８] 회원가입 본인인증 메일"
+#: .\backend\models.py:25
+msgid "Language - Kanji Read"
+msgstr "언어지식 - 한자읽기"
 
-#: .\backend\mixin.py:37
-msgid "[日本語８] Password Initialization Mail"
-msgstr "[日本語８] 비밀번호 초기화 메일"
+#: .\backend\models.py:26
+msgid "Language - Kanji Find"
+msgstr "언어지식 - 한자찾기"
 
-#: .\backend\mixin.py:66
-msgid "Your account has been activated."
-msgstr "계정이 활성화 되었습니다."
+#: .\backend\models.py:27
+msgid "Language - Grammar Rule"
+msgstr "언어지식 - 문법규정"
 
-#: .\backend\mixin.py:66 .\backend\mixin.py:70
-msgid "Please log in and use the service."
-msgstr "로그인 하신 후 서비스를 이용해주세요."
+#: .\backend\models.py:28
+msgid "Language - Replace"
+msgstr "언어지식 - 교체유의어"
 
-#: .\backend\mixin.py:68
-msgid "Membership has been completed."
-msgstr "회원가입이 완료되었습니다."
+#: .\backend\models.py:29
+msgid "Language - Useful"
+msgstr "언어지식 - 용법"
 
-#: .\backend\mixin.py:68
-msgid "Please verify your e-mail and give your identity."
-msgstr "이메일을 확인하신 후 본인인증을 해주세요."
+#: .\backend\models.py:30
+msgid "Grammar - Empty"
+msgstr "문법 - 빈칸"
 
-#: .\backend\mixin.py:70
-msgid "Your password has been changed!"
-msgstr "비밀번호가 변경 되었습니다!"
+#: .\backend\models.py:31
+msgid "Grammar - Order"
+msgstr "문법 - 순서"
 
-#: .\backend\mixin.py:72
-msgid "We have sent you a password reset mail!"
-msgstr "비밀번호 초기화 메일을 보내드렸습니다!"
+#: .\backend\models.py:32
+msgid "Grammar - Long"
+msgstr "문법 - 장문"
 
-#: .\backend\mixin.py:72
-msgid "Please check your email and change your password."
-msgstr "이메일을 확인하신 후 비밀번호를 변경해주세요."
+#: .\backend\models.py:33
+msgid "Reading - Short"
+msgstr "독해 - 단문"
 
-#: .\backend\mixin.py:74
-msgid "Your account cannot be activated."
-msgstr "계정을 활성화 할 수 없습니다."
+#: .\backend\models.py:34
+msgid "Reading - Medium"
+msgstr "독해 - 중문"
 
-#: .\backend\mixin.py:74
-msgid "Please sign up again and authenticate yourself."
-msgstr "다시 회원가입을 진행하여 본인인증 해주세요."
+#: .\backend\models.py:35
+msgid "Reading - Long"
+msgstr "독해 - 장문"
+
+#: .\backend\models.py:36
+msgid "Reading - Integrated understanding"
+msgstr "독해 - 통합이해"
+
+#: .\backend\models.py:37
+msgid "Reading - Opinion understanding"
+msgstr "독해 - 주장이해"
+
+#: .\backend\models.py:38
+msgid "Reading - Information Search"
+msgstr "독해 - 정보검색"
 
 #: .\backend\templates\backend\auth\login.html:10
 #: .\backend\templates\backend\auth\login.html:39
@@ -208,14 +298,6 @@ msgstr "해당 링크는 24시간 동안 유효합니다."
 #: .\backend\templates\backend\email\reset_template.html:12
 msgid "We sending you a link to change your password."
 msgstr "비밀번호 변경을 요청하여 초기화할 수 있는 링크를 보내드립니다."
-
-#: .\backend\validators.py:8
-msgid "You can not include \"admin\"."
-msgstr "admin은 아이디에 포함하실 수 없습니다."
-
-#: .\backend\validators.py:17
-msgid "ID can be 4 letters or more."
-msgstr "아이디는 4글자 이상 입력해주세요."
 
 #: .\main\settings.py:110
 msgid "Korean"

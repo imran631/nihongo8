@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-06 12:43+0900\n"
+"POT-Creation-Date: 2020-06-07 16:35+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,84 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\backend\djangoapps\auth\forms.py:19 .\backend\djangoapps\auth\forms.py:73
+msgid "Please enter your ID."
+msgstr "アカウントを入力してください。"
+
+#: .\backend\djangoapps\auth\forms.py:23
+msgid "ID already exists."
+msgstr "アカウントはすでに存在します。"
+
+#: .\backend\djangoapps\auth\forms.py:30 .\backend\djangoapps\auth\forms.py:94
+msgid "Please enter your Email."
+msgstr "メールアドレスを入力してください。"
+
+#: .\backend\djangoapps\auth\forms.py:37 .\backend\djangoapps\auth\forms.py:80
+#: .\backend\djangoapps\auth\forms.py:108
+msgid "Please enter your Password."
+msgstr "パスワードを入力してください。"
+
+#: .\backend\djangoapps\auth\forms.py:44
+#: .\backend\djangoapps\auth\forms.py:115
+msgid "Please enter your Password Check."
+msgstr "パスワード確認を入力してください。"
+
+#: .\backend\djangoapps\auth\forms.py:49 .\backend\models.py:43
+msgid "no license"
+msgstr "資格なし"
+
+#: .\backend\djangoapps\auth\mixin.py:29
+msgid "[日本語８] Member registration confirmation mail"
+msgstr "[日本語８] 登録 本人認証メール"
+
+#: .\backend\djangoapps\auth\mixin.py:37
+msgid "[日本語８] Password Initialization Mail"
+msgstr "[日本語８] パスワード初期化メール"
+
+#: .\backend\djangoapps\auth\mixin.py:66
+msgid "Your account has been activated."
+msgstr "アカウントが有効になりました。"
+
+#: .\backend\djangoapps\auth\mixin.py:66 .\backend\djangoapps\auth\mixin.py:70
+msgid "Please log in and use the service."
+msgstr "ログインした後、サービスを利用してください。"
+
+#: .\backend\djangoapps\auth\mixin.py:68
+msgid "Membership has been completed."
+msgstr "登録が完了しました。"
+
+#: .\backend\djangoapps\auth\mixin.py:68
+msgid "Please verify your e-mail and give your identity."
+msgstr "メールをご確認して、本人認証をしてください。"
+
+#: .\backend\djangoapps\auth\mixin.py:70
+msgid "Your password has been changed!"
+msgstr "パスワードが変更されました！"
+
+#: .\backend\djangoapps\auth\mixin.py:72
+msgid "We have sent you a password reset mail!"
+msgstr "パスワード初期化メールを送りました！"
+
+#: .\backend\djangoapps\auth\mixin.py:72
+msgid "Please check your email and change your password."
+msgstr "メールをご確認して、パスワードを変更してください。"
+
+#: .\backend\djangoapps\auth\mixin.py:74
+msgid "Your account cannot be activated."
+msgstr "アカウントを有効化することはできません。"
+
+#: .\backend\djangoapps\auth\mixin.py:74
+msgid "Please sign up again and authenticate yourself."
+msgstr "もう一度登録して本人認証をしてください。"
+
+#: .\backend\djangoapps\auth\validators.py:8
+msgid "You can not include \"admin\"."
+msgstr "adminはアカウントに含まれることができません。"
+
+#: .\backend\djangoapps\auth\validators.py:17
+msgid "ID can be 4 letters or more."
+msgstr "アカウントは4文字以上入力してください。"
 
 #: .\backend\djangoapps\auth\views.py:47
 msgid "Email already registered."
@@ -41,73 +119,85 @@ msgstr ""
 "リンクが満了しました。 パスワードの変更を希望する場合は、もう一度メールを送信"
 "してください。"
 
-#: .\backend\forms.py:19 .\backend\forms.py:73
-msgid "Please enter your ID."
-msgstr "アカウントを入力してください。"
+#: .\backend\models.py:7
+msgid "Naming word"
+msgstr "名詞"
 
-#: .\backend\forms.py:23
-msgid "ID already exists."
-msgstr "アカウントはすでに存在します。"
+#: .\backend\models.py:8
+msgid "Verb"
+msgstr "動詞"
 
-#: .\backend\forms.py:30 .\backend\forms.py:94
-msgid "Please enter your Email."
-msgstr "メールアドレスを入力してください。"
+#: .\backend\models.py:9
+msgid "adjective I"
+msgstr "い形容詞"
 
-#: .\backend\forms.py:37 .\backend\forms.py:80 .\backend\forms.py:108
-msgid "Please enter your Password."
-msgstr "パスワードを入力してください。"
+#: .\backend\models.py:10
+msgid "adjective N"
+msgstr "な形容詞"
 
-#: .\backend\forms.py:44 .\backend\forms.py:115
-msgid "Please enter your Password Check."
-msgstr "パスワード確認を入力してください。"
+#: .\backend\models.py:11
+msgid "adverb"
+msgstr "副詞"
 
-#: .\backend\forms.py:49
-msgid "no license"
-msgstr "資格なし"
+#: .\backend\models.py:12 .\backend\models.py:21 .\backend\models.py:39
+msgid "ETC"
+msgstr "その他"
 
-#: .\backend\mixin.py:29
-msgid "[日本語８] Member registration confirmation mail"
-msgstr "[日本語８] 登録 本人認証メール"
+#: .\backend\models.py:25
+msgid "Language - Kanji Read"
+msgstr "言語知識 - 漢字を読む"
 
-#: .\backend\mixin.py:37
-msgid "[日本語８] Password Initialization Mail"
-msgstr "[日本語８] パスワード初期化メール"
+#: .\backend\models.py:26
+msgid "Language - Kanji Find"
+msgstr "言語知識 - 漢字探し"
 
-#: .\backend\mixin.py:66
-msgid "Your account has been activated."
-msgstr "アカウントが有効になりました。"
+#: .\backend\models.py:27
+msgid "Language - Grammar Rule"
+msgstr "言語知識 - 文法規定"
 
-#: .\backend\mixin.py:66 .\backend\mixin.py:70
-msgid "Please log in and use the service."
-msgstr "ログインした後、サービスを利用してください。"
+#: .\backend\models.py:28
+msgid "Language - Replace"
+msgstr "言語知識 - 交替類似語"
 
-#: .\backend\mixin.py:68
-msgid "Membership has been completed."
-msgstr "登録が完了しました。"
+#: .\backend\models.py:29
+msgid "Language - Useful"
+msgstr "言語知識 - 用法"
 
-#: .\backend\mixin.py:68
-msgid "Please verify your e-mail and give your identity."
-msgstr "メールをご確認して、本人認証をしてください。"
+#: .\backend\models.py:30
+msgid "Grammar - Empty"
+msgstr "文法 - 空欄"
 
-#: .\backend\mixin.py:70
-msgid "Your password has been changed!"
-msgstr "パスワードが変更されました！"
+#: .\backend\models.py:31
+msgid "Grammar - Order"
+msgstr "文法 - 順番"
 
-#: .\backend\mixin.py:72
-msgid "We have sent you a password reset mail!"
-msgstr "パスワード初期化メールを送りました！"
+#: .\backend\models.py:32
+msgid "Grammar - Long"
+msgstr "読解 - 長文"
 
-#: .\backend\mixin.py:72
-msgid "Please check your email and change your password."
-msgstr "メールをご確認して、パスワードを変更してください。"
+#: .\backend\models.py:33
+msgid "Reading - Short"
+msgstr "読解 - 短文"
 
-#: .\backend\mixin.py:74
-msgid "Your account cannot be activated."
-msgstr "アカウントを有効化することはできません。"
+#: .\backend\models.py:34
+msgid "Reading - Medium"
+msgstr "読解 - 中文"
 
-#: .\backend\mixin.py:74
-msgid "Please sign up again and authenticate yourself."
-msgstr "もう一度登録して本人認証をしてください。"
+#: .\backend\models.py:35
+msgid "Reading - Long"
+msgstr "読解 - 長文"
+
+#: .\backend\models.py:36
+msgid "Reading - Integrated understanding"
+msgstr "読解 - 統合理解"
+
+#: .\backend\models.py:37
+msgid "Reading - Opinion understanding"
+msgstr "読解 - 主張理解"
+
+#: .\backend\models.py:38
+msgid "Reading - Information Search"
+msgstr "読解 - 情報検索"
 
 #: .\backend\templates\backend\auth\login.html:10
 #: .\backend\templates\backend\auth\login.html:39
@@ -188,6 +278,7 @@ msgstr "変更するパスワード"
 msgid "Confirm password to change"
 msgstr "変更するパスワード確認"
 
+#: .\backend\templates\backend\email\regist_template.html:9
 #: .\backend\templates\backend\email\reset_template.html:9
 msgid "Hello! We are 日本語８."
 msgstr "こんにちは、日本語８です。"
@@ -196,25 +287,19 @@ msgstr "こんにちは、日本語８です。"
 msgid "This is a link to sign up and verify your identity."
 msgstr "登録の本人認証のメールリンクです。"
 
-#: .\backend\templates\backend\email\reset_template.html:12
-msgid "We sending you a link to change your password."
-msgstr "パスワードを変更できるリンクをお送りします。"
-
-#: .\backend\templates\backend\email\reset_template.html:17
+#: .\backend\templates\backend\email\regist_template.html:16
+#: .\backend\templates\backend\email\reset_template.html:16
 msgid "You can change your password by clicking the link below."
 msgstr "下記のリンクをクリックしてパスワードを変更することができます。"
 
-#: .\backend\templates\backend\email\reset_template.html:24
+#: .\backend\templates\backend\email\regist_template.html:22
+#: .\backend\templates\backend\email\reset_template.html:22
 msgid "The link is valid for 24 hours."
 msgstr "リンクは24時間有効です。"
 
-#: .\backend\validators.py:8
-msgid "You can not include \"admin\"."
-msgstr "adminはアカウントに含まれることができません。"
-
-#: .\backend\validators.py:17
-msgid "ID can be 4 letters or more."
-msgstr "アカウントは4文字以上入力してください。"
+#: .\backend\templates\backend\email\reset_template.html:12
+msgid "We sending you a link to change your password."
+msgstr "パスワードを変更できるリンクをお送りします。"
 
 #: .\main\settings.py:110
 msgid "Korean"

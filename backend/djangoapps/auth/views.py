@@ -15,8 +15,8 @@ from django.utils.translation import (
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 
 from backend.models import UserProfile
-from backend.mixin import SendMailMixin, TokenPackerMixin, LoginSuccessTxtMixin
-from backend.forms import RegistForm, LoginForm, ResetForm, ResetPasswordForm
+from backend.djangoapps.auth.mixin import SendMailMixin, TokenPackerMixin, LoginSuccessTxtMixin
+from backend.djangoapps.auth.forms import RegistForm, LoginForm, ResetForm, ResetPasswordForm
 
 
 logger = logging.getLogger(__name__)
