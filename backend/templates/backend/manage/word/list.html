@@ -1,4 +1,5 @@
 {% extends "backend/base/base.html" %}
+{% load i18n %}
 
 {% block content %}
 <div class="mdk-header-layout__content page-content ">
@@ -6,7 +7,7 @@
     <div class="container page__container d-flex flex-column flex-md-row align-items-center text-center text-sm-left">
       <div class="flex d-flex flex-column flex-sm-row align-items-center mb-24pt mb-md-0">
         <div class="mb-24pt mb-sm-0 mr-sm-24pt">
-          <h2 class="mb-0">Word Management</h2>
+          <h2 class="mb-0">{% trans "Word Management" %}</h2>
         </div>
       </div>
     </div>
@@ -16,56 +17,58 @@
   <div class="container page__container">
 
     <!-- SET -->
-    <div class="form-row">
-      <div class="col-sm">
-        <div class="form-group">
-          <label class="form-label" for="{{ form.level.id_for_label }}">Level</label>
-          {{ form.level }}
+    <form id="search_form">
+      <div class="form-row">
+        <div class="col-sm">
+          <div class="form-group">
+            <label class="form-label" for="{{ form.level.id_for_label }}">{% trans "Level" %}</label>
+            {{ form.level }}
+          </div>
+        </div>
+        <div class="col-sm">
+          <div class="form-group">
+            <label class="form-label" for="{{ form.type.id_for_label }}">{% trans "Type" %}</label>
+            {{ form.type }}
+          </div>
+        </div>
+        <div class="col-sm">
+          <div class="form-group">
+            <label class="form-label" for="{{ form.search_type.id_for_label }}">{% trans "Search Type" %}</label>
+            {{ form.search_type }}
+          </div>
+        </div>
+        <div class="col-sm">
+          <label class="form-label" for="{{ form.search_text.id_for_label }}">{% trans "Search Text" %}</label>
+          {{ form.search_text }}
         </div>
       </div>
-      <div class="col-sm">
-        <div class="form-group">
-          <label class="form-label" for="{{ form.type.id_for_label }}">Type</label>
-          {{ form.type }}
-        </div>
-      </div>
-      <div class="col-sm">
-        <div class="form-group">
-          <label class="form-label" for="{{ form.search_type.id_for_label }}">Search Type</label>
-          {{ form.search_type }}
-        </div>
-      </div>
-      <div class="col-sm">
-        <label class="form-label" for="{{ form.search_text.id_for_label }}">Search Text</label>
-        {{ form.search_text }}
-      </div>
-    </div>
+    </form>
     <!-- SET // END -->
 
     <div class="row justify-content-end mb30">
       <button type="button" class="btn btn-accent mr8" onclick="redirect('/admin/core/regist')">
         <i class="material-icons icon--left">add</i>
-        ADD
+        {% trans "ADD" %}
       </button>
       <button type="button" class="btn btn-primary">
         <i class="material-icons icon--left">search</i>
-        Search
+        {% trans "Search" %}
       </button>
     </div>
 
     <div class="bg-fff">
-      <table class="table table-bordered">
+      <table class="table table-bordered" id="dt_table">
         <thead class="thead-light">
           <tr>
-            <th scope="col">id</th>
-            <th scope="col">type</th>
-            <th scope="col">kanji</th>
-            <th scope="col">hiragana</th>
-            <th scope="col">katakana</th>
-            <th scope="col">hangul</th>
-            <th scope="col">user</th>
-            <th scope="col">created_at</th>
-            <th scope="col">updated_at</th>
+            <th>{% trans "ID" %}</th>
+            <th>{% trans "Type" %}</th>
+            <th>{% trans "Kanji" %}</th>
+            <th>{% trans "Hiragana" %}</th>
+            <th>{% trans "Katakana" %}</th>
+            <th>{% trans "Hangul" %}</th>
+            <th>{% trans "Username" %}</th>
+            <th>{% trans "created" %}</th>
+            <th>{% trans "updated" %}</th>
           </tr>
         </thead>
         <tbody>
@@ -89,5 +92,132 @@
 {% endblock %}
 
 {% block js %}
-
+<script>
+var datatable = $('#dt_table').DataTable({
+  dom: '<"top"Blf>rtp<"bottom"i>',
+  paging: true,
+  ordering: true,
+  info: false,
+  filter: false,
+  lengthChange: false,
+  order: [[0, "desc"]],
+  stateSave: false,
+  pagingType: "full_numbers",
+  scrollX: false,
+  scrollCollapse: false,
+  processing: true,
+  serverSide: true,
+  drawCallback: function () {},
+  ajax: {
+    url: "/manage/word/list",
+    type: "POST",
+    dataType: "json",
+    data: function(data) {
+      var $form = $("#search_form");
+      var search_data = getFormData($form);
+      data = Object.assign(data, search_data);
+      data.csrfmiddlewaretoken = $('#csrf_token').val();
+      return data;
+    },
+  },
+  columns: [
+    {data: "id", name: "id"},
+    {data: "type", name: "id"},
+    {data: "kanji", name: "id"},
+    {data: "hiragana", name: "id"},
+    {data: "katakana", name: "id"},
+    {data: "hangul", name: "id"},
+    {data: "user_id", name: "id"},
+    {data: "created_at", name: "id"},
+    {data: "updated_at", name: "id"}
+  ],
+  columnDefs: [
+    {
+      targets: 0,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 1,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 2,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 3,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 4,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 5,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 6,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 7,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 8,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    }
+  ],
+  language: {
+    lengthMenu: "Display _MENU_ records per page",
+    zeroRecords: "데이터가 존재하지 않습니다",
+    info: "Showing page _PAGE_ of _PAGES_",
+    infoEmpty: "No records available",
+    infoFiltered: "(filtered from _MAX_ total records)",
+    paginate: {
+      first: '처음',
+      last: '끝',
+      previous: "이전",
+      next: "다음"
+    }
+  }
+});
+</script>
 {% endblock %}

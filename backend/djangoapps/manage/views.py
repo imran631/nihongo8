@@ -1,10 +1,13 @@
 import logging
 
+from django.core.paginator import Paginator
 from django.db import transaction
+from django.http import JsonResponse
 from django.shortcuts import render
 from django.views import View
 
 from backend.djangoapps.manage.forms import WordForm, QuizForm, ProblemForm
+from backend.models import Word
 
 logger = logging.getLogger(__name__)
 
@@ -18,7 +21,20 @@ class WordView(View):
         return render(request, self.template_name, {'form': form})
 
     def post(self, request, *args, **kwargs):
-        pass
+        words = Word.objects.filter()
+        paginator = Paginator(words, 10)
+        page_data = paginator.get_page(1)
+        dt_data = []
+        for data in page_data:
+            tmp = data.__dict__
+            del(tmp['_state'])
+            dt_data.append(tmp)
+        return JsonResponse({
+            "recordsTotal": len(words),
+            "recordsFiltered": len(words),
+            "draw": 1,
+            "data": dt_data
+        })
 
 
 class WordMoidfyView(View):

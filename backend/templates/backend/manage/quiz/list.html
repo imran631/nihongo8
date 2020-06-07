@@ -1,4 +1,5 @@
 {% extends "backend/base/base.html" %}
+{% load i18n %}
 
 {% block content %}
 <div class="mdk-header-layout__content page-content ">
@@ -6,7 +7,7 @@
     <div class="container page__container d-flex flex-column flex-md-row align-items-center text-center text-sm-left">
       <div class="flex d-flex flex-column flex-sm-row align-items-center mb-24pt mb-md-0">
         <div class="mb-24pt mb-sm-0 mr-sm-24pt">
-          <h2 class="mb-0">Quiz Management</h2>
+          <h2 class="mb-0">{% trans "Quiz Management" %}</h2>
         </div>
       </div>
     </div>
@@ -16,38 +17,40 @@
   <div class="container page__container">
 
     <!-- SET -->
-    <div class="form-row">
-      <div class="col-sm">
-        <div class="form-group">
-          <label class="form-label" for="{{ form.level.id_for_label }}">Level</label>
-          {{ form.level }}
+    <form id="search_form">
+      <div class="form-row">
+        <div class="col-sm">
+          <div class="form-group">
+            <label class="form-label" for="{{ form.level.id_for_label }}">{% trans "Level" %}</label>
+            {{ form.level }}
+          </div>
+        </div>
+        <div class="col-sm">
+          <div class="form-group">
+            <label class="form-label" for="{{ form.type.id_for_label }}">{% trans "Type" %}</label>
+            {{ form.type }}
+          </div>
+        </div>
+        <div class="col-sm">
+          <label class="form-label" for="{{ form.search_type.id_for_label }}">{% trans "Search Type" %}</label>
+            {{ form.search_type }}
+        </div>
+        <div class="col-sm">
+          <label class="form-label" for="{{ form.search_text.id_for_label }}">{% trans "Search Text" %}</label>
+          {{ form.search_text }}
         </div>
       </div>
-      <div class="col-sm">
-        <div class="form-group">
-          <label class="form-label" for="{{ form.type.id_for_label }}">Type</label>
-          {{ form.type }}
-        </div>
-      </div>
-      <div class="col-sm">
-        <label class="form-label" for="{{ form.search_type.id_for_label }}">Search Type</label>
-          {{ form.search_type }}
-      </div>
-      <div class="col-sm">
-        <label class="form-label" for="{{ form.search_text.id_for_label }}">Search Text</label>
-        {{ form.search_text }}
-      </div>
-    </div>
+    </form>
     <!-- SET // END -->
 
     <div class="row justify-content-end mb30">
       <button type="button" class="btn btn-accent mr8" onclick="redirect('/admin/quiz/regist')">
         <i class="material-icons icon--left">add</i>
-        ADD
+        {% trans "ADD" %}
       </button>
       <button type="button" class="btn btn-primary">
         <i class="material-icons icon--left">search</i>
-        Search
+        {% trans "Search" %}
       </button>
     </div>
 
@@ -55,19 +58,19 @@
       <table class="table table-bordered">
         <thead class="thead-light">
           <tr>
-            <th>id</th>
-            <th>level</th>
-            <th>type</th>
-            <th>quiz</th>
-            <th>hangul</th>
-            <th>right answer</th>
-            <th>wrong answer1</th>
-            <th>wrong answer2</th>
-            <th>wrong answer3</th>
-            <th>point</th>
-            <th>user</th>
-            <th>created_at</th>
-            <th>updated_at</th>
+            <th>{% trans "ID" %}</th>
+            <th>{% trans "Level" %}</th>
+            <th>{% trans "Type" %}</th>
+            <th>{% trans "Quiz" %}</th>
+            <th>{% trans "Hangul" %}</th>
+            <th>{% trans "Right Answer" %}</th>
+            <th>{% trans "Wrong Anser" %}1</th>
+            <th>{% trans "Wrong Anser" %}2</th>
+            <th>{% trans "Wrong Anser" %}3</th>
+            <th>{% trans "Point" %}</th>
+            <th>{% trans "Username" %}</th>
+            <th>{% trans "created" %}</th>
+            <th>{% trans "updated" %}</th>
           </tr>
         </thead>
         <tbody>

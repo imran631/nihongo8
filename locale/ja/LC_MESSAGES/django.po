@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-07 16:35+0900\n"
+"POT-Creation-Date: 2020-06-07 23:27+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: .\backend\djangoapps\auth\forms.py:19 .\backend\djangoapps\auth\forms.py:73
+#: .\backend\djangoapps\auth\forms.py:19 .\backend\djangoapps\auth\forms.py:65
 msgid "Please enter your ID."
 msgstr "アカウントを入力してください。"
 
@@ -26,23 +26,18 @@ msgstr "アカウントを入力してください。"
 msgid "ID already exists."
 msgstr "アカウントはすでに存在します。"
 
-#: .\backend\djangoapps\auth\forms.py:30 .\backend\djangoapps\auth\forms.py:94
+#: .\backend\djangoapps\auth\forms.py:30 .\backend\djangoapps\auth\forms.py:82
 msgid "Please enter your Email."
 msgstr "メールアドレスを入力してください。"
 
-#: .\backend\djangoapps\auth\forms.py:37 .\backend\djangoapps\auth\forms.py:80
-#: .\backend\djangoapps\auth\forms.py:108
+#: .\backend\djangoapps\auth\forms.py:37 .\backend\djangoapps\auth\forms.py:72
+#: .\backend\djangoapps\auth\forms.py:92
 msgid "Please enter your Password."
 msgstr "パスワードを入力してください。"
 
-#: .\backend\djangoapps\auth\forms.py:44
-#: .\backend\djangoapps\auth\forms.py:115
+#: .\backend\djangoapps\auth\forms.py:44 .\backend\djangoapps\auth\forms.py:99
 msgid "Please enter your Password Check."
 msgstr "パスワード確認を入力してください。"
-
-#: .\backend\djangoapps\auth\forms.py:49 .\backend\models.py:43
-msgid "no license"
-msgstr "資格なし"
 
 #: .\backend\djangoapps\auth\mixin.py:29
 msgid "[日本語８] Member registration confirmation mail"
@@ -118,6 +113,52 @@ msgid "The link has expired. If you want to change it, send an email again."
 msgstr ""
 "リンクが満了しました。 パスワードの変更を希望する場合は、もう一度メールを送信"
 "してください。"
+
+#: .\backend\djangoapps\manage\forms.py:15
+#: .\backend\templates\backend\manage\word\list.html:63
+msgid "Kanji"
+msgstr "漢字"
+
+#: .\backend\djangoapps\manage\forms.py:16
+#: .\backend\templates\backend\manage\word\list.html:64
+msgid "Hiragana"
+msgstr "ひらがな"
+
+#: .\backend\djangoapps\manage\forms.py:17
+#: .\backend\templates\backend\manage\word\list.html:65
+msgid "Katakana"
+msgstr "かたかな"
+
+#: .\backend\djangoapps\manage\forms.py:18
+#: .\backend\djangoapps\manage\forms.py:54
+#: .\backend\templates\backend\manage\quiz\list.html:63
+#: .\backend\templates\backend\manage\word\list.html:66
+msgid "Hangul"
+msgstr "韓国語"
+
+#: .\backend\djangoapps\manage\forms.py:53
+#: .\backend\templates\backend\manage\quiz\list.html:62
+msgid "Quiz"
+msgstr "クイズ"
+
+#: .\backend\djangoapps\manage\forms.py:55
+msgid "Right answer"
+msgstr "正解"
+
+#: .\backend\djangoapps\manage\forms.py:56
+#: .\backend\templates\backend\manage\quiz\list.html:68
+msgid "Point"
+msgstr "ポイント"
+
+#: .\backend\djangoapps\manage\forms.py:91
+#: .\backend\templates\backend\manage\problem\list.html:67
+msgid "Title"
+msgstr "タイトル"
+
+#: .\backend\djangoapps\manage\forms.py:92
+#: .\backend\templates\backend\manage\problem\list.html:68
+msgid "Content"
+msgstr "内容"
 
 #: .\backend\models.py:7
 msgid "Naming word"
@@ -199,6 +240,14 @@ msgstr "読解 - 主張理解"
 msgid "Reading - Information Search"
 msgstr "読解 - 情報検索"
 
+#: .\backend\models.py:43
+msgid "no license"
+msgstr "資格なし"
+
+#: .\backend\models.py:52 .\backend\models.py:55 .\backend\models.py:58
+msgid "ALL"
+msgstr "全て"
+
 #: .\backend\templates\backend\auth\login.html:10
 #: .\backend\templates\backend\auth\login.html:39
 #: .\backend\templates\backend\auth\regist.html:44
@@ -208,6 +257,9 @@ msgstr "ログイン"
 
 #: .\backend\templates\backend\auth\login.html:27
 #: .\backend\templates\backend\auth\regist.html:20
+#: .\backend\templates\backend\manage\problem\list.html:63
+#: .\backend\templates\backend\manage\quiz\list.html:59
+#: .\backend\templates\backend\manage\word\list.html:61
 msgid "ID"
 msgstr "アカウント"
 
@@ -300,6 +352,95 @@ msgstr "リンクは24時間有効です。"
 #: .\backend\templates\backend\email\reset_template.html:12
 msgid "We sending you a link to change your password."
 msgstr "パスワードを変更できるリンクをお送りします。"
+
+#: .\backend\templates\backend\manage\problem\list.html:10
+msgid "Problem Management"
+msgstr "問題管理"
+
+#: .\backend\templates\backend\manage\problem\list.html:23
+#: .\backend\templates\backend\manage\problem\list.html:64
+#: .\backend\templates\backend\manage\quiz\list.html:23
+#: .\backend\templates\backend\manage\quiz\list.html:60
+#: .\backend\templates\backend\manage\word\list.html:23
+msgid "Level"
+msgstr "レベル"
+
+#: .\backend\templates\backend\manage\problem\list.html:29
+#: .\backend\templates\backend\manage\problem\list.html:65
+#: .\backend\templates\backend\manage\quiz\list.html:29
+#: .\backend\templates\backend\manage\quiz\list.html:61
+#: .\backend\templates\backend\manage\word\list.html:29
+#: .\backend\templates\backend\manage\word\list.html:62
+msgid "Type"
+msgstr "タイプ"
+
+#: .\backend\templates\backend\manage\problem\list.html:34
+msgid "Difficult"
+msgstr "難易度"
+
+#: .\backend\templates\backend\manage\problem\list.html:38
+#: .\backend\templates\backend\manage\quiz\list.html:34
+#: .\backend\templates\backend\manage\word\list.html:35
+msgid "Search Type"
+msgstr "検索タイプ"
+
+#: .\backend\templates\backend\manage\problem\list.html:42
+#: .\backend\templates\backend\manage\quiz\list.html:38
+#: .\backend\templates\backend\manage\word\list.html:40
+msgid "Search Text"
+msgstr "検索内容"
+
+#: .\backend\templates\backend\manage\problem\list.html:51
+#: .\backend\templates\backend\manage\problem\list.html:55
+#: .\backend\templates\backend\manage\quiz\list.html:47
+#: .\backend\templates\backend\manage\word\list.html:49
+#: .\backend\templates\backend\manage\word\list.html:53
+msgid "ADD"
+msgstr "追加"
+
+#: .\backend\templates\backend\manage\problem\list.html:66
+msgid "Dfficult"
+msgstr "難易度"
+
+#: .\backend\templates\backend\manage\problem\list.html:69
+#: .\backend\templates\backend\manage\quiz\list.html:69
+#: .\backend\templates\backend\manage\word\list.html:67
+msgid "Username"
+msgstr "名前"
+
+#: .\backend\templates\backend\manage\problem\list.html:70
+#: .\backend\templates\backend\manage\quiz\list.html:70
+#: .\backend\templates\backend\manage\word\list.html:68
+msgid "created"
+msgstr "生成日時"
+
+#: .\backend\templates\backend\manage\problem\list.html:71
+#: .\backend\templates\backend\manage\quiz\list.html:71
+#: .\backend\templates\backend\manage\word\list.html:69
+msgid "updated"
+msgstr "受精日時"
+
+#: .\backend\templates\backend\manage\quiz\list.html:10
+msgid "Quiz Management"
+msgstr "クイズ管理"
+
+#: .\backend\templates\backend\manage\quiz\list.html:51
+msgid "Search"
+msgstr "検索"
+
+#: .\backend\templates\backend\manage\quiz\list.html:64
+msgid "Right Answer"
+msgstr "正解"
+
+#: .\backend\templates\backend\manage\quiz\list.html:65
+#: .\backend\templates\backend\manage\quiz\list.html:66
+#: .\backend\templates\backend\manage\quiz\list.html:67
+msgid "Wrong Anser"
+msgstr "誤答"
+
+#: .\backend\templates\backend\manage\word\list.html:10
+msgid "Word Management"
+msgstr "単語管理"
 
 #: .\main\settings.py:110
 msgid "Korean"

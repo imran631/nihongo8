@@ -5,6 +5,7 @@ from django.utils.translation import gettext_lazy as _
 
 from backend.models import JLPT_SEARCH_CHOICES, TYPE_SEARCH_CHOICES, QUIZ_SEARCH_CHOICES
 
+
 logger = logging.getLogger(__name__)
 
 
@@ -88,15 +89,16 @@ class ProblemForm(forms.Form):
 
     WORD_SEARCH_CHOICES = [
         ('title', _('Title')),
-        ('content', _('Content')),
+        ('content', _('Content'))
     ]
 
     DIFFICULT_SEARCH_CHOICES = [
+        ('', _('ALL')),
         (1, '★'),
         (2, '★★'),
         (3, '★★★'),
         (4, '★★★★'),
-        (5, '★★★★★'),
+        (5, '★★★★★')
     ]
 
     level = forms.ChoiceField(
