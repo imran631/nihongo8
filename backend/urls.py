@@ -1,12 +1,19 @@
 from django.urls import path
 
-from backend.djangoapps.auth.views import RegistView, LoginView, ResetView, ResetPasswordView, ActiveView, LanguageView
+from backend.djangoapps.auth.views import (
+    RegistView, LoginView, ResetView, ResetPasswordView, ActiveView, LanguageView
+)
+from backend.djangoapps.manage.views import (
+    WordView, WordMoidfyView, WordAddView,
+    QuizView, QuizModifyView, QuizAddView,
+    ProblemView, ProblemMoidfyView, ProblemAddView
+)
 from . import views
 
 
 urlpatterns = [
-    path('', views.index, name='index'),
 
+    # Updated
     path('login', LoginView.as_view()),
     path('regist', RegistView.as_view()),
     path('active', ActiveView.as_view()),
@@ -14,14 +21,21 @@ urlpatterns = [
     path('reset_password', ResetPasswordView.as_view()),
     path('language', LanguageView.as_view()),
 
-    path('jlpt', views.jlpt, name='jlpt'),
+    path('manage/word/list', WordView.as_view()),
+    path('manage/word/modify', WordMoidfyView.as_view()),
+    path('manage/word/add', WordAddView.as_view()),
 
-    path('manage/core', views.admin_core, name='admin_core'),
-    path('manage/core/regist', views.admin_core_regist, name='admin_core_regist'),
-    path('manage/quiz', views.admin_quiz, name='admin_quiz'),
-    path('manage/quiz/regist', views.admin_quiz_regist, name='admin_quiz_regist'),
-    path('manage/problem', views.admin_problem, name='admin_problem'),
-    path('manage/problem/regist', views.admin_problem_regist, name='admin_problem_regist'),
+    path('manage/quiz/list', QuizView.as_view()),
+    path('manage/quiz/modify', QuizModifyView.as_view()),
+    path('manage/quiz/add', QuizAddView.as_view()),
+
+    path('manage/problem/list', ProblemView.as_view()),
+    path('manage/problem/modify', ProblemMoidfyView.as_view()),
+    path('manage/problem/add', ProblemAddView.as_view()),
+
+    # Update target
+    path('', views.index, name='index'),
+    path('jlpt', views.jlpt, name='jlpt'),
 
     path('problem/list', views.problem_list, name='problem_list'),
     path('problem/detail', views.problem_detail, name='problem_detail'),

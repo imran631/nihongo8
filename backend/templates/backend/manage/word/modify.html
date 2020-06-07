@@ -6,7 +6,7 @@
     <div class="container page__container d-flex flex-column flex-md-row align-items-center text-center text-sm-left">
       <div class="flex d-flex flex-column flex-sm-row align-items-center mb-24pt mb-md-0">
         <div class="mb-24pt mb-sm-0 mr-sm-24pt">
-          <h2 class="mb-0">단어 관리</h2>
+          <h2 class="mb-0">단어 등록</h2>
         </div>
       </div>
     </div>
@@ -14,6 +14,17 @@
 </div>
 <div class="page-section border-bottom-2 mh700">
   <div class="container page__container">
+
+    <div class="row justify-content-end mb30">
+      <button type="button" class="btn btn-secondary mr8" onclick="redirect('/admin/core')">
+        <i class="material-icons icon--left">arrow_back</i>
+        목록으로
+      </button>
+      <button type="button" class="btn btn-dark mr8">
+        <i class="material-icons icon--left">add</i>
+        추가
+      </button>
+    </div>
 
     <!-- is-valid -->
     <!-- is-invalid -->
@@ -24,7 +35,6 @@
         <div class="form-group">
           <label class="form-label" for="custom-select">단어수준</label>
           <select id="custom-select" class="form-control custom-select">
-            <option value="">전체</option>
             <option value="0">시험 외</option>
             <option value="1">JLPT N1</option>
             <option value="2">JLPT N2</option>
@@ -38,7 +48,6 @@
         <div class="form-group">
           <label class="form-label" for="custom-select">형식</label>
           <select id="custom-select" class="form-control custom-select">
-            <option value="">전체</option>
             <option value="N">명사</option>
             <option value="V">동사</option>
             <option value="E">い형용사</option>
@@ -72,59 +81,15 @@
         <div class="invalid-feedback">Please provide a last name.</div>
         <div class="valid-feedback">Looks good!</div>
       </div>
+      <button type="button" class="btn btn-outline-secondary mt28 h35">제외</button>
     </div>
     <!-- SET // END -->
 
     <div class="row justify-content-end mb30">
-      <button type="button" class="btn btn-accent mr8" onclick="redirect('/admin/core/regist')">
-        <i class="material-icons icon--left">add</i>
-        추가
-      </button>
       <button type="button" class="btn btn-primary">
-        <i class="material-icons icon--left">search</i>
-        검색
+        <i class="material-icons icon--left">done</i>
+        저장
       </button>
-    </div>
-
-    <div class="bg-fff">
-      <table class="table table-bordered">
-        <thead class="thead-light">
-          <tr>
-            <th class="tac" scope="col">PK</th>
-            <th class="tac" scope="col">형식</th>
-            <th class="tac" scope="col">한자</th>
-            <th class="tac" scope="col">히라가나</th>
-            <th class="tac" scope="col">카타카나</th>
-            <th class="tac" scope="col">한글</th>
-            <th class="tac w130" scope="col">등록일시</th>
-            <th class="tac w120" scope="col">수정</th>
-            <th class="tac w120" scope="col">삭제</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="tac">1</td>
-            <td>명사</td>
-            <td>愛想</td>
-            <td>あいそ</td>
-            <td></td>
-            <td>애상</td>
-            <td class="tac">2020/05/30 00:13</td>
-            <th>
-              <button type="button" class="btn btn-outline-primary">
-                <i class="material-icons icon--left">cached</i>
-                수정
-              </button>
-            </th>
-            <th>
-              <button type="button" class="btn btn-outline-accent">
-                <i class="material-icons icon--left">delete</i>
-                삭제
-              </button>
-            </th>
-          </tr>
-        </tbody>
-      </table>
     </div>
 
   </div>

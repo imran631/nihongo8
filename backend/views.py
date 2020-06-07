@@ -6,6 +6,11 @@ def index(request):
     return render(request, 'backend/index/index.html', context)
 
 
+def jlpt(request):
+    context = {}
+    return render(request, 'backend/jlpt/jlpt.html', context)
+
+
 def mypage(request):
     context = {}
     return render(request, 'backend/mypage/mypage.html', context)
@@ -14,41 +19,6 @@ def mypage(request):
 def mypage_modify(request):
     context = {}
     return render(request, 'backend/mypage/mypage_modify.html', context)
-
-
-def jlpt(request):
-    context = {}
-    return render(request, 'backend/jlpt/jlpt.html', context)
-
-
-def admin_core(request):
-    context = {}
-    return render(request, 'backend/admin/core.html', context)
-
-
-def admin_core_regist(request):
-    context = {}
-    return render(request, 'backend/admin/core_regist.html', context)
-
-
-def admin_quiz(request):
-    context = {}
-    return render(request, 'backend/admin/quiz.html', context)
-
-
-def admin_quiz_regist(request):
-    context = {}
-    return render(request, 'backend/admin/quiz_regist.html', context)
-
-
-def admin_problem(request):
-    context = {}
-    return render(request, 'backend/admin/problem.html', context)
-
-
-def admin_problem_regist(request):
-    context = {}
-    return render(request, 'backend/admin/problem_regist.html', context)
 
 
 def problem_list(request):

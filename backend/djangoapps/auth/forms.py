@@ -6,7 +6,7 @@ from django.contrib.auth.forms import UserCreationForm, SetPasswordForm
 from django.utils.translation import gettext_lazy as _
 
 from backend.djangoapps.auth.validators import not_in_admin, min_username
-
+from backend.models import JLPT_CHOICES
 
 logger = logging.getLogger(__name__)
 
@@ -45,14 +45,6 @@ class RegistForm(UserCreationForm):
         })
     )
 
-    JLPT_CHOICES = (
-        ('N0', _('no license')),
-        ('N5', 'JLPT N5'),
-        ('N4', 'JLPT N4'),
-        ('N3', 'JLPT N3'),
-        ('N2', 'JLPT N2'),
-        ('N1', 'JLPT N1')
-    )
     jlpt = forms.ChoiceField(
         widget=forms.Select(attrs={
             'class': "form-control custom-select"
@@ -81,10 +73,6 @@ class LoginForm(forms.Form):
         })
     )
 
-    class Meta:
-        model = User
-        fields = ('username', 'password')
-
 
 class ResetForm(forms.Form):
 
@@ -94,10 +82,6 @@ class ResetForm(forms.Form):
             'placeholder': _('Please enter your Email.')
         })
     )
-
-    class Meta:
-        model = User
-        fields = ('email')
 
 
 class ResetPasswordForm(SetPasswordForm):

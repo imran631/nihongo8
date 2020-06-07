@@ -3,25 +3,25 @@ from django.contrib.auth.models import User
 from django.utils.translation import gettext_lazy as _
 
 
-TYPE_CHOICES = (
+TYPE_CHOICES = [
     ('N', _('Naming word')),
     ('V', _('Verb')),
     ('ADJI', _('adjective I')),
     ('ADJN', _('adjective N')),
     ('ADV', _('adverb')),
     ('ETC', _('ETC'))
-)
+]
 
-LEVEL_CHOICES = (
+LEVEL_CHOICES = [
     ('N1', 'JLPT N1'),
     ('N2', 'JLPT N2'),
     ('N3', 'JLPT N3'),
     ('N4', 'JLPT N4'),
     ('N5', 'JLPT N5'),
     ('ETC', _('ETC'))
-)
+]
 
-QUIZ_CHOICES = (
+QUIZ_CHOICES = [
     ('LKR', _('Language - Kanji Read')),
     ('LKF', _('Language - Kanji Find')),
     ('LGR', _('Language - Grammar Rule')),
@@ -37,16 +37,26 @@ QUIZ_CHOICES = (
     ('ROU', _('Reading - Opinion understanding')),
     ('RIS', _('Reading - Information Search')),
     ('ETC', _('ETC'))
-)
+]
 
-JLPT_CHOICES = (
+JLPT_CHOICES = [
     ('N0', _('no license')),
     ('N5', 'JLPT N5'),
     ('N4', 'JLPT N4'),
     ('N3', 'JLPT N3'),
     ('N2', 'JLPT N2'),
     ('N1', 'JLPT N1')
-)
+]
+
+JLPT_SEARCH_CHOICES = LEVEL_CHOICES
+JLPT_SEARCH_CHOICES.insert(0, ('', _('ALL')))
+
+TYPE_SEARCH_CHOICES = TYPE_CHOICES
+TYPE_SEARCH_CHOICES.insert(0, ('', _('ALL')))
+
+QUIZ_SEARCH_CHOICES = QUIZ_CHOICES
+QUIZ_SEARCH_CHOICES.insert(0, ('', _('ALL')))
+
 
 class UserProfile(models.Model):
 
@@ -104,7 +114,7 @@ class QuizGroup(models.Model):
 
 class Quiz(models.Model):
 
-    quiz_group = models.ForeignKey(QuizGroup, on_delete=models.CASCADE)
+    level = models.CharField(max_length=6, choices=LEVEL_CHOICES, default='ETC')
     type = models.CharField(max_length=6, choices=QUIZ_CHOICES, default='ETC')
     quiz = models.CharField(max_length=255, blank=True, null=True)
     hangul = models.CharField(max_length=255, blank=True, null=True)
@@ -121,11 +131,10 @@ class QuizUnit(models.Model):
     quiz = models.ForeignKey(Quiz, on_delete=models.CASCADE)
     unit = models.CharField(max_length=255, blank=True, null=True)
     hangul = models.CharField(max_length=255, blank=True, null=True)
-    problem1 = models.CharField(max_length=255)
-    problem2 = models.CharField(max_length=255)
-    problem3 = models.CharField(max_length=255)
-    problem4 = models.CharField(max_length=255)
-    solve = models.CharField(max_length=255)
+    right_answer = models.CharField(max_length=255)
+    wrong_answer1 = models.CharField(max_length=255)
+    wrong_answer2 = models.CharField(max_length=255)
+    wrong_answer3 = models.CharField(max_length=255)
     solution = models.CharField(max_length=255, blank=True, null=True)
     point = models.IntegerField(default=0)
     user = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)
