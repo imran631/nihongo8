@@ -50,42 +50,30 @@
         <i class="material-icons icon--left">add</i>
         {% trans "ADD" %}
       </button>
-      <button type="button" class="btn btn-primary">
+      <button type="button" class="btn btn-primary" onclick="search()">
         <i class="material-icons icon--left">search</i>
         {% trans "Search" %}
       </button>
     </div>
 
-    <div class="bg-fff">
-      <table class="table table-bordered" id="dt_table">
-        <thead class="thead-light">
-          <tr>
-            <th>{% trans "ID" %}</th>
-            <th>{% trans "Type" %}</th>
-            <th>{% trans "Kanji" %}</th>
-            <th>{% trans "Hiragana" %}</th>
-            <th>{% trans "Katakana" %}</th>
-            <th>{% trans "Hangul" %}</th>
-            <th>{% trans "Username" %}</th>
-            <th>{% trans "created" %}</th>
-            <th>{% trans "updated" %}</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1</td>
-            <td>명사</td>
-            <td>愛想</td>
-            <td>あいそ</td>
-            <td></td>
-            <td>애상</td>
-            <td>93immm</td>
-            <td>2020-01-01 00:00</td>
-            <td>2020-01-01 00:00</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+    <table class="table table-bordered bg-fff" id="dt_table">
+      <thead class="thead-light">
+        <tr>
+          <th>{% trans "ID" %}</th>
+          <th>{% trans "Level" %}</th>
+          <th>{% trans "Type" %}</th>
+          <th>{% trans "Kanji" %}</th>
+          <th>{% trans "Hiragana" %}</th>
+          <th>{% trans "Katakana" %}</th>
+          <th>{% trans "Hangul" %}</th>
+          <th>{% trans "Username" %}</th>
+          <th>{% trans "created" %}</th>
+          <th>{% trans "updated" %}</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
 
   </div>
 </div>
@@ -93,6 +81,10 @@
 
 {% block js %}
 <script>
+function search(){
+   datatable.ajax.reload();
+}
+
 var datatable = $('#dt_table').DataTable({
   dom: '<"top"Blf>rtp<"bottom"i>',
   paging: true,
@@ -122,6 +114,7 @@ var datatable = $('#dt_table').DataTable({
   },
   columns: [
     {data: "id", name: "id"},
+    {data: "level", name: "id"},
     {data: "type", name: "id"},
     {data: "kanji", name: "id"},
     {data: "hiragana", name: "id"},
@@ -198,6 +191,14 @@ var datatable = $('#dt_table').DataTable({
     },
     {
       targets: 8,
+      visible: true,
+      orderable: true,
+      render: function (data) {
+        return data;
+      }
+    },
+    {
+      targets: 9,
       visible: true,
       orderable: true,
       render: function (data) {

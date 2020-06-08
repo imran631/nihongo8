@@ -21,9 +21,47 @@ class WordView(View):
         return render(request, self.template_name, {'form': form})
 
     def post(self, request, *args, **kwargs):
-        words = Word.objects.filter()
-        paginator = Paginator(words, 10)
-        page_data = paginator.get_page(1)
+
+        draw = request.POST.get('draw')
+        start = request.POST.get('start')
+        length = request.POST.get('length')
+
+        level = request.POST.get('level')
+        if level == '':
+            level_list = ['N1', 'N2', 'N3', 'N4', 'N5']
+        else:
+            level_list = []
+            level_list.append(level)
+
+        type = request.POST.get('type')
+        if type == '':
+            type_list = ['N', 'V', 'ADJI', 'ADJN', 'ADV', 'ETC']
+        else:
+            type_list = []
+            type_list.append(type)
+
+        search_type = request.POST.get('search_type')
+        search_text = request.POST.get('search_text')
+        if search_type == 'kanji' and search_text != '':
+            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(kanji__contains=search_text)
+        elif search_type == 'hiragana' and search_text != '':
+            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(hiragana__contains=search_text)
+        elif search_type == 'katakana' and search_text != '':
+            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(katakana__contains=search_text)
+        elif search_type == 'hangul' and search_text != '':
+            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(hangul__contains=search_text)
+        else:
+            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list)
+
+        print('start => ', start)
+        print('length => ', length)
+
+        page = (int(start) + int(length)) / int(length)
+        paginator = Paginator(words, length)
+
+        print('page => ', page)
+
+        page_data = paginator.get_page(page)
         dt_data = []
         for data in page_data:
             tmp = data.__dict__
@@ -32,7 +70,7 @@ class WordView(View):
         return JsonResponse({
             "recordsTotal": len(words),
             "recordsFiltered": len(words),
-            "draw": 1,
+            "draw": draw,
             "data": dt_data
         })
 
