@@ -23,44 +23,32 @@ class WordView(View):
     def post(self, request, *args, **kwargs):
 
         draw = request.POST.get('draw')
-        start = request.POST.get('start')
-        length = request.POST.get('length')
+        start = int(request.POST.get('start'))
+        length = int(request.POST.get('length'))
 
         level = request.POST.get('level')
-        if level == '':
-            level_list = ['N1', 'N2', 'N3', 'N4', 'N5']
-        else:
-            level_list = []
-            level_list.append(level)
-
         type = request.POST.get('type')
-        if type == '':
-            type_list = ['N', 'V', 'ADJI', 'ADJN', 'ADV', 'ETC']
-        else:
-            type_list = []
-            type_list.append(type)
-
         search_type = request.POST.get('search_type')
         search_text = request.POST.get('search_text')
-        if search_type == 'kanji' and search_text != '':
-            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(kanji__contains=search_text)
-        elif search_type == 'hiragana' and search_text != '':
-            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(hiragana__contains=search_text)
-        elif search_type == 'katakana' and search_text != '':
-            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(katakana__contains=search_text)
-        elif search_type == 'hangul' and search_text != '':
-            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(hangul__contains=search_text)
-        else:
-            words = Word.objects.filter(level__in=level_list).filter(type__in=type_list)
 
-        print('start => ', start)
-        print('length => ', length)
+        order_column = int(request.POST.get('order[0][column]'))
+        order_dir = request.POST.get('order[0][dir]')
+        order_name = request.POST.getlist('nameList[]')
 
-        page = (int(start) + int(length)) / int(length)
+        if order_dir == 'desc': order_dir = '-'
+        else: order_dir = ''
+
+        if level == '': level_list = ['N1', 'N2', 'N3', 'N4', 'N5']
+        else: level_list = [level]
+
+        if type == '': type_list = ['N', 'V', 'ADJI', 'ADJN', 'ADV', 'ETC']
+        else: type_list = [type]
+
+        kwargs = { '{0}__{1}'.format(search_type, 'contains'): search_text }
+        words = Word.objects.filter(level__in=level_list).filter(type__in=type_list).filter(**kwargs).order_by(order_dir + order_name[order_column])
+
+        page = (start + length) / length
         paginator = Paginator(words, length)
-
-        print('page => ', page)
-
         page_data = paginator.get_page(page)
         dt_data = []
         for data in page_data:

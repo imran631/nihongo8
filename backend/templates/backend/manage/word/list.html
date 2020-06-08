@@ -105,24 +105,27 @@ var datatable = $('#dt_table').DataTable({
     type: "POST",
     dataType: "json",
     data: function(data) {
+      var nameList = []
+      data.columns.forEach(function (el) { nameList.push(el.name) });
       var $form = $("#search_form");
       var search_data = getFormData($form);
       data = Object.assign(data, search_data);
       data.csrfmiddlewaretoken = $('#csrf_token').val();
+      data.nameList = nameList;
       return data;
     },
   },
   columns: [
     {data: "id", name: "id"},
-    {data: "level", name: "id"},
-    {data: "type", name: "id"},
-    {data: "kanji", name: "id"},
-    {data: "hiragana", name: "id"},
-    {data: "katakana", name: "id"},
-    {data: "hangul", name: "id"},
-    {data: "user_id", name: "id"},
-    {data: "created_at", name: "id"},
-    {data: "updated_at", name: "id"}
+    {data: "level", name: "level"},
+    {data: "type", name: "type"},
+    {data: "kanji", name: "kanji"},
+    {data: "hiragana", name: "hiragana"},
+    {data: "katakana", name: "katakana"},
+    {data: "hangul", name: "hangul"},
+    {data: "user_id", name: "user_id"},
+    {data: "created_at", name: "created_at"},
+    {data: "updated_at", name: "updated_at"}
   ],
   columnDefs: [
     {
