@@ -18,7 +18,7 @@ windows
 ```
 venv\Scripts\activate.bat
 ```
-and Install the module
+and Install the module using cmd
 ```
 pip install -r requirements.txt
 ```
